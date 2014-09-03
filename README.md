@@ -1,2 +1,2 @@
-gallatin
+Gallatin
 ========
