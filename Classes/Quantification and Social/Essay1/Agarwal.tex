@@ -1,18 +1,43 @@
-\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
-\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\documentclass[11pt, oneside]{article}   	
+\usepackage{geometry}                		
 \geometry{letterpaper}
 \usepackage{graphicx}	
 \usepackage{amssymb}
+\usepackage{epigraph}
 
-\title{Quetelet}
+% \epigraphsize{\small}% Default
+\setlength\epigraphwidth{15cm}
+\setlength\epigraphrule{0pt}
+
+\usepackage{etoolbox}
+
+\makeatletter
+\patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
+\makeatother
+
+\title{A treatise on man and the development of his faculties}
 \author{Abhi Agarwal}
 \date{}							
 
 \begin{document}
 \maketitle
-%\section{}
-%\subsection{}
 
+\par In summary, Quet\'{e}let outlines his concept of the `average man', and his pursuit to study the movements of man by looking at causes, patterns, and data, and using them to suggest patterns. He was interested in defining a certain group of characteristics around the `average man' and then fitting a distribution around those characteristics to use to make predictions about them\footnote{The concentration of my essay lies within pages 73 and 75.}. Physical characteristics can be measured as they can be represented through some medium or through some unit, but the moral and intellectual characteristics are hard to express using the same measure. 
 
+\epigraph{``... after having seen both the individuals in question in action, we think one inferior to the other, without having being able to form an exact estimate of their degree of courage. Here we see how arbitrary this is, and how much such estimates are matters of debate.''}{--- \textup{M. A. Quet\'{e}let}, A Treatise on Man, page 73} 
+
+\par You can observe certain characteristics of an `average man', but those observations are subjective and hard to quantify. The characteristics in question are those that cannot be directly measured by physical instruments, such as courage, confidence, etc. It's simple to compare something that has came as a result of your characteristic, such as in this extract, doing 500 acts of courage, which is the product of being courageous, but it is hard to compare courage itself. In addition, it's difficult to use these acts of courage as a comparison to one another as each act is different, and comparing unique events brings in complexity, such as comparing the difficulty of the acts performed. Quet\'{e}let proposes to `[place] two men in equally favorable circumstances to display their bravery and courage', which seems the fairest way to compare two such characteristics, but it must be done between each pair of men to avoid any comparison. To formulate the average man you've to find the `average' courage, and find characteristics  that makes a man courageous, which is another question in itself. 
+
+\par In addition, it's extremely difficult to place men to display their bravery and courage as it becomes a place to compete with your strength, and other characteristics that underlie it rather than your bravery and courage. It's extremely difficult to measure courage by placing people in a competition as courage can be any feet and doesn't necessarily have to do with strength or mental ability even though it might be associated with those things. Courage or crime can be events that individuals do with the lack of strength. Courage can be situational or can come out of willingness to help someone or do something. In order to find the characteristics that make a man courageous we've to look at the events that make him courageous. If we're not trying to compare individuals by doing a standardized competition then we've to compare him by looking at how he has performed using that particular characteristic in the past, and I think it's what  Quet\'{e}let implies by using examples of past crimes that individuals have done. 
+
+\epigraph{``Every thing being equal, the calculation of probabilities shows, that in the direct ratio to the number of individuals observed, we approach the nearer to the truth.''}{--- \textup{M. A. Quet\'{e}let}, A Treatise on Man, page 7} 
+
+\par When comparing two individuals in certain characteristics it becomes hard to compare just the ratio of their accomplishments, but to accurately measure the characteristics you've to look at a lot more characteristics. For example, for the example to express how much courage an individual shows, we have to take a couple sample events where he displayed this courage, and we would need to break each event down into questions such as: what was the event, how did the individual react, and was his life at risk during this event. If we are able to create a framework to rank each individual using these questions then we're able to make a comparison, and the quote given by Quet\'{e}let above holds. Therefore, attempting to compare individuals by how many courages acts they've done wouldn't necessarily show you which one is more courageous - it fails to consider how courageous each of those events are, and we've to solve that bias by answering those questions about the events and embedding that in the ratios.
+
+\par If we tie both of the points and quotations above the analysis shows what I believe to be the point he is making. It's hard for us to measure a moral or intellectual quality of man, but if we break down those certain qualities into things we can measure and build a framework upon then given enough data we will approach a truth which we're able to derive something from. Then we can compare individuals based on those characteristics by ``[determining] the ratios, and not the absolute values'' (Quet\'{e}let, 73) of those qualities.
+
+\par However, there are limitations to the theory he applies. These characteristics are limited to ones that can be situational and can be viewed by people as happening as a pose to be a feeling. Quoting Quet\'{e}let ``[they] may approach me for engaging in absurd speculations, and with inquiring into measures where things do not admit of being measured" (Quet\'{e}let, 9). We must determine the types of qualities within the moral and intellectual characteristics of a man. Within intellectual qualities we can define humility, fair-mindedness, empathy, reason, and much more, and within moral we can explore patience, respect, empathy, sense of civi duty, self-respect, and more. These are all characteristics that can be explored by the same reasoning as explored above, but this and physical qualities of man are the two things we can measure using some quantitative way. In order to represent an average man we must also be able to find an expressive way to average feeling and emotion, which I think is a limitation to the developing an average man quantitatively. 
+
+\par In conclusion, I think these quotations represent his views on characteristics of the average man that can't be directly measured. He expresses that the given moral and intellectual qualities of man is hard to quantify, but can be quantified given a medium of expression and a framework to express them using. The framework he proposes is to compare individuals using events linked to those characteristics and use a ratio to see which individual is better at it. Moreover, the characteristic of courage can be substituted for any characteristic, which can't be measured physically, but even then there are a couple limitations. If we bypass this limitation we are able to approximate to characterizing an `average man`.
 
 \end{document}  
