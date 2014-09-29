@@ -3,7 +3,7 @@ Gallatin
 
 # Book List
 
-# Credits remaining
+# Credits remaining (Junior Fall 2014)
 
 - Graduation: Units: 128.00 required, 94.00 taken, 34.00 needed
 - Total Gallatin Units: Units: 32.00 required, 20.00 taken, 12.00 needed
