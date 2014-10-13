@@ -5,6 +5,14 @@ Gallatin
 
 # Credits remaining (Junior Fall 2014)
 
+- What I have left (9 requirements)
+	- 3 Interdisciplinary Seminars
+	- 2 Humanities
+	- 1 Premodern
+	- 1 Early Modern
+	- 1 Global Cultures
+	- 1 Social Science
+
 - Graduation: Units: 128.00 required, 94.00 taken, 34.00 needed
 - Total Gallatin Units: Units: 32.00 required, 20.00 taken, 12.00 needed
 	- Interdisciplinary Seminars: Units: 16.00 required, 12.00 taken, 4.00 needed
