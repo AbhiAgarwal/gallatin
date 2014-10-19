@@ -3,6 +3,15 @@ Gallatin
 
 # Book List
 
+- Ancient, Medieval, and Renaissance Classics
+
+- Modernity - The Humanities
+
+- Modernity - The Social and Natural Sciences 
+
+- Area of Concentration
+	- Artificial Intelligence: A Modern Approach
+
 # Credits remaining (Junior Fall 2014)
 
 - What I have left (9 requirements)
