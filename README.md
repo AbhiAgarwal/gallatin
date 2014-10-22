@@ -15,7 +15,7 @@ Gallatin
 # Credits remaining (Junior Fall 2014)
 
 - What I have left (9 requirements)
-	- 3 Interdisciplinary Seminars
+	- 1 Interdisciplinary Seminars
 	- 2 Humanities
 	- 1 Premodern
 	- 1 Early Modern
