@@ -1,30 +1,31 @@
 \documentclass[11pt, oneside]{article}   	
 \usepackage{geometry}                		
-\geometry{letterpaper}
 \usepackage{graphicx}	
 \usepackage{amssymb}
 \usepackage{epigraph}
-
-% \epigraphsize{\small}% Default
-\setlength\epigraphwidth{15cm}
-\setlength\epigraphrule{0pt}
-
+\usepackage[doublespacing]{setspace}
 \usepackage{etoolbox}
 
+\setlength\epigraphwidth{15cm}
+\setlength\epigraphrule{0pt}
+\geometry{letterpaper} 
 \makeatletter
 \patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
 \makeatother
 
+\doublespacing
 \title{One learning algorithm}
-\author{Abhi Agarwal}
+\author{Abhi Agarwal (abhia@nyu.edu)}
 \date{}							
 
 \begin{document}
 \maketitle
 
-\par The one learning algorithm is a concept in Machine Learning that has been studied extensively by Jeff Hawkins, and in his book On Intelligence he laid out a memory-prediction framework echoing what he thinks the one learning algorithm would consist of. His framework is based upon the work done by Vernon Mountcase who shows that "all regions of the cortex are performing the same operation" (Hawkins, 51), and that ``there is a common function, a common algorithm, that is performed by all the cortical regions" (Hawkins, 51). 
+\par The one learning algorithm is a concept in machine learning and neuroscience that has been studied extensively by Jeff Hawkins, and in his book, On Intelligence, where he laid out a memory-prediction framework echoing what he thinks the one learning algorithm would consist of. His framework is based upon the work on columnar organization of the cerebral cortex done by Vernon Mountcase who shows that "all regions of the cortex [perform] the same operation" (Hawkins, 51), and that ``there is a common function, a common algorithm, that is performed by all the cortical regions" (Hawkins, 51). In essence, the one learning algorithm accurately predicts outcomes of future input sequences based on patterns that this algorithm learns from.
 
-\par Hawkins is an electrical engineer, and he hasn't had a professional degree in neuroscience. His framework approaches the problem from engineering concepts as well as a study of the research done behind the human brain to formulate his framework. He treats the network of neurons in our brain as an encoding problem, and he quotes ``All your brain knows is patterns" (Hawkins, 56).
+\par Hawkins is an electrical engineer, and hasn't had any professional experience in neuroscience. His framework approaches the problem from an engineer's perspective as well as his personal study of the research done on the cerebral cortex to formulate his framework. He treats the network of neurons in our brain as an encoding problem, and he quotes ``All your brain knows is patterns" (Hawkins, 56), which is truly how a mathematician would see it as patterns imply that some formulation could be found to connect the pattern together. He explains that our understanding of the world is based upon patterns and ``[correct] predictions result in understanding. Incorrect predictions result in confusion and prompt you to pay attention' (Hawkins, 89). 
+
+\par Hawkins key aim is to create an algorithm that mirrors how we learn, and form what he calls `true intelligence' rather than forming `artificial intelligence'. He defines intelligence as a ``[measure of the] capacity to remember and predict patterns in the world, including language, mathematics, physical properties of objects, and social situations" (Hawkins, 97).
 
 \epigraph{``All the information that enters your mind comes in as spatial and temporal patterns on the axons.''}{(Hawkins, 57)} 
 
@@ -38,11 +39,7 @@
 
 \epigraph{``The entire cortex is a memory system. It isn't a computer at all.''}{(Hawkins, 68)} 
 
-\epigraph{``Correct predictions result in understanding. Incorrect predictions result in confusion and prompt you to pay attention.''}{(Hawkins, 89)} 
-
 \epigraph{``The memory of how to catch a ball was not programmed into your brain; it was learned over years of repetitive practice, and it is stored, not calculated, in your neurons.''}{(Hawkins, 69)} 
-
-\epigraph{``Intelligence is measured by the capacity to remember and predict patterns in the world, including language, mathematics, physical properties of objects, and social situations.''}{(Hawkins, 97)} 
 
 
 \begin{thebibliography}{9}
