@@ -1,16 +1,56 @@
 Gallatin
 ========
 
+Concentration: "Engineering Creation"
+
+# Approaches
+
+- Social Darwinism for Creation
+- A.I., Robotics, Computer Vision
+
 # Book List
 
 - Ancient, Medieval, and Renaissance Classics
 
 - Modernity - The Humanities
 
-- Modernity - The Social and Natural Sciences 
+- Modernity - The Social and Natural Sciences
 
 - Area of Concentration
 	- Artificial Intelligence: A Modern Approach
+
+# Classes
+
+- Fall 2012
+	- Utopia
+	- Play and Games in Early China
+	- Economics Principles I
+	- Pop/Jazz Guitar
+- Spring 2013
+	- Pop/Jazz Guitar
+	- Dealing with Data
+	- Discrete Mathematics
+	- The Digital Commons
+	- Computer Systems Org
+- Fall 2013
+	- Machine Learning
+	- History of Higher Education
+	- Basic Algorithms
+	- Prin of Financial Acctg
+- Spring 2014
+	- Algorithmic Problem Solving
+	- Artificial Intelligence
+	- Introduction to Computer Simulations
+	- Physical Computing
+- Fall 2014
+	- Compiler Construction
+	- Computing with Large Datasets
+	- The Darwinian Revolution
+	- Quantification and Social
+- Spring 2015 (Tentative)
+	- Speech Recognition
+- Fall 2015 (Tentative)
+- Spring 2016 (Tentative)
 
 # Credits remaining (Junior Fall 2014)
 
