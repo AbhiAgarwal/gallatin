@@ -46,9 +46,10 @@ Concentration: "Engineering Creation"
 	- Compiler Construction
 	- Computing with Large Datasets
 	- The Darwinian Revolution
-	- Quantification and Social
+	- Quantification and Social Thought
 - Spring 2015 (Tentative)
 	- Speech Recognition
+	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
 - Fall 2015 (Tentative)
 - Spring 2016 (Tentative)
 
