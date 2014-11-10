@@ -1,31 +1,33 @@
-\documentclass[11pt, oneside]{article}
-\usepackage{geometry}
-\geometry{letterpaper}
-\usepackage{graphicx}
+\documentclass[11pt, oneside]{article}   	
+\usepackage{geometry}                		
+\usepackage{graphicx}	
 \usepackage{amssymb}
-\usepackage{setspace}
-\doublespacing
 \usepackage{epigraph}
-
-% \epigraphsize{\small}% Default
-\setlength\epigraphwidth{15cm}
-\setlength\epigraphrule{0pt}
-
+\usepackage[doublespacing]{setspace}
 \usepackage{etoolbox}
 
+\setlength\epigraphwidth{15cm}
+\setlength\epigraphrule{0pt}
+\geometry{letterpaper} 
 \makeatletter
 \patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
 \makeatother
 
-\title{Darwin's evolution theory and eugenics}
-\author{Abhi Agarwal}
-\date{}
+\title{Darwin's Theory of Evolution and Eugenics}
+\author{Abhi Agarwal (abhia@nyu.edu)}
+\date{}							
 
 \begin{document}
 \maketitle
 
 % Introduction
-
 \par 
 
+\begin{thebibliography}{9}
+\bibitem{1}
+  Author,
+  \emph{Book Name}.
+  New York: Henry Holt, 2005.
+  Print.
+\end{thebibliography}
 \end{document}  
