@@ -51,6 +51,7 @@ Concentration: "Engineering Creation"
 	- Speech Recognition
 	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
 	- Linear Algebra
+	- Finance for Social Theorists (SOC)
 - Fall 2015 (Tentative)
 - Spring 2016 (Tentative)
 
