@@ -35,7 +35,7 @@ Gallatin
 	- Computer Systems Org
 - Fall 2013
 	- [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
-	- History of Higher Education
+	- [History of Higher Education](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/History%20of%20Higher%20Education)
 	- Basic Algorithms
 	- Prin of Financial Acctg
 - Spring 2014
