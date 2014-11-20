@@ -1,7 +1,8 @@
 Gallatin
 ========
 
-Concentration: "Engineering Creation"
+- I try and keep open everything I do at NYU. All my classes, documentation, and thoughts I have put into my major upto my graduation.
+- Concentration: "Engineering Creation"
 
 # Approaches
 
@@ -33,20 +34,20 @@ Concentration: "Engineering Creation"
 	- The Digital Commons
 	- Computer Systems Org
 - Fall 2013
-	- Machine Learning
+	- [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
 	- History of Higher Education
 	- Basic Algorithms
 	- Prin of Financial Acctg
 - Spring 2014
-	- Algorithmic Problem Solving
-	- Artificial Intelligence
-	- Introduction to Computer Simulations
-	- Physical Computing
+	- [Algorithmic Problem Solving](https://github.com/AbhiAgarwal/classes/tree/master/Algorithmic%20Problem%20Solving)
+	- [Artificial Intelligence](https://github.com/AbhiAgarwal/classes/tree/master/Artificial%20Intelligence)
+	- [Introduction to Computer Simulations](https://github.com/AbhiAgarwal/classes/tree/master/Simulations)
+	- [Physical Computing](https://github.com/AbhiAgarwal/classes/tree/master/Physical%20Computing)
 - Fall 2014
-	- Compiler Construction
-	- Computing with Large Datasets
-	- The Darwinian Revolution
-	- Quantification and Social Thought
+	- [Compiler Construction](https://github.com/abhiagarwal/compiler)
+	- [Computing with Large Datasets](https://github.com/AbhiAgarwal/classes/tree/master/Computing%20with%20Large%20Data%20Sets)
+	- [The Darwinian Revolution](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Darwinian%20Revolution)
+	- [Quantification and Social Thought](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Quantification%20and%20Social)
 - Spring 2015 (Tentative)
 	- Speech Recognition
 	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
