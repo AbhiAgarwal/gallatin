@@ -52,7 +52,7 @@ Gallatin
 	- Speech Recognition
 	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
 	- Linear Algebra
-	- Finance for Social Theorists (SOC)
+	- Democracy and Difference (SOC)
 - Fall 2015 (Tentative)
 - Spring 2016 (Tentative)
 
