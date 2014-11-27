@@ -1,0 +1,11 @@
+In the chapter of Psychological and Mathematical approaches, Caillois comments on the fact that the word "play" (162) is perhaps merely a trap. There are psychological, mathematical, and sociological ways to understanding different games, or activities people "play" in. I disagree with the fact that only "mathematicians" study dominos (162), you can look the act behind play it both psychologically and the act of playing it in society. I also disagree with kite-flying as kite-flying is something that is analysed as a very mathematical game back in India, where in the festival of Sakranti there are people who have studied the kite mathematically, and very socially for a long time to win this. There is an element of both knowledge, competition, however the element of chance reduces as their knowledge grows. The improvement of technology since this book raises up many questions, many of the mathematical algorithms and systems that he talks about have been improved and now are world class, such as the example for chess. Moreover, the Kirkman's schoolgirl problem that he said is unsolved also is very fascinating topic he brings up, the problem suggests that there are schoolgirls who take walks in rows of three everyday, and the question is how can they be arranged so each schoolgirl walks in the same row with every other schoolgirl exactly once a week. I believe this example is fascinating is because even a problem people can perceive mathematically such as this one can be solved using tools in both sociology and psychology.
+
+Sun ABC DEF GHI JKL MNO
+Mon ADH BEK CIO FLN GJM
+Tue AEM BHN CGK DIL FJO
+Wed AFI BLO CHJ DKM EGN
+Thu AGL BDJ CFM EHO IKN
+Fri AJN BIM CEL DOG FHK
+Sat AKO BFG CDN EIJ HLM
+
+The solution to the problem is also very interesting, and this may just be the mathematical side of me, which is intrigued, but there is definitely an element of what we can use as his final conclusion of the definition of "play" in both finding the solutions and in the problem. The point I believe I got out of the problem he proposed was that sometimes even mathematics, or the sciences can be included to some degree in the word "play".

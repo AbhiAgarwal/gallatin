@@ -32,7 +32,7 @@ Gallatin
 	- Pop/Jazz Guitar
 	- Dealing with Data
 	- Discrete Mathematics
-	- The Digital Commons
+	- [The Digital Commons](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Digital%20Commons)
 	- Computer Systems Org
 - Fall 2013
 	- [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
