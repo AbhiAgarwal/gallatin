@@ -24,7 +24,7 @@ Gallatin
 # Classes
 
 - Fall 2012
-	- Utopia
+	- [Utopia](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Utopia)
 	- [Play and Games in Early China](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Play%20and%20Games%20in%20Early%20China)
 	- Economics Principles I
 	- Pop/Jazz Guitar
