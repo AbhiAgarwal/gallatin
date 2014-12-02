@@ -1,0 +1,32 @@
+\documentclass[11pt, oneside]{article}   	
+\usepackage{geometry}                		
+\usepackage{graphicx}	
+\usepackage{amssymb}
+\usepackage{epigraph}
+\usepackage[doublespacing]{setspace}
+\usepackage{etoolbox}
+
+\setlength\epigraphwidth{15cm}
+\setlength\epigraphrule{0pt}
+\geometry{letterpaper} 
+\makeatletter
+\patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
+\makeatother
+
+\title{}
+\author{Abhi Agarwal (abhia@nyu.edu)}
+\date{}
+
+\begin{document}
+\maketitle
+
+\par
+
+\begin{thebibliography}{9}
+\bibitem{1}
+  Darwin, Charles, and W. F. Bynum.
+  \emph{On the Origin of Species: By Means of Natural Selection or the Preservation of Favored Races in the Struggle for Life}.
+  London: Penguin Classics, 2009.
+  Print.
+\end{thebibliography}
+\end{document}  

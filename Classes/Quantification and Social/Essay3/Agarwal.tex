@@ -1,0 +1,33 @@
+\documentclass[11pt, oneside]{article}   	
+\usepackage{geometry}                		
+\usepackage{graphicx}	
+\usepackage{amssymb}
+\usepackage{epigraph}
+\usepackage[doublespacing]{setspace}
+\usepackage{etoolbox}
+
+\setlength\epigraphwidth{15cm}
+\setlength\epigraphrule{0pt}
+\geometry{letterpaper} 
+\makeatletter
+\patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
+\makeatother
+
+\title{}
+\author{Abhi Agarwal (abhia@nyu.edu)}
+\date{}							
+
+\begin{document}
+\maketitle
+
+% Introduction
+\par 
+
+\begin{thebibliography}{9}
+\bibitem{1}
+  Hawkins, Jeff, and Sandra Blakeslee,
+  \emph{On Intelligence}.
+  New York: Henry Holt, 2005.
+  Print.
+\end{thebibliography}
+\end{document}  
