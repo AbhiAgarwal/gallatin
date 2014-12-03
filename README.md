@@ -24,15 +24,15 @@ Gallatin
 # Classes
 
 - Fall 2012
-	- [Utopia](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Utopia)
-	- [Play and Games in Early China](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Play%20and%20Games%20in%20Early%20China)
+	- [Utopia](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Utopia) (First-Year Writing Seminar)
+	- [Play and Games in Early China](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Play%20and%20Games%20in%20Early%20China) (First-Year Interdisciplinary Seminar)
 	- Economics Principles I
 	- Pop/Jazz Guitar
 - Spring 2013
 	- Pop/Jazz Guitar
 	- Dealing with Data
 	- Discrete Mathematics
-	- [The Digital Commons](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Digital%20Commons)
+	- [The Digital Commons](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Digital%20Commons) (First-Year Research Seminar)
 	- Computer Systems Org
 - Fall 2013
 	- [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
