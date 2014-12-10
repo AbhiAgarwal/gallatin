@@ -38,7 +38,7 @@ Gallatin
 	- [Computing with Large Datasets](https://github.com/AbhiAgarwal/classes/tree/master/Computing%20with%20Large%20Data%20Sets)
 	- [The Darwinian Revolution](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Darwinian%20Revolution)
 	- [Quantification and Social Thought](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Quantification%20and%20Social)
-- Spring 2015
+- Spring 2015 (15 credits - haven't signed up yet)
 	- Speech Recognition (Tentative)
 	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
 	- Linear Algebra
@@ -53,10 +53,10 @@ Gallatin
 # Credits remaining (Junior Fall 2014)
 
 - What I have left (3 requirements)
-	- 16 Credits
-	- 1 Humanities
-	- 1 Early Modern
-	- 1 Global Cultures
+	- 16 Credits to take this semester
+	- 1 Humanities (4 credits)
+	- 1 Early Modern (4 credits)
+	- 1 Global Cultures (4 credits)
 
 - Graduation: Units: 128.00 required, 112.00 taken, 16.00 needed
 - Total Gallatin Units: Units: 32.00 required, 28.00 taken, 4.00 needed
