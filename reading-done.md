@@ -49,3 +49,90 @@
 - L. Tribe, “Trial by Mathematics: Precision and Ritual in the Legal Process,” Harv. L. Rev. 84 (1971): 1329-1393
 - B. Underwood, “Law and the Crystal Ball: Predicting Behavior with Statistical Inference and Individualized Judgment,” Yale Law Journal 88 (1979): 1408-1448
 - M. Lewis, Moneyball (2003) (~150pp)
+
+#### History of Higher Education
+
+- Harold Perkin, “History of Universities” in HHE (and pdf)
+- Harold Silver, “Historiography of Education” (pdf)
+- Alan Cobban, The Medieval Universities, chapters 1, 3, and 4 (pdf)
+- Map of medieval universities
+- Lynn Thorndike, University Records and Life in the Middle Ages (pdf)
+- Jonathan P. Berkey, “Madrasas Medieval and Modern: Politics, Education, and the Problem of Muslim Identity” (pdf)
+- Ephraim Kanarfogel, Jewish Education and Society in the High Middle Ages (pdf)
+- Don Skemer and Geoffrey Williams, “Managing the Records of Higher Education” (pdf)
+- John Thelin, “College in the Colonial Era,” in HHE
+- John D. Burton, “The Harvard Tutors: The Beginning of an Academic Profession, 1690-1825”in HHE (and pdf)
+- John Reyhner and Jean Elder, American Indian Education: A History, chapter 1 (pdf)
+- Harvard College, Charter of 1650 (pdf)
+- Jurgen Herbst, “From Religion to Politics,” in HHE
+- Douglas Sloan, “Science, Society and the Curriculum,” in HHE
+- The Black Book of Columbia College (pdf)
+- Robert Church and Michael Sedlak, “The Antebellum College and Academy,” in HHE
+- David Potts, “‘College Enthusiasm!’ as Public Response,” in HHE
+- David W. Robson, “College Founding in the New Republic” (pdf)
+- William Brown and Elizabeth Yakel, “Redefining the Role of College and University Archives in the Information Age”
+- Nancy Cricco and Brian Stevens, “The Archivists’ Toolkit: NYU Endeavors to Bring Automation to Archives” (pdf)
+- Helen W. Samuels, Varsity Letters: Documenting Modern Colleges and Universities, pages 1-29, and browse the categories of documents discussed in the book (pdf).
+- Warren Goldstein, “For Keep’s Sake: A Chairman’s Files” (pdf)
+- Jack C. Lane, “The Yale Report of 1828 and Liberal Education” in HHE (and pdf)
+- Douglas Sloan, “Harmony, Chaos, and Consensus: The American College Curriculum” (pdf)
+- The Dartmouth College Case (1819) (pdf)
+- The Yale Report (1828) (pdf)
+- Patricia Palmieri, “From Republican Motherhood to Race Suicide: Arguments on the Higher Education of Women in the United States, 1820-1920,” in HHE
+- Linda Perkins, “The Impact of ‘The Cult of True Womanhood’ on the Education of Black Women,” in HHE
+- Alice Freeman Palmer, "Why Go to College?" (pdf)
+- Roger Geiger, “The Era of Multipurpose Colleges” in HHE.
+- Eldon Johnson, “Misconceptions About the Early Land-Grant Colleges,” in HHE.
+- Joseph Stetar, “In Search of a Direction: Southern Higher Education after the Civil War,” in HHE.
+- Roger Williams, “The Origins of Federal Support for Higher Education,” in HHE.
+- The Land Grant Acts (1862 and 1890) (pdf)
+- Land Grant Universities, 1862 and 1890 maps.
+- Carol Gruber, “Backdrop,” in HHE.
+- Roger Geiger, “Research, Graduate Education, and the Ecology of American Universities,” in HHE.
+- John Bascom, “Education and the State” (pdf).
+- Charles W. Eliot, “Inaugural Address”(pdf).
+- Hugh Hawkins, “Toward System,” in HHE.
+- E.E. Slosson, Great American Universities, one chapter and conclusion (pdf).
+- Alfred N. Whitehead, “Universities and their Function” (pdf).
+- Max Weber, Science as a Vocation (pdf).
+- Hugh Hawkins, “American Universities and the Inclusion of Professional Schools” (pdf).
+- Jurgen Herbst, “Rethinking American Professional Education” in HHE.
+- Jurgen Herbst, And Sadly Teach (pdf).
+- Christine A. Ogren, “Rethinking the ‘Nontraditional’ Student” in HHE and pdf.
+- Ellen Lagemann, “Surveying the Professions,” inHHE.
+- Abraham Flexner, Medical Education in the United States (pdf).
+- David Hollinger, “The Two NYU’s” (pdf).
+- Donald Spivey, “‘End Jim Crow in Sports’: The Protest at New York University, 1940-1941.”
+- Archibald L. Bouton, The Colleges and Americanism (pdf).
+- Robert Cohen, “Student Activism in the U.S., 1905-1960” (pdf).
+- Paula Fass, The Damned and the Beautiful (pdf).
+- Joseph Lash, Campus Strikes Against War.
+- Frederick Rudolph, Curriculum: A History of the American Undergraduate Course of Study Since 1636 (pdf).
+- Harvard University, General Education in a Free Society (pdf), chapters to be assigned.
+- Robert M. Hutchins, The Higher Learning in America (pdf), chapters to be assigned.
+- Philip Gleason, Contending with Modernity: Catholic Higher Education in Twentieth Century America (pdf).
+- George Marsden, “The Soul of the American University,” (pdf).
+- Edward Shapiro, “The Friendly University,” (pdf).
+- William F. Buckley, God and Man at Yale (pdf).
+- James Anderson, “Apostles of the Liberal Culture: Black Higher Education, 1900-1935,” in HHE.
+- John Reyhner and Jean Elder, American Indian Education: A History, chapters 2 and 11 (pdf).
+- Raymond Wolters, The New Negro on Campus, introduction and chapter 1 (pdf).
+- W.E.B. DuBois, The College-Bred Negro American(1910), 11-45 (pdf).
+- Thomas James, Exile Within, chapter 2 (pdf)
+- Victoria Maria MacDonald, “Historical Perspectives on Latino Access to Higher Education, 1848-1990” in HHE.
+- Dan Oren, Joining the Club (pdf).
+- Linda Eisenmann, “A Time of Quiet Activism:  Research, Practice, and Policy in American Women’s Higher Education, 1945-1965” in HHE and pdf.
+- Lynn Gordon, “From Seminary to University,” in HHE.
+- Patrick Dilley, “20th Century Postsecondary Practices and Policies to Control Gay Students” (pdf).
+- Amit Paley, “The Secret Court of 1920” (pdf).
+- Richard Friedland, “Academia’s Golden Age” in HHE.
+- Philo Hutcheson and Ralph Kidder, “In the National Interest: The College and University in the United States in the Post-World War II Era” (pdf).
+- Joy Ann Williamson, “Quacks, Quirks, Agitators, and Communists” in HHE.
+- President’s Commission on Higher Education, Higher Education for American Democracy (1947) (pdf).
+- Roger Geiger, Research and Relevant Knowledge (pdf).
+- Marvin Lazerson, “The Disappointments of Success: Higher Education After World War II” (pdf).
+- Clark Kerr, The Uses of the University, chapter 1 (pdf)
+- Philip G. Altbach and Robert Cohen, “American Student Activism: The Post-Sixties Transformation” (pdf)
+- Fred Beuttler, “Envisioning an Urban University,” in HHE
+- Robert Pedersen, “Value Conflict on the Community College Campus,” in HHE
+- “The Port Huron Statement” (pdf)
