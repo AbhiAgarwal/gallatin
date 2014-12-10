@@ -1,0 +1,51 @@
+#### The Darwinian Revolution
+
+- Cuvier, "Living and Fossil Elephants" and "The Megatherium from South America"
+- Edward Larson, Evolution: The Remarkable History of a Scientific Theory, chaps: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, Afterword
+- Darwin’s Revolution in Thought
+- Paley, Natural Theology
+- Kurt Vonnegut, Galápagos
+- Charles Darwin, Autobiographies, pp. 1-38, 39-69
+- Charles Darwin, Voyage of the Beagle, chaps: Introduction & Appendix One, 1, 2, & 5, 9, 10, 11, 14, 20, 21, 23.
+- Charles Darwin, Origin of Species, chaps: 1, 2, 3, 4, 6, 7, 14
+- Alfred R. Wallace, “On the Tendency of Varieties to Depart Indefinitely from the Original Type
+- Herbert Spencer, "The Development Hypothesis" & "Poor Laws"
+- Charles Darwin, Descent of Man, & Sexual Selection in Relation to Sex, chaps: 4, 5, 19, 20, 21
+- Wallace, "The Limits of Natural Selection as Applied to Man"
+- Davenport, "The Geography of Man in Relation to Eugenics"
+- The Eugenics Archive
+- Hunter, A Civic Biology
+- Larson, "Enforcing the Law"
+- Gould, "The Most Unkindest Cut of All"
+- John Paul II, Michael Ruse, Richard Dawkins, and Stephen Gould
+- Slack, The Battle Over the Meaning of Everything, Prologue - chaps: 2, 8, 9, 10, 11, 13, 14, 15
+- Judgment Day (documentary), excerpts, Part I, II
+- Richard Dawkins, "Why Are People?"
+- E. O. Wilson, "The Morality of the Gene;"
+- Mark Pagel, Wired for Culture: Origins of the Human Social Mind, chaps: preface, intro, p19-68, p76-98, p125-169, p324-369
+
+#### Quantifiation and Social Thought
+
+- M. de Laplace, A Philosophical Essay on Probabilities (1814), chs 1-4, 8, 11-13, 17 (~85pp)
+- G. Gigerenzer et al., The Empire of Chance: How Probability Changes Science and Everyday Life (1989), Part 1 (~36pp)
+- S. Morton, Crania Americana (1839), introductory material; initial essay; measurements and explanations; plates (~45pp)
+- S. Gould, Mismeasure of Man (1996), ch 1: Introduction, ch. 2: “American Polygeny and Craniometry before Darwin,” & ch. 3 “Measuring Heads: Paul Broca and the Heyday of Craniology” (~90pp)
+- A. Quetelet, Treatise on Man and the Development of his Faculties (1842), Preface, Introduction, Books 2-4 (~60 pages)
+- C. Dickens, Hard Times (1854), first book (~ 100pp)
+- S. Mallarmé, Un Coup de Dés Jamais N'Abolira Le Hasard (1897)
+- E. Durkheim, On Suicide (1897)
+- R. Lynd and H. Lynd, Middletown (1929), Introduction, Part I: “Making a Living,” and Appendix/Tables (~100pp)
+- G. Gallup and S.F. Rae, The Pulse of Democracy: The Public-opinion Poll and How it Works (1940), foreword, Chs 1-2, 21-23 (~65pp)
+- A. Kinsey et al., Sexual Behavior in the Human Male (1947), Ch. 1 “Historical Introduction,” Ch. 17 “Pre-Marital Intercourse,” Ch. 21 “Homosexual Outlet” (~85pp)
+- G. Canguilhem, The Normal and the Pathological (1966), pt II, ch. III: “Norm and Average” (~30pp)
+- I. Hacking, “Kinds of People: Moving Targets,” British Academy Lectures (2006) (~34pp)
+- N. Lemann, The Big Test: The Secret History of the American Meritocracy (1999), Books 1-2 (~235pp)
+- R. Herrnstein, “I.Q.,” The Atlantic (1971) (~10pp)
+- R. Herrnstein and C. Murray, The Bell Curve (1994), chs 2-4 (~65pp)
+- S. Gould, ch. 6 from Mismeasure of Man (1996) (~90pp)
+- H. Kahn, On Thermonuclear War  (1960), Foreword, Preface, and Ch. 2: “Will Survivors Envy the Dead” (~60pp)
+- Review of On Thermonuclear War in Scientific American (March 1961) (~15pp)
+- W. Poundstone, Prisoner’s Dilemma, ch. 6  (~30pp)
+- L. Tribe, “Trial by Mathematics: Precision and Ritual in the Legal Process,” Harv. L. Rev. 84 (1971): 1329-1393
+- B. Underwood, “Law and the Crystal Ball: Predicting Behavior with Statistical Inference and Individualized Judgment,” Yale Law Journal 88 (1979): 1408-1448
+- M. Lewis, Moneyball (2003) (~150pp)
