@@ -136,3 +136,38 @@
 - Fred Beuttler, “Envisioning an Urban University,” in HHE
 - Robert Pedersen, “Value Conflict on the Community College Campus,” in HHE
 - “The Port Huron Statement” (pdf)
+
+#### Digital Commons
+
+- Habermas, Jürgen. The Public Sphere: An Encyclopedia Article
+- Michael Warner, Publics and Counterpublics
+- “You Want a Social Life, With friends + Alan Lastufka’s kinetic typography video
+- Garrett Hardin,“The Tragedy of the Commons” Science, May 1, 1968
+- Anupam Chandler and Madhavi Sunder, “The Romance of the Public Domain” (2004)
+- Mike Konczal, “DIY U and ‘The Romance of the Public Domain, The Washington Post,” May 28, 2010
+- McLuhan, Intro to 1st and 2nd edition + the Medium is the Message (5-35)
+- McLuhan, The Gadget Love: Narcissus as Narcosis, 61-70.
+- Wikipedia entry on Open Access
+- Timothy Messer-Kruse, “The ‘Undue Weight’ of Truth on Wikipedia,” The Chronicle Review (February 12, 2012). 
+- Paul Fyfe, “Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.” (2012—in open access edition of Debates in the Digital Humanities, edited by Matthew K. Gold. 
+- G.F., “Remembering Aaron Swartz: Commons Man,” The Economist (1-13-2013)
+- Raffi Khatchadourian, “No Secrets: Julian Assange’s Mission for Total Transparency,” The New Yorker (June 7, 2010).
+- “Cloak and Swagger,” Harper’s Magazine (January 2012)
+- “Anon, Anon,” Harper’s Magazine (December 2012)
+- “We Steal Secrets”: Alex Gibney’s New Documentary Explores the Story of Wikileaks.
+- Gillian Youngs, “Blogging and Globalization: The Blurring of the Public/Private Spheres” (2009).
+- “A Twitter Timeline of the Iran Election,” The Daily Beast, June 25, 2009.
+- Stone and Cohen, “Social Networks Spread Defiance Online,” New York Times, June 15, 2009. 
+- Ben Schmidt, “Age Cohort and Vocabulary Use,” April 11, 2011.
+- “Quantitative Analysis of Culture Using Millions of Digitized Books.” Science, 12/16/2010.
+- Steve Lohr, “Dickens, Austen and Twain, Through a Digital Lens,” New York Times, January 26, 2013.
+- Egan, A Visit from the Goon Squad
+- Kate Theimer, “Archives in Context and as Context,” Journal of Digital Humanities 1.2 (Spring 2010).
+- Moretti, “Maps” in Graphs, Maps, Trees (2007)
+- Jennifer Egan, “Blackbox” (a twitter short story) The New Yorker June 4, 2012
+- HASTAC, “Forum: A Bill of Rights and Principles for Learning in the Digital Age” (1/23/2013)
+- Tamar Lewin, “College of Future Could be Come One, Come All,” New York Times (11/19/2012)
+- Nicholas Carr, “Is Google Making Us Stupid?,” The Atlantic July 2008
+
+#### Play and Games in Early China
+#### Utopia
