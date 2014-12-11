@@ -1,11 +1,42 @@
-IDSEM-UG1760: Quantification and Social Thought
+### OUTLINE 
 
-Fall 2014
+#### Part 1
 
-Final Project
+- Define intelligence
+- Show that individuals do it
+- Show where it came from
+- Show why academics wanted to do it - AI community, machine learning
+
+#### Part 2
+
+- Look at Machine Learning aspects 
+- Look at Jeff Hawkins approach
+- Look at traditional approaches to machine learning
+
+#### Part 2
+
+- Look at the aims and problems that Jeff Hawkins and traditional approaches are trying to solve
+- Are the aims different? 
+
+#### Part 3
+
+- What are their approaches?
+- Do they try do the same thing?
+
+#### Part 4
+
+- Is it better to Quantify intelligence either way?
+- Why are we as humans the intelligence standard they look up to? Are we what they want intelligence to be?
+- They are trying to replicate our understanding and how we learn, and how our brain does intelligence - is that right? Here Jeff Hawkins is in the argument
+- Others are trying to find an objective definition of intelligence, and trying to approach intelligence from a perspective of mathematics and trying to look at all the variables that make up intelligence.  Looking at features "what they call it in machine learning", and trying to simulate these
+
+--
+
+### IDSEM-UG1760: Quantification and Social Thought
+### Fall 2014
+### Final Project
 
 Due: December 17th by 5pm in hardcopy to my mailbox in 411 Lafayette
-
 Worth: 25% of final grade
 
 The final project is meant to be the culmination of both your reading in this course and your own engagement with a topic of your choice. That is, it is meant to prompt you to bring the questions, approaches, and concerns that we’ve been talking about in this course to bear on a different topic that we’ve not yet discussed but that is of concern to you. This might be something akin to one of the areas we’ve discussed, like looking at a different professional sport’s use of statistics or the role of quantification in the law; or it might be in a completely different field entirely. It is up to you. Follow your interests.
