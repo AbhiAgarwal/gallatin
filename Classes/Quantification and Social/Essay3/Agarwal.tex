@@ -14,11 +14,6 @@
 \patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
 \makeatother
 
-% http://en.wikipedia.org/wiki/Intelligent_agent
-% http://en.wikipedia.org/wiki/History_of_artificial_intelligence
-
-% Exploring approaches to define intelligence, and intelligence frameworks in machine learning
-
 \title{Exploring methods of quantifying intelligence using theories in Machine Learning}
 \author{Abhi Agarwal (abhia@nyu.edu)}
 \date{}							
@@ -26,53 +21,54 @@
 \begin{document}
 \maketitle
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% OUTLINE %%
+% ~ 4000 words
 % Define intelligence
 % Show that individuals do it
 % Show where it came from
 % Show why academics wanted to do it - AI community, machine learning
 % Show why the intelligence community wanted to quantify intelligence. 
 % Trying to show that everyone quantifies intelligence for some reason
-
 % Look at Machine Learning aspects 
 % Look at Jeff Hawkins approach
 % Look at traditional approaches to machine learning
-
 % Look at the aims and problems that Jeff Hawkins and traditional approaches are trying to solve
 % Are the aims different? 
-
 % What are their approaches?
 % Do they try do the same thing?
-
 % Is it better to Quantify intelligence either way?
 % Why are we as humans the intelligence standard they look up to? Are we what they want intelligence to be?
 % They are trying to replicate our understanding and how we learn, and how our brain does intelligence - is that right? Here Jeff Hawkins is in the argument
 % Others are trying to find an objective definition of intelligence, and trying to approach intelligence from a perspective of mathematics and trying to look at all the variables that make up intelligence.  Looking at features "what they call it in machine learning", and trying to simulate these
-
-%%%%%%%%%%% THIS SECTION TO DO
-% ~ 4000 words
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % DEFINING INTELLIGENCE
 % Intelligence build-up
 % What is intelligence? 
 % Define intelligence
-\par Intelligence has been defined as many different things, and each of these definitions have allowed us to quantify or understand intelligence in a different way. The simple act of telling an individual how intelligent she is, is the most basic act of quantifying intelligence that we do day-to-day. By stating that a particular individual is intelligent we could mean a couple things. For example, we could be commenting on her ability to gain knowledge at speed, her accomplishments, her society/community group, her ability to reason, and much more. 
 % Show that individuals do it
+% Quantifying intelligence - what it is and how we can do it
+% Show where it came from
+% Defining/explaining/understanding intelligence
+% Show why academics wanted to do it - AI community, machine learning
+% One way of defining Intelligence in Machine Learning
+% DEFINING APPLICATIONS OF INTELLIGENCE
+% DEFINING INTELLIGENCE FRAMEWORKS
+% ASPECTS/CHARACTERISTICS OF INTELLIGENCE AND HOW THEY ARE APPLIED BY EACH FRAMEWORK
+% i.e.: HOW IS REASONING DONE IN EACH? IN THE MATHEMATICAL EXPLANATION REASONING IS DONE BY BOOLEAN SATISFIABILITY PROBLEMS.
+% http://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0204.pdf
+% http://en.wikipedia.org/wiki/Intelligent_agent
+% http://en.wikipedia.org/wiki/History_of_artificial_intelligence
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\par Intelligence has been defined as many different things, and each of these definitions have allowed us to quantify or understand intelligence in a different way. The simple act of telling an individual how intelligent she is, is the most basic act of quantifying intelligence that we do day-to-day. By stating that a particular individual is intelligent we could mean a couple things. For example, we could be commenting on her ability to gain knowledge at speed, her accomplishments, her society/community group, her ability to reason, and much more. 
 These are certain characteristics that we think about when making a judgement about an individual's intelligence, and the majority of society does this. The most intelligent individuals part-take in this by accepting awards that claim they have a high IQ such as high IQ society awards or genius grants, and less intelligent individuals part-take in this as well by observing this phenomenon and participating by discussing it. Therefore, there is an inherit part of our society and the way we perceive of the world that needs to compare or judge intelligence.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Quantifying intelligence - what it is and how we can do it
-
-% Show where it came from
 \par The idea of trying to quantify intelligence or measuring intelligence was first introduced by the field of Phrenology, and Franz Joseph Gall who is known to be the founder of the field. Gall wanted to try study the localization of the mental functions in the brain by observing skull sizes, and facial features of people. Even though the field of Phrenology wasn't ultimately success, some of the concepts such as attempting to quantify intelligence intrigued the scientific community. Moreover, another individual we studied in class that tried to attempt to define intellectual ability was Samuel George Morton. Morton, similarly, in his work Crania Americana claimed in his paper that you could measure the intellectual ability of a race by their skull capacity. 
 
-% Defining/explaining/understanding intelligence
 \par This idea become more popular when Alfred Binet and Theodore Simon, in France, designed the first wide-used intelligence test known as the Binet-Simon Scale. Binet personally believed that intelligence is too broad of a concept to quantify with a single numerical value. However, he did agree that intelligence is influenced by a number of factors, and can be compared if broken down into its parts. In 1916, the Binet-Simon Scale was brought to the U.S. to Stanford University and researchers adapted it to become the Intelligent Quotient or IQ. The reason for the U.S. to create an intelligent test, as we read in class, was to screen army recruits during World War 1. In addition, IQ tests were also used to screen immigrants as they arrived at Ellis island, and became increasingly more useful to governments as the century progressed. 
 
 \par Throughout the 20th century the IQ test was used to filter out individuals in different ways. It has been used to filter individuals for prizes and grants, for military and government recruitment, in medicine, job interviews, universities, and much more. We're depended on ways to quantify intelligence in order to pick individuals out, and narrow down our search fields in the same way we have used strength or speed. It's becoming increasingly more important as we move from jobs being in the primary and secondary sector to the tertiary sector. 
 
-% Show why academics wanted to do it - AI community, machine learning
 \par In the same way in Computer Science there has been a big push from giant organizations to make computers increasingly more intelligent to help reduce costs. This push, as well as a goal for Computer Scientists to create artificial life, has driven Computer Scientists to define intelligence. Since the development of computers there has been a vision of creating an intelligent agent, and the community of individuals studying Artificial Intelligence have had a vision and different approaches to solving this problem. An intelligent agent is an autonomous entity that is goal driven and uses previous knowledge or learns to reach its goal.
 
 \par In 2007 W\l{}odzis\l{}aw published a paper on computational intelligence, and wrote ``Artificial Intelligence (AI) was the first large scientific community, established already in the mid 1950s, working on problems that require intelligence to be solved" (W\l{}odzis\l{}aw, 1). Intelligence is important to the field because it's an inherent part of building artificial life, and to build systems that mimic human life. Most of the Artificial Intelligence community is still debating on ways to solve this problem as building an intelligent agent inherently requires a mathematical or computational definition of intelligence. It's required in order for the intelligent agent to learn, and be able to make intelligent decisions on its own. Building an intelligent agent requires for us to define a program algorithmically that would allow it to act autonomously, and in order to do that we need some methodology or steps that it could follow to learn.
@@ -80,13 +76,6 @@ These are certain characteristics that we think about when making a judgement ab
 \par Given the limitations in terms of computational power in pre-2000, research in building an intelligent agent branched of into two perspectives. The first was looking at this problem from a mathematical perspective, and the second was exploring neuroscience and the human anatomy to apply the principles of our intelligence to building an intelligent agent. Building an intelligent agent from a mathematical perspective is looking at features, or aspects of intelligence and trying to model them mathematical in order to later bring them together into one coherent model. The latter looks at how our cerebral cortex was formed and borrows the architecture and the way neurons make connections between things we learn to apply the same methodology to learning as our brain does. Since we are trying to mimic human beings in creating intelligent agents the theory of learning from our brains became a desirable theory in the community. 
 
 \par During the next decade individuals worked on advancing these fields theoretically until they reached a point where processing power would catch up with their research. The decade gave both the branches time to grow their communities and to improve traction around their work, and this created a separation in ideology and the way individuals dealt with the aspects of quantifying intelligence. 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% DEFINING APPLICATIONS OF INTELLIGENCE
-% DEFINING INTELLIGENCE FRAMEWORKS
-% ASPECTS/CHARACTERISTICS OF INTELLIGENCE AND HOW THEY ARE APPLIED BY EACH FRAMEWORK
-% i.e.: HOW IS REASONING DONE IN EACH? IN THE MATHEMATICAL EXPLANATION REASONING IS DONE BY BOOLEAN SATISFIABILITY PROBLEMS.
-% http://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0204.pdf
 
 \par In order to understand the task of building an algorithm that does learning, it needs to be explicitly stated what learning is and how a computer is able to achieve this task of learning. This particular task falls into a field that started within the field of Artificial Intelligence called Machine Learning. ``Machine learning studies computer algorithms for learning to do stuff. We might, for instance, be interested in learning to complete a task, or to make accurate predictions, or to behave intelligently" (Schapire, 1). The basic process of Machine Learning is the training of the algorithm. In the training process, the algorithm is fed some data, for example data about the weather, whilst attaching details of the outcome. An example of this would be to see if it rained given that the temperature was 4'C and it was cloudy. The algorithm would use the fact that it rained when it was 4'C and it was cloudy in the future to make a prediction when you give it a similar scenario. In summary, ``machine learning is about learning to do better in the future based on what was experienced in the past" (Schapire, 1).
 
@@ -96,17 +85,9 @@ These are certain characteristics that we think about when making a judgement ab
 
 \par Most individuals who look at Machine Learning, and Artificial Intelligence wonder if this is a problem worth solving? Is it required for us to create a framework for intelligence? In Computer Science it has been a dream of most individuals to create a computer intelligent enough for communication with us. Going forward into the future it is also extremely useful as argued by a lot of individuals to create such a system, as it would allow us to advance more quickly given that we could train it to learn fields such as Physics and Biology, and allow it to assist us in our research. An intelligent agent potentially could have endless amounts of possibilities as it could encapsulate a lot of human knowledge, and be able to run simulations and answer questions. The goal state for researchers is to make a system that would structure, and understand the all the information that we have so that we can utilize it to solve complex problems. In Hawkins' book, `On Intelligence', he points out that ``a basic computer operation is five million times aster than the basic operations in [our brains]!" (Hawkins, 66). The only problem remains that we haven't devised algorithms that are able to make predictions as well and as fast as our brain does, and trying to understand how to represent and quantify intelligence is the first step towards that goal. 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% THIS SECTION TO DO
-% One way of defining Intelligence in Machine Learning
 
-% HAWKINS
-\par Hawkins is an electrical engineer, and hasn't had any professional experience in neuroscience. His framework approaches the problem from an engineer's perspective as well as his personal study of the research done on the cerebral cortex to formulate his framework.
-
-\par Jeff Hawkins' Intelligence
-
-% MATH
-\par Moreover, in mathematics an intelligent agent is defined as an agent function (Russell, 33). A percept refers to an intelligent agents ``perceptual inputs at any given instant" (Russell, 34), which is basically the perception or view it has at a current moment, and the percept sequence is basically the ``complete history of everything the agent has ever perceived" (Russell, 34). An agent function can be defined as something that ``maps any given percept sequence to an action" (Russell, 35). Given this information, the aim of Computer Scientists studying it from a mathematical perspective is to design agent functions that take in information, and use the history (as we did in the Machine Learning example) to perform some action. Mathematically we represent a function like this as (Wikipedia, Intelligent agent, Structure of agents):
+\par In mathematics an intelligent agent is defined as an agent function (Russell, 33). A percept refers to an intelligent agents ``perceptual inputs at any given instant" (Russell, 34), which is basically the perception or view it has at a current moment, and the percept sequence is basically the ``complete history of everything the agent has ever perceived" (Russell, 34). An agent function can be defined as something that ``maps any given percept sequence to an action" (Russell, 35). Given this information, the aim of Computer Scientists studying it from a mathematical perspective is to design agent functions that take in information, and use the history (as we did in the Machine Learning example) to perform some action. Mathematically we represent a function like this as (Wikipedia, Intelligent agent, Structure of agents):
 
 \begin{equation} \label{eu_eqn}
 f\colon P^* \to A
@@ -116,12 +97,17 @@ f\colon P^* \to A
 
 \par Next, intelligence is something that utilizes existing associations, and uses them to produce answers. In Mathematics, and Computer Science this is known as the Boolean Satisfiability problem where it has to be able to determine whether there is an interpretation that satisfies given statements. This particular problem comes from the fear that ``what if the machine has got a giant preprogrammed list of all possible answers to all possible questions, and its mechanism of operation is simply lookup in the list?" (Warren, 5), and so mathematicians have to build systems that follow and understand logic statements. Lastly, the idea intelligence comes with speed. Which means that ``an `intelligence' [accomplishes] its feats without consuming ridiculously large amounts of time or memory space" (Warren, 5). 
 
-\par It is also important to understand a basic framework for how the processing could occur within the function, and how the data that comes in is actually quantified. 
+\par It is also important to understand a basic framework for how the processing could occur within the function, and how the data that comes in is actually quantified. The basic process would be to first create an initial knowledge base so the agent function is able to utilize some underlying knowledge. The construction of this initial knowledge base would depend on Machine Learning methods. Say, for example that we enter in a simple definition of Physics, and some of the underlying characteristics behind it, as text into the initial knowledge base. The knowledge base would then convert these words and underlying concepts into some mathematical representation, such as a linear equation. It would convert it by looking at concepts or ideas that are similar to it, and associate to it - a simple way of doing this would to try and match the each word in this text to the text of existing knowledge. Now we are able to start making simple associations just by looking at how close two concepts are, and given the fact that we have the equation of the line for each concept we can see how close they are. In Machine Learning this idea is called clustering, and can be used in forming the mathematical definition of intelligence. 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%% THIS SECTION TO DO
+\par Once this initial knowledge base is construction, then the function could potentially take in a question, and try to understand it by comparing it to every single existing piece of knowledge in the knowledge base. Then it would select the pieces of knowledge that represent it the best, and use the underlying concepts behind those to answer the question, and make a response. It could utilize the logical functions defined in order to take multiple statements to see their outcome, and make a prediction based on those. Although the approach I have defined is far too basic to become a framework for intelligence, it was used as the starting point in many mathematical models that try to define intelligence. 
 
-\par An useful example, and prominent example of Machine Learning techniques implemented is Google's intelligent personal assistant Google Now. It uses techniques that are described by Hawkins above to achieve this goal. It uses a technique called neural networks, which try and utilize the research in neuroscience and behaves very closely to the actual neurons in our brains. Google Now was a breakthrough when it was introduced in the Machine Learning, and Artificial Intelligence community. However, not a breakthrough to the intelligent agents Computer Scientists are trying to create. These particular applications are utilizing these technologies, but they are utilizing them in specific applications, such as to do speech recognition or predicting what you're going to type next. The particular goal of building an intelligent agent is that it would be able to learn and behave on its own regardless of any application, and it should not be focused and programmed to do something specific. This introduces a new problem, and both Jeff Hawkins and Warren Smith have mentioned the issue of generality in the algorithm. In Hawkins' book he introduces a framework for creating a general intelligence framework called the One-Learning algorithm.
+\par From a quantification aspect, here, the mathematical model reduces each particular piece of knowledge (i.e. piece of text) into a linear equation in order for it to represent and compare the information together. This is important to note because we're no longer using the text to represent the piece of knowledge, and when you get into more complex frameworks, which involve methods such as gradient-descent, finding global maxima, etc. we would be reducing the importance of the piece of text the particular linear equation represented, but more fixated on being able to compare it. It would boil down to a single numerical value and decisions about if that information is related to another piece of knowledge becomes a question of it if is close to its numerical value rather than how we perceive it. This idea introduces a lot of issues that a lot of individuals are opposed to because here we're not building a system that is intelligent in the same way as us. In addition, there are also individuals who argue that truly-intelligent agents are not possible because no matter how the algorithms are programmed they boil down to just manipulations of turning a bit on and off. 
+
+\par Moreover, Jeff Hawkins' Intelligence introduces an idea of utilizing the framework of our brain as a framework to design an algorithm. 
+
+\par A useful example, and prominent example of Machine Learning techniques implemented is Google's intelligent personal assistant Google Now. It uses techniques that are described by Hawkins above to achieve this goal. It uses a technique called neural networks, which try and utilize the research in neuroscience and behaves very closely to the actual neurons in our brains. Google Now was a breakthrough when it was introduced in the Machine Learning, and Artificial Intelligence community. However, not a breakthrough to the intelligent agents Computer Scientists are trying to create. These particular applications are utilizing these technologies, but they are utilizing them in specific applications, such as to do speech recognition or predicting what you're going to type next. The particular goal of building an intelligent agent is that it would be able to learn and behave on its own regardless of any application, and it should not be focused and programmed to do something specific. This introduces a new problem, and both Jeff Hawkins and Warren Smith have mentioned the issue of generality in the algorithm. In Hawkins' book he introduces a framework for creating a general intelligence framework called the One-Learning algorithm.
+
+\par Hawkins is an electrical engineer, and hasn't had any professional experience in neuroscience. His framework approaches the problem from an engineer's perspective as well as his personal study of the research done on the cerebral cortex to formulate his framework.
 
 \par The One-Learning algorithm tries to q
 
@@ -130,9 +116,6 @@ f\colon P^* \to A
 \par Intelligence and why create a framework for intelligence?
 
 \par Quantifying and defining intelligence and frameworks around it became important when
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%% THIS SECTION TO DO
 
 \par Conclusion
 
