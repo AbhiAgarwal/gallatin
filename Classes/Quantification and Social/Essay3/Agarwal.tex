@@ -94,7 +94,7 @@ These are certain characteristics that we think about when making a judgement ab
 
 \par The two different methodology I will present next try to quantify intelligence in a different way, and each of these theories have been presented by different types of people and are also taught to different kinds of students. Students who first learn the mathematical side of machine learning, and are taught to view intelligence as being able to be represented by building blocks where these blocks make up intelligence of a person. On the other hand, students who move from a more biological side to machine learning have experience with understanding intelligence as inherent to the brain and have an understanding of how the human brain processes this information, and so they are drawn towards the neuroscience approach to machine learning. Nowadays, there are an equal number of students from each discipline as mathematicians usually get fixated with trying to solve the mathematical puzzle behind learning, while biologists have a passion to simulate and form the human brain.
 
-\par Most individuals who look at Machine Learning, and Artificial Intelligence wonder if this is a problem worth solving? Is it required for us to create a framework for intelligence? In Computer Science it has been a dream of most individuals to create a computer intelligent enough for communication with us. Going forward into the future it is also extremely useful as argued by a lot of individuals to create such a system, as it would allow us to advance more quickly given that we could train it to learn fields such as Physics and Biology, and allow it to assist us in our research. An intelligent agent potentially could have endless amounts of possibilities as it could encapsulate a lot of human knowledge, and be able to run simulations and answer questions. The goal state for researchers is to make a system that would structure, and understand the all the information that we have so that we can utilize it to solve complex problems. In Hawkin's book, `On Intelligence', he points out that ``a basic computer operation is five million times aster than the basic operations in [our brains]!" (Hawkins, 66). The only problem remains that we haven't devised algorithms that are able to make predictions as well and as fast as our brain does, and trying to understand how to represent and quantify intelligence is the first step towards that goal. 
+\par Most individuals who look at Machine Learning, and Artificial Intelligence wonder if this is a problem worth solving? Is it required for us to create a framework for intelligence? In Computer Science it has been a dream of most individuals to create a computer intelligent enough for communication with us. Going forward into the future it is also extremely useful as argued by a lot of individuals to create such a system, as it would allow us to advance more quickly given that we could train it to learn fields such as Physics and Biology, and allow it to assist us in our research. An intelligent agent potentially could have endless amounts of possibilities as it could encapsulate a lot of human knowledge, and be able to run simulations and answer questions. The goal state for researchers is to make a system that would structure, and understand the all the information that we have so that we can utilize it to solve complex problems. In Hawkins' book, `On Intelligence', he points out that ``a basic computer operation is five million times aster than the basic operations in [our brains]!" (Hawkins, 66). The only problem remains that we haven't devised algorithms that are able to make predictions as well and as fast as our brain does, and trying to understand how to represent and quantify intelligence is the first step towards that goal. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% THIS SECTION TO DO
@@ -103,7 +103,7 @@ These are certain characteristics that we think about when making a judgement ab
 % HAWKINS
 \par Hawkins is an electrical engineer, and hasn't had any professional experience in neuroscience. His framework approaches the problem from an engineer's perspective as well as his personal study of the research done on the cerebral cortex to formulate his framework.
 
-\par Jeff Hawkin's Intelligence
+\par Jeff Hawkins' Intelligence
 
 % MATH
 \par Moreover, in mathematics an intelligent agent is defined as an agent function (Russell, 33). A percept refers to an intelligent agents ``perceptual inputs at any given instant" (Russell, 34), which is basically the perception or view it has at a current moment, and the percept sequence is basically the ``complete history of everything the agent has ever perceived" (Russell, 34). An agent function can be defined as something that ``maps any given percept sequence to an action" (Russell, 35). Given this information, the aim of Computer Scientists studying it from a mathematical perspective is to design agent functions that take in information, and use the history (as we did in the Machine Learning example) to perform some action. Mathematically we represent a function like this as (Wikipedia, Intelligent agent, Structure of agents):
@@ -112,12 +112,16 @@ These are certain characteristics that we think about when making a judgement ab
 f\colon P^* \to A
 \end{equation}
 
-\noindent Where $P^*$ is the percept sequence, and A is an action that it would predict to occur. The agent function is a very high level concept, but represents an understanding of the process. 
+\noindent Where $P^*$ is the percept sequence, and A is an action that it would predict to occur. The agent function is a very high level concept, but represents an understanding of the process. The input to the agent function would basically be some sort of information, and could be a question, a statement, or a response to something that happens. So our first principle that we must extract in order to make an intelligence framework is the idea that intelligence must be general, and be able to answer and respond to any input it is given. Warren Smith, an ex-professor at the University of Temple writes that ``[a] primary feature of intelligent entities is a willingness to investigate any kind of mental problem, and an ability to solve, or make progress on, some of them" (Warren, 4). This particular section of the definition means that we have to create a particular function that would make associations between pieces of information, and given any input would be able to utilize those associations to produce an answer. This is a little biased because it expects there to be an initial ``base of knowledge" (Warren, 5) that exists. 
+
+\par Next, intelligence is something that utilizes existing associations, and uses them to produce answers. In Mathematics, and Computer Science this is known as the Boolean Satisfiability problem where it has to be able to determine whether there is an interpretation that satisfies given statements. This particular problem comes from the fear that ``what if the machine has got a giant preprogrammed list of all possible answers to all possible questions, and its mechanism of operation is simply lookup in the list?" (Warren, 5), and so mathematicians have to build systems that follow and understand logic statements. Lastly, the idea intelligence comes with speed. Which means that ``an `intelligence' [accomplishes] its feats without consuming ridiculously large amounts of time or memory space" (Warren, 5). 
+
+\par It is also important to understand a basic framework for how the processing could occur within the function, and how the data that comes in is actually quantified. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% THIS SECTION TO DO
 
-\par An useful example, and prominent example of Machine Learning techniques implemented is Google's intelligent personal assistant Google Now. It uses techniques that are described by Hawkins above to achieve this goal. It uses a technique called neural networks, which try and utilize the research in neuroscience and behaves very closely to the actual neurons in our brains. Google Now was a breakthrough when it was introduced in the Machine Learning, and Artificial Intelligence community. However, not a breakthrough to the intelligent agents Computer Scientists are trying to create. These particular applications are utilizing these technologies, but they are utilizing them in specific applications, such as to do speech recognition or predicting what you're going to type next. The particular goal of building an intelligent agent is that it would be able to learn and behave on its own regardless of any application, and it should not be focused and programmed to do something specific. This introduces a new problem, and Jeff Hawkins proposes a solution to this problem called the One-Learning algorithm.
+\par An useful example, and prominent example of Machine Learning techniques implemented is Google's intelligent personal assistant Google Now. It uses techniques that are described by Hawkins above to achieve this goal. It uses a technique called neural networks, which try and utilize the research in neuroscience and behaves very closely to the actual neurons in our brains. Google Now was a breakthrough when it was introduced in the Machine Learning, and Artificial Intelligence community. However, not a breakthrough to the intelligent agents Computer Scientists are trying to create. These particular applications are utilizing these technologies, but they are utilizing them in specific applications, such as to do speech recognition or predicting what you're going to type next. The particular goal of building an intelligent agent is that it would be able to learn and behave on its own regardless of any application, and it should not be focused and programmed to do something specific. This introduces a new problem, and both Jeff Hawkins and Warren Smith have mentioned the issue of generality in the algorithm. In Hawkins' book he introduces a framework for creating a general intelligence framework called the One-Learning algorithm.
 
 \par The One-Learning algorithm tries to q
 
@@ -144,7 +148,7 @@ f\colon P^* \to A
 	2007: n. pag. Print.
 \bibitem{3}
 	Schapire, Rob. 
-	\emph{"Theoretical Machine Learning."} 
+	\emph{Theoretical Machine Learning.} 
 	(n.d.): n. pag. COS 511: Theoretical Machine Learning. Princeton University. 
 	Web.
 \bibitem{4}
@@ -153,7 +157,13 @@ f\colon P^* \to A
 	Upper Saddle River: Pearson Plc, 1999. Print.
 \bibitem{5}
 	Wikipedia, the Free Encyclopedia. 
-	\emph{"Intelligent agent".} 
+	\emph{Intelligent agent}.
 	N.p., n.d. <http://en.wikipedia.org/wiki/Intelligent\_agent>.
+	Web.
+\bibitem{6}
+	Smith, Warren D. 
+	\emph{Mathematical Definition of ``Intelligence"}.
+	Indiana U, 2006. Abstract. University of Indiana. N.p., 18 July 2006. 
+	Web.
 \end{thebibliography}
 \end{document}  
