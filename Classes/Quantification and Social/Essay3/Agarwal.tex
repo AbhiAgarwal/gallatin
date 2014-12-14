@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{epigraph}
+\usepackage{amsmath}
 \usepackage[doublespacing]{setspace}
 \usepackage{etoolbox}
 \geometry{letterpaper}
@@ -93,20 +94,25 @@ These are certain characteristics that we think about when making a judgement ab
 
 \par The two different methodology I will present next try to quantify intelligence in a different way, and each of these theories have been presented by different types of people and are also taught to different kinds of students. Students who first learn the mathematical side of machine learning, and are taught to view intelligence as being able to be represented by building blocks where these blocks make up intelligence of a person. On the other hand, students who move from a more biological side to machine learning have experience with understanding intelligence as inherent to the brain and have an understanding of how the human brain processes this information, and so they are drawn towards the neuroscience approach to machine learning. Nowadays, there are an equal number of students from each discipline as mathematicians usually get fixated with trying to solve the mathematical puzzle behind learning, while biologists have a passion to simulate and form the human brain.
 
-\par Most individuals who look at Machine Learning, and Artificial Intelligence wonder if this is a problem worth solving? Is it required for us to create a framework for intelligence? In Computer Science it has been a dream of most individuals to create a computer intelligent enough for communication with us. Going forward into the future it is also extremely useful as argued by a lot of individuals to create such a system, as it would allow us to advance more quickly given that we could train it to learn fields such as Physics and Biology, and allow it to assist us in our research. An intelligent agent potentially could have endless amounts of possibilities as it could encapsulate a lot of human knowledge, and be able to run simulations and answer questions. In Hawkin's book, `On Intelligence', he points out that ``a basic computer operation is five million times aster than the basic operations in [our brains]!" (Hawkins, 66). The only problem remains that we haven't devised algorithms that are able to make predictions as well and as fast as our brain does.
+\par Most individuals who look at Machine Learning, and Artificial Intelligence wonder if this is a problem worth solving? Is it required for us to create a framework for intelligence? In Computer Science it has been a dream of most individuals to create a computer intelligent enough for communication with us. Going forward into the future it is also extremely useful as argued by a lot of individuals to create such a system, as it would allow us to advance more quickly given that we could train it to learn fields such as Physics and Biology, and allow it to assist us in our research. An intelligent agent potentially could have endless amounts of possibilities as it could encapsulate a lot of human knowledge, and be able to run simulations and answer questions. The goal state for researchers is to make a system that would structure, and understand the all the information that we have so that we can utilize it to solve complex problems. In Hawkin's book, `On Intelligence', he points out that ``a basic computer operation is five million times aster than the basic operations in [our brains]!" (Hawkins, 66). The only problem remains that we haven't devised algorithms that are able to make predictions as well and as fast as our brain does, and trying to understand how to represent and quantify intelligence is the first step towards that goal. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% THIS SECTION TO DO
 % One way of defining Intelligence in Machine Learning
 
-\par 
-
+% HAWKINS
 \par Hawkins is an electrical engineer, and hasn't had any professional experience in neuroscience. His framework approaches the problem from an engineer's perspective as well as his personal study of the research done on the cerebral cortex to formulate his framework.
 
 \par Jeff Hawkin's Intelligence
 
-% Next way of defining intelligence in Machine Learning
-\par Intelligence in the Machine Learning community with just a mathematical training
+% MATH
+\par Moreover, in mathematics an intelligent agent is defined as an agent function (Russell, 33). A percept refers to an intelligent agents ``perceptual inputs at any given instant" (Russell, 34), which is basically the perception or view it has at a current moment, and the percept sequence is basically the ``complete history of everything the agent has ever perceived" (Russell, 34). An agent function can be defined as something that ``maps any given percept sequence to an action" (Russell, 35). Given this information, the aim of Computer Scientists studying it from a mathematical perspective is to design agent functions that take in information, and use the history (as we did in the Machine Learning example) to perform some action. Mathematically we represent a function like this as (Wikipedia, Intelligent agent, Structure of agents):
+
+\begin{equation} \label{eu_eqn}
+f\colon P^* \to A
+\end{equation}
+
+\noindent Where $P^*$ is the percept sequence, and A is an action that it would predict to occur. The agent function is a very high level concept, but represents an understanding of the process. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%% THIS SECTION TO DO
@@ -141,5 +147,13 @@ These are certain characteristics that we think about when making a judgement ab
 	\emph{"Theoretical Machine Learning."} 
 	(n.d.): n. pag. COS 511: Theoretical Machine Learning. Princeton University. 
 	Web.
+\bibitem{4}
+	Russell, Stuart J., Peter Norvig, and John F. Canny. 
+	\emph{Artificial Intelligence : A Modern Approach.}
+	Upper Saddle River: Pearson Plc, 1999. Print.
+\bibitem{5}
+	Wikipedia, the Free Encyclopedia. 
+	\emph{"Intelligent agent".} 
+	N.p., n.d. <http://en.wikipedia.org/wiki/Intelligent\_agent>.
 \end{thebibliography}
 \end{document}  
