@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  14 DEC 2014 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2014 01:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,9 +322,9 @@ Package pdftex.def Info: fig_neural_network_1.png used on input line 115.
  [10] [11 <./fig_neural_network_1.png>] [12]
 [13]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 133.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 131.
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--157
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 []\OT1/pplx/m/n/10.95 Wikipedia, the Free En-cy-clo-pe-dia. \OT1/pplx/m/it/10.9
 5 In-tel-li-gent agent\OT1/pplx/m/n/10.95 . N.p., n.d.
  []
@@ -346,7 +346,7 @@ pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/euler/eufm1
 m10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Agarwal.pdf (14 pages, 131320 bytes).
+Output written on Agarwal.pdf (14 pages, 131383 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
