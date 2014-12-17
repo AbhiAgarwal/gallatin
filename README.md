@@ -39,9 +39,9 @@ Gallatin
 	- [The Darwinian Revolution](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Darwinian%20Revolution)
 	- [Quantification and Social Thought](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Quantification%20and%20Social)
 - Spring 2015 (15 credits - haven't signed up yet)
-	- Speech Recognition (Tentative)
+	- Introduction to Cryptography
 	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
-	- Linear Algebra
+	- Linear Algebra and/or Social Innovation Practicum
 	- Democracy and Difference (SOC)
 - Fall 2015 (16 credits - could graduate?)
 	- 1 Humanities (4 credits)
