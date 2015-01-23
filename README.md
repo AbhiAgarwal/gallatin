@@ -40,9 +40,9 @@ Gallatin
 	- [Quantification and Social Thought](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Quantification%20and%20Social)
 - Spring 2015 (15 credits - haven't signed up yet)
 	- Introduction to Cryptography
-	- Fate and Free Will in The Epic Tradition (HUM, PREMOD)
-	- Linear Algebra and/or Social Innovation Practicum
+	- Moral Behavior: Sentiment, Evolution, and Psychology (HUM)
 	- Democracy and Difference (SOC)
+	- Linear Algebra
 - Fall 2015 (16 credits - could graduate?)
 	- 1 Humanities (4 credits)
 	- 1 Early Modern (4 credits)
@@ -52,17 +52,18 @@ Gallatin
 
 # Credits remaining (Junior Fall 2014)
 
-- What I have left (3 requirements)
-	- 16 Credits to take this semester
+- What I have left (4 requirements)
 	- 1 Humanities (4 credits)
 	- 1 Early Modern (4 credits)
+	- 1 Premodern (4 credits)
 	- 1 Global Cultures (4 credits)
 
-- Graduation: Units: 128.00 required, 112.00 taken, 16.00 needed
+- Graduation: Units: 128.00 required, 110.00 taken, 18.00 needed
 - Total Gallatin Units: Units: 32.00 required, 28.00 taken, 4.00 needed
 - Foundation Requirement
 	- Humanities: Units: 8.00 required, 4.00 taken, 4.00 needed
 - Historical & Cultural Foundation: Units: 12.00 required, 4.00 taken, 8.00 needed
+	- Premodern: 4.00 required, 0.00 taken, 4.00 needed
 	- Early Modern: 4.00 required, 0.00 taken, 4.00 needed
 	- Global Cultures: 4.00 required, 0.00 taken, 4.00 needed
 - Senior Colloquium: Not Satisfied: Senior Colloquium
