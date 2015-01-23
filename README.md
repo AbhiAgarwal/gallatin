@@ -44,11 +44,16 @@ Gallatin
 	- Democracy and Difference (SOC)
 	- Linear Algebra
 - Fall 2015 (16 credits - could graduate?)
-	- 1 Humanities (4 credits)
-	- 1 Early Modern (4 credits)
-	- 1 Global Cultures (4 credits)
-	- 1 Computer Science (4 credits)
 - Spring 2016 (Tentative)
+
+# Left (After Spring 2015)
+
+- 1 Gallatin (4 credits)
+- 1 Humanities (4 credits)
+- 1 Early Modern (4 credits)
+- 1 Global Cultures (4 credits)
+- 1 Premodern (4 credits)
+- Senior Colloquium
 
 # Credits remaining (Junior Fall 2014)
 
