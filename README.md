@@ -40,8 +40,8 @@ Gallatin
 	- [Quantification and Social Thought](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Quantification%20and%20Social)
 - Spring 2015 (15 credits - haven't signed up yet)
 	- Introduction to Cryptography
-	- Moral Behavior: Sentiment, Evolution, and Psychology (HUM)
-	- Democracy and Difference (SOC)
+	- [Moral Behavior: Sentiment, Evolution, and Psychology (HUM)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Moral%20Behavior:%20Sentiment%20%26%20Psychology)
+	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- Linear Algebra
 - Fall 2015 (16 credits - could graduate?)
 - Spring 2016 (Tentative)
