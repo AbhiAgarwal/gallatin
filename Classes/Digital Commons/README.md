@@ -6,7 +6,7 @@ Days	Tue,Thu
 Time	11:00 AM - 12:15 PM
 Units	4.0
 Level	U
-Foundation Requirement	
+Foundation Requirement
 
 Notes/Restrictions
 Open to Gallatin first-year students only.
