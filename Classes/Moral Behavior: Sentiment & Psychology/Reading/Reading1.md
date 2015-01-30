@@ -1,0 +1,35 @@
+Nicomacheam Ethics
+
+### Book 1
+
+- For Aristotle, this happiness is our highest goal. 
+- His goal in the Ethics is not to tell us that we ought to live happy, successful lives, but to tell us what this life consists of. Most people think of happiness as physical pleasure or honor, but this is because they have an imperfect view of the good life.
+- Everyone agrees that the supreme Good is happiness, but people disagree over what constitutes happiness.
+- Common people equate happiness with sensual pleasure: this may be sufficient for animals, but human life has higher ends
+- Others say that receiving honors is the greatest good, but honors are conferred as recognition of goodness, so there must be a greater good that these honors reward
+- Even intelligence and virtue are not good only in themselves, but good also because they make us happy
+- "Ethics seeks to discover the good for an individual and a community (EN i 2), and so it begins with an examination of happiness. Happiness is the right starting point for an ethical theory because, in Aristotle’s view, rational agents necessarily choose and deliberate with a view to their ultimate good, which is happiness; it is the ultimate end, since we want it for its own sake, and we want other things for its sake. If it is to be the ultimate end, happiness must be COMPLETE."" (Aristotle (1999-01-01). Nicomachean Ethics . Hackett Publishing. Kindle Edition.)
+- Once a person has died, according to Aristotle, posthumous honors or dishonors and the behavior of his descendants might affect his happiness somewhat, but to no great extent.
+- "Happiness, then, is apparently something complete and self-sufficient, since it is the end of the things achievable in action." (Aristotle (1999-01-01). Nicomachean Ethics (p. 8). Hackett Publishing. Kindle Edition.)
+- "Moreover, we take the human function to be a certain kind of life, and take this life to be activity and actions of the soul that involve reason; hence the function of the excellent man is to do this well and finely." (Aristotle (1999-01-01). Nicomachean Ethics (p. 9). Hackett Publishing. Kindle Edition.)
+- We can divide the soul into an irrational and a rational part. The irrational soul has two aspects: the vegetative aspect, which deals with nutrition and growth and has little connection to virtue; and the appetitive aspect, which governs our impulses. The rational part of the soul controls these impulses, so a virtuous person with greater rationality is better able to control his or her impulses.
+- That happiness should be closely connected to success and fulfillment reflects an important aspect of social life in ancient Greece.
+- The identity of Greek citizens was so closely linked to the city-state to which they belonged that exile was often thought of as a fate worse than death. There was no distinction between the public and private spheres as exists in the modern world.
+- Aristotle treats happiness as an activity, not as a state. He uses the word energeia, which is the root of our word energy, to characterize happiness.
+- Every activity has a telos, which is an answer to the question,Why are you doing this? Happiness is the ultimate telos because there is no further telos beyond happiness and because the ultimate goal of all our other activities is happiness.
+- When Aristotle identifies happiness as the highest goal, he is claiming that happiness is the ultimate telos of any action.
+- "For to some people happiness seems to be virtue; to others prudence; to others some sort of wisdom; to others again it seems to be these, or one of these, involving pleasure or requiring it to be added; * others add in external prosperity as well." (Aristotle (1999-01-01). Nicomachean Ethics (p. 10). Hackett Publishing. Kindle Edition.)
+- "Further, each type of person finds pleasure in whatever he is called a lover of; a horse, for instance, pleases the horse-lover, a spectacle the lover of spectacles. Similarly, what is just pleases the lover of [10] justice, and in general what accords with virtue pleases the lover of virtue." (Aristotle (1999-01-01). Nicomachean Ethics (p. 11). Hackett Publishing. Kindle Edition.)
+- "This also leads to a puzzle: Is happiness acquired by learning, or habituation, [10] or by some other form of cultivation? Or is it the result of some divine fate, or even of fortune?" (Aristotle (1999-01-01). Nicomachean Ethics (p. 12). Hackett Publishing. Kindle Edition.)
+- "First, then, if the gods give any gift at all to human beings, it is reasonable for them to give us happiness more than any other human good, insofar as it is the best of human goods. § 3 Presumably, however, this question is more suitable for a different inquiry." (Aristotle (1999-01-01). Nicomachean Ethics (p. 12). Hackett Publishing. Kindle Edition.)
+- "[Happiness] [10] is something praiseworthy, or instead something honorable;" (Aristotle (1999-01-01). Nicomachean Ethics (p. 15). Hackett Publishing. Kindle Edition.)
+
+### Book 2
+
+- "Virtue, then, is of two sorts, virtue of thought and virtue of character." (Aristotle (1999-01-01). Nicomachean Ethics (p. 18). Hackett Publishing. Kindle Edition.)
+- There are two kinds of virtue: intellectual and moral. We learn intellectual virtues by instruction, and we learn moral virtues by habit and constant practice. We are all born with the potential to be morally virtuous, but it is only by behaving in the right way that we train ourselves to be virtuous. As a musician learns to play an instrument, we learn virtue by practicing, not by thinking about it.
+- Aristotle proposes three criteria to distinguish virtuous people from people who behave in the right way by accident: first, virtuous people know they are behaving in the right way; second, they choose to behave in the right way for the sake of being virtuous; and third, their behavior manifests itself as part of a fixed, virtuous disposition.
+- "Virtues, by contrast, we acquire, just as we acquire crafts, by having first activated them." (Aristotle (1999-01-01). Nicomachean Ethics (pp. 18-19). Hackett Publishing. Kindle Edition.)
+- "Virtue is about pleasures and pains; the actions that are its sources also increase it or, if they are done badly, ruin it; and its activity is about the same actions as those that are its sources." (Aristotle (1999-01-01). Nicomachean Ethics (p. 21). Hackett Publishing. Kindle Edition.)
+- "First, he must know [that he is doing virtuous actions]; second, he must decide on them, and decide on them for themselves; and, third, he must also do them from a firm and unchanging state." (Aristotle (1999-01-01). Nicomachean Ethics (p. 22). Hackett Publishing. Kindle Edition.)
+- For honor can be desired either in the right way or more or less than is right. If someone desires it to excess, he is called an [30] honor-lover, and if his desire is deficient he is called indifferent to honor, but if he is intermediate he has no name. (Aristotle (1999-01-01). Nicomachean Ethics (p. 26). Hackett Publishing. Kindle Edition)
