@@ -55,3 +55,43 @@
 - How to deal with unforseen circumstances?
 
 #### Second-half
+
+- Aristotle: Happiness is not pleasure and pain
+	- Happiness is enduring.
+- Practice virtue to read a theoretical goal
+- Virtue gets us to reach our goals
+- Virtue is necessary for us to become happy.
+- Plato says: A pleasing life is a philisophical life.
+- Reading numbers:
+	- 1198b25
+	- 1199b27
+	- 1105a30
+	- 1135a5
+- Aristotle was a great observer
+- Different societies have different responses to different things
+	- Different quantities of Alochol consumed is different at different places
+- Some people perform actions because they like the action
+	- Some people perform actions because it gives them some benefit
+		- Exercise
+	- Exercise can be either performed for liking, and also for benefit
+- Greatest good can be defined as being complete
+	- Greatest good would be an activity that is complete
+		- It is performed in itself
+		- For the sake of itself
+	- People seek happiness for happiness itself
+		- Happiness is an end of itself
+		- We seek happiness to become happy
+	- They are important distinctions
+- Things that are endless are bad for Aristotle
+	- Repiticious actions are undesirable for Aristotle
+	- They have to have beginnings and ends
+		- That's what Aristotle thinks & the Greeks
+	- Did our Universe have a beginning before the beginning? Most people think so
+	- For us things going on forever is not a problem, but it was for Aristotle.
+	- Endless accumulation of wealth is great! 
+		- For Aristotle this was senseless. 
+			- Economics: true word meaning was Household Management.
+		- We live in the world with no end. Economic growth has no end, wealth has no end, etc.
+- Everything seeks some good, but everything does not seek the same good.
+	- For Plato all things aimed at good in the same way.
+- Aristole things there needs to be an endpoint.
