@@ -42,8 +42,14 @@ Gallatin
 	- [Moral Behavior: Sentiment, Evolution, and Psychology (HUM)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Moral%20Behavior:%20Sentiment%20%26%20Psychology)
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- Linear Algebra
-- Fall 2015 (16 credits - could graduate?)
-- Spring 2016 (Tentative)
+- Fall 2015
+	- 1 Humanity
+	- 1 Early Modern
+	- Rationale, Booklist
+- Spring 2016
+	- 1 Premodern
+	- 1 Global Cultures
+	- Senior Colloquium
 
 # Left (After Spring 2015)
 
@@ -70,10 +76,4 @@ Gallatin
 	- Premodern: 4.00 required, 0.00 taken, 4.00 needed
 	- Early Modern: 4.00 required, 0.00 taken, 4.00 needed
 	- Global Cultures: 4.00 required, 0.00 taken, 4.00 needed
-- Senior Colloquium: Not Satisfied: Senior Colloquium
-
-# How to fulfil
-
-- Fulfilling 1 Gallatin: Doing 1 Humanities, Early Modern, Global Cultures or Premodern.
-- Senior Fall -> Humanities, Early Modern, Rationale
-- Senior Spring -> Premodern, Global Cultures, Senior Colloquium
+- Senior Colloquium: Not Satisfied
