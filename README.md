@@ -41,7 +41,7 @@ Gallatin
 - Spring 2015
 	- [Moral Behavior: Sentiment, Evolution, and Psychology (HUM)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Moral%20Behavior:%20Sentiment%20%26%20Psychology)
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
-	- Linear Algebra
+	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
 	- 1 Humanity
 	- 1 Early Modern
