@@ -95,3 +95,13 @@
 - Everything seeks some good, but everything does not seek the same good.
 	- For Plato all things aimed at good in the same way.
 - Aristole things there needs to be an endpoint.
+
+### Quotations
+
+1. Human function is rational activity, 1098a12.
+2. The greatest good for Aristotle is happiness, 1097b21.
+3. Human function and the greatest good are related, 1098a17.
+4. Happiness is not rational activity alone, rather happiness is an activity of the soul in accord with virtue, 1098b25.
+5. Virtue is a necessary precursor to happiness, 1099b27.
+6. Virtue is about feelings and actions, 1105a30 and 1106b20.
+7. Aristotle finds that virtue is different for different political systems, but there is still a best and just political system, 1135a5.
