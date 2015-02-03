@@ -12,3 +12,10 @@
 - Creation
 - In Between
 	- Godel, Escher, Bach: An Eternal Golden Braid
+
+#### Books I've read in College
+
+- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+- Alan Turing: The Enigma
+- Turing: Pioneer of the Information Age
+- 
