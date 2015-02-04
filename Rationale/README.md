@@ -1,3 +1,10 @@
+#### Tentative names
+
+- "New-human problem"
+- Looking at the obscurities in our current society
+	- Understanding how we would design AI to understand them
+		- In order to design an AI that mimics a human we need to understand the problems and social situations it will face.
+
 #### Approaches
 
 - Engineering
@@ -25,10 +32,11 @@
 - [Moral Behavior: Sentiment, Evolution, and Psychology (HUM)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Moral%20Behavior:%20Sentiment%20%26%20Psychology)
 - [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 
-#### Engineering classes taken
+#### Computer Science classes taken
 
 - Dealing with Data
 - Computer Systems Org
+- Discrete Mathematics
 - [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
 - [History of Higher Education](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/History%20of%20Higher%20Education)
 - [Algorithmic Problem Solving](https://github.com/AbhiAgarwal/classes/tree/master/Algorithmic%20Problem%20Solving)
@@ -37,9 +45,7 @@
 - [Physical Computing](https://github.com/AbhiAgarwal/classes/tree/master/Physical%20Computing)
 - [Compiler Construction](https://github.com/abhiagarwal/compiler)
 - [Computing with Large Datasets](https://github.com/AbhiAgarwal/classes/tree/master/Computing%20with%20Large%20Data%20Sets)
-- Introduction to Cryptography
-- Discrete Mathematics
-- Linear Algebra
+- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 
 #### Interest classes taken
 
