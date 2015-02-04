@@ -34,17 +34,17 @@
 
 #### Computer Science classes taken
 
+- Discrete Mathematics
+- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Dealing with Data
 - Computer Systems Org
-- Discrete Mathematics
+- [Introduction to Computer Simulations](https://github.com/AbhiAgarwal/classes/tree/master/Simulations)
+- [Physical Computing](https://github.com/AbhiAgarwal/classes/tree/master/Physical%20Computing)
 - [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
 - [Algorithmic Problem Solving](https://github.com/AbhiAgarwal/classes/tree/master/Algorithmic%20Problem%20Solving)
 - [Artificial Intelligence](https://github.com/AbhiAgarwal/classes/tree/master/Artificial%20Intelligence)
-- [Introduction to Computer Simulations](https://github.com/AbhiAgarwal/classes/tree/master/Simulations)
-- [Physical Computing](https://github.com/AbhiAgarwal/classes/tree/master/Physical%20Computing)
-- [Compiler Construction](https://github.com/abhiagarwal/compiler)
 - [Computing with Large Datasets](https://github.com/AbhiAgarwal/classes/tree/master/Computing%20with%20Large%20Data%20Sets)
-- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
+- [Compiler Construction](https://github.com/abhiagarwal/compiler)
 
 #### Interest classes taken
 
