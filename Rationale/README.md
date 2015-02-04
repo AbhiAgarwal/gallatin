@@ -38,7 +38,6 @@
 - Computer Systems Org
 - Discrete Mathematics
 - [Machine Learning](https://github.com/AbhiAgarwal/classes/tree/master/Machine%20Learning)
-- [History of Higher Education](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/History%20of%20Higher%20Education)
 - [Algorithmic Problem Solving](https://github.com/AbhiAgarwal/classes/tree/master/Algorithmic%20Problem%20Solving)
 - [Artificial Intelligence](https://github.com/AbhiAgarwal/classes/tree/master/Artificial%20Intelligence)
 - [Introduction to Computer Simulations](https://github.com/AbhiAgarwal/classes/tree/master/Simulations)
