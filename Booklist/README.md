@@ -1,9 +1,12 @@
 #### Book list (Areas)
 
 - Ancient, Medieval, and Renaissance Classics
+	- Utopia, Thomas More
 - Modernity - The Humanities
 - Modernity - The Social and Natural Sciences
 - Area of Concentration
+
+-----
 
 #### Book list (Tentative)
 
@@ -18,4 +21,3 @@
 - The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
 - Alan Turing: The Enigma
 - Turing: Pioneer of the Information Age
-- 
