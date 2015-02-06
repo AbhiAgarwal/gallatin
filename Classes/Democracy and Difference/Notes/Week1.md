@@ -40,8 +40,7 @@
 
 - All men are born under some government or other, so it is impossible for anyone to be at liberty to unite with others to begin a new government; impossible, anyway, to do this lawfully.
 - All men are born under some government and there- fore can’t be at liberty to begin a new one. Everyone is born a subject to his father, or his king, and is therefore perpetually a subject who owes allegiance to someone.
-- For history, both religious and secular, is full of
-examples of men removing themselves and their obedience from the jurisdiction they were born under and from the family or community they grew up in, and setting up new governments in other places.
+- For history, both religious and secular, is full of examples of men removing themselves and their obedience from the jurisdiction they were born under and from the family or community they grew up in, and setting up new governments in other places.
 - Thus history is full of testimonies against paternal sovereignty, plainly proving that what made governments in the beginning was not a natural right of the father being passed on to his heirs. 
 - Similar to Indian Joint-Families
 - *** A father can indeed attach conditions to the inheritance of his land, so that the son can’t have possession and enjoyment of possessions that used to be his fathers unless he becomes ·or continues to be· a subject of the commonwealth to which the father used to belong. Because that estate is the father’s property, he can dispose of it in any way he likes.
@@ -56,6 +55,55 @@ examples of men removing themselves and their obedience from the jurisdiction th
 
 ### What is Enlightenment, Immanuel Kant.
 
+- Kant replied to the question posed a year earlier by the Reverend Johann Friedrich Zöllner (who was also an official in the Prussian government).
+- Kant's opening paragraph of the essay is a much-cited definition of a lack of Enlightenment as people's inability to think for themselves due not to their lack of intellect, but lack of courage.
+- Enlightenment is man's emergence from his self-incurred immaturity. Immaturity is the inability to use one's own understanding without the guidance of another. 
+- This immaturity is self-incurred if its cause is not lack of understanding, but lack of resolution and courage to use it without the guidance of another.
+- It is so convenient to be immature! If I have a book to have understanding in place of me, a spiritual adviser to have a conscience for me, a doctor to judge my diet for me, and so on, I need not make any efforts at all.
+- Public vs Private use of reason
+	- Private use of reason is doing something because we have to.
+		- Rational workers in a specific occupation use private reasoning to complete tasks.
+	- Public use of reason is doing something on the public sphere because we choose to improve our private function.
+		- Although someone may find his job or function disagreeable, the task must be completed for society to flow consistently
+		- He may, however, use public reasoning in order to complain about the function in the public sphere.
+			- A clergyman is required to teach the doctrines of the church that employs him.
+			- A military officer is required to obey the orders of his superiors.
+			- But the responsibilities of their office do not preclude them from publicly voicing any opinions that may conflict with those responsibilities.
+- Kant asks whether a religious synod or presbytery (a governing body of elders) should be entitled to “commit itself by oath to a certain unalterable set of doctrines."
+	- He answers that a contract like this prevents “all further enlightenment of mankind forever.”
+	- It is impossible and immoral that the people of one generation could restrict the thoughts of the next generation, to prevent the extension and correction of previous knowledge, and stop all future progress.
+	- With freedom, each citizen, especially the clergy, could provide public comment until public insight and public opinion changes the religious institution. 
+	- religious immaturity, "is the most pernicious and dishonourable variety of all.”
+- Religious ideas should not be subject to government oversight, and government should not support “spiritual despotism” against any of his subjects.
+-  His point here is that because of the actions of Frederick, there are fewer obstacles to “universal enlightenment.
+- But the attitude of mind of a head of state who favors freedom in the arts and sciences extends even further, for he realizes that there is no danger even to his legislation if he allows his subjects to make public use of their own reason and to put before the public their thoughts on better ways of drawing up laws, even if this entails forthright criticism of the current legislation. 
+	- We have before us a brilliant example of this kind, in which no monarch has yet surpassed the one to whom we now pay tribute.
+- But only a ruler who is himself enlightened and has no fear of phantoms, yet who likewise has at hand a well-disciplined and numerous army to guarantee public security, may say what no republic would dare to say: Argue as much as you like and about whatever you like, but obey!
+- A high degree of civil freedom seems advantageous to a people's intellectual freedom, yet it also sets up insuperable barriers to it.
+
+---
+
+- Orientation in thinking links very much with direction of thought: on what basis does our thought path determine the way we act?
+	- This is split into two conceptions, theoretical and practical thinking. 
+		- Theoretical thinking is the laws of thought. It is subjective (an assumption), but must be established to prevent us from falling into chaos. A key example of this is the idea of an intelligible first cause and development of our moral attitudes. 
+		- Practical thinking is the application of theoretical thinking to our thoughts, with which we can ensure the basis of moral laws through the concepts of freedom, highest good and happiness.
+
+---
+
+- Humanity as a species requires historical development to become autonomous, for reason does not work instinctively; it requires trial, practice and instruction to allow it to progress. 
+	- ‘Argue as much as you like, but obey’ as, through opposition, a synthesis can develop. ***Resistance is needed for development.***
+
 ### What is Enlightenment, Foucault.
 
+- Foucault's essay reflected on the contemporary status of the project of enlightenment, inverting much of Kant's reasoning but concluding that enlightenment "still entails work on our limits."
+- Michel Foucault begins the essay by analysing the response of Kant  to the question “What is Enlightenment?” According to Foucault, modern philosophy has not been capable of answering  this question. 
+- Kant describes Enlightenment as the moment when humanity puts its own reason to use, without subjecting itself to a authority.
+- Foucault defines Enlightenment as “a modification of the pre-existing relation linking will, authority and the use of reason”
+
 ### Discipline and Punish, Foucault. (pp. 3-31, 195-228)
+
+- This book is a genealogy of the modern soul and the power to judge. It follows four general rules: 
+	- one) to regard punishment as a complex social function; 
+	- two) to regard punishment as a political tactic; 
+	- three) to see whether the history of penal law and of the human sciences are linked; 
+	- four) to try to find in changes in penal techniques a political technology of the body and a general history of changing power relations.
