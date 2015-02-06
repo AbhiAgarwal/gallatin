@@ -1,5 +1,44 @@
 ### Second Treatise of Government, John Locke.
 
+#### Class Notes
+
+- Who is he writing against?
+- Definition of Contract theory
+	- Wrote a constitution & made a government
+	- Charles Mills: Excluding individiuals when forming a society
+		- excluding people in "other"
+- Man can use animals
+	- Superior to the animals
+- "State of nature"
+	- Giving up on natural liberties
+	- Everyone is given an even right to rule
+	- We are naturally equal
+- Writing against divine right
+	- Inherited privilege
+	- Kings are descended from Adam
+	- If it is agreed then it is okay.
+- Governments are modeled to family structure.
+- "Negative-freedom"
+	- Governments don't give you anything.
+	- Doesn't allow you to do more: just protection
+	- Individiual is in the center
+	- Governent: formed to protect "property"
+		- "property": that you own or yourself
+		- Put your labor into it, and you on it?
+- Locke really did think it happened.
+	- there is a pre-history
+	- There was a state of nature before our government
+- Left things out in the contract
+	- "accidently?"
+	- there were biases
+	- it's not like things have been solved today
+- Lets excavate the history
+- Locke is aware of slaves, etc.
+	- Everyone was really invested in this particular things.
+	- All philisophers had slaves.
+
+#### Personal Notes
+
 95
 
 - When any number of men have in this way consented to make one community or government, that immediately incorporates them, turns them into a single body politic in which the majority have a right to act on behalf of the rest and to bind them by its decisions.
@@ -51,9 +90,23 @@
 
 ### Racial Liberalism, Charles Mills.
 
+#### Class Notes
 
+- "These structures did not just happen to come into existence; rather, they were brought into being and are maintained by the actions and inactions of those privileged by them" (page 1387)
+- "In the United States, these assumptions and conceptual devices—the state of nature as empty of aboriginal peoples, society as nonexploitative and consensually and coop- eratively founded, the political state illumi- natingly conceived of as arising through the actions of an invisible hand—are unavoid- ably an abstraction from the European and Euro-American experience of modernity." (page 1837)
+	- They were not exclusionary by mistake.
+- https://en.wikipedia.org/wiki/Veil_of_ignorance
+	- Leave behind everything
+	- Parties to the original position know nothing about their particular abilities, tastes, and position within the social order of society. 
+- everything is based on authority
 
 ### What is Enlightenment, Immanuel Kant.
+
+#### Class Notes
+
+- Not equal access to the public sphere
+
+#### Personal Notes
 
 - Kant replied to the question posed a year earlier by the Reverend Johann Friedrich Zöllner (who was also an official in the Prussian government).
 - Kant's opening paragraph of the essay is a much-cited definition of a lack of Enlightenment as people's inability to think for themselves due not to their lack of intellect, but lack of courage.
@@ -95,12 +148,25 @@
 
 ### What is Enlightenment, Foucault.
 
+#### Class Notes
+
+- "In any case I think that just as we must free ourselves from the intellectual blackmail of being for or against the Enlightenment we must escape from the historical and moral confusionism that mixes the theme of humanism with the question of the Enlightenment".
+- "I do not know whether it must be said today that the critical task still entails faith in Enlightenment".
+
+#### Personal Notes
+
 - Foucault's essay reflected on the contemporary status of the project of enlightenment, inverting much of Kant's reasoning but concluding that enlightenment "still entails work on our limits."
 - Michel Foucault begins the essay by analysing the response of Kant  to the question “What is Enlightenment?” According to Foucault, modern philosophy has not been capable of answering  this question. 
 - Kant describes Enlightenment as the moment when humanity puts its own reason to use, without subjecting itself to a authority.
 - Foucault defines Enlightenment as “a modification of the pre-existing relation linking will, authority and the use of reason”
 
 ### Discipline and Punish, Foucault. (pp. 3-31, 195-228)
+
+#### Class Notes
+
+- Page 222
+
+#### Personal Notes
 
 - This book is a genealogy of the modern soul and the power to judge. It follows four general rules: 
 	- one) to regard punishment as a complex social function; 
