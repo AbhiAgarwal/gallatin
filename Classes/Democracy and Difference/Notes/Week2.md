@@ -1,5 +1,29 @@
 ### Discourse on Inequality, Jean-Jacques Rousseau.
 
+#### Class Notes
+
+- How does subjectivity come out?
+- What is nature or the natural?
+	- No self-awareness
+	- No concept of gender because we aren't aware of that
+	- No sense of individualism
+	- Pity
+		- Instinctual
+			- Out of fear
+			- "Paradoxical Selfish"
+			- You are not aware of yourself
+			- Love of self, "Amour de soi"
+			- Self-love, "Amour propre"
+	- Free will differenciates us from animals
+		- p88
+	- Faculty of self-improvement
+		- 
+- What is perfectability? What is the present?
+- What is the "golden mean"?
+- What is the first society?
+
+#### Personal Notes
+
 - Pages 9-138
 - Jean-Jacques Rousseau
 	- Genevan philosopher, writer, and composer of the 18th century.
@@ -12,6 +36,7 @@ Context
 - The aim of the Discourse is to examine the foundations of inequality among men.
 - To help determine whether this inequality is authorized by natural law.
 - Moral inequality: It is created not by Nature but by a convention or agreement between consenting men
+- Missing out: age is a consideration in inequality.
 
 State of nature
 
