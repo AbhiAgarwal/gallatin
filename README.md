@@ -60,7 +60,7 @@ Gallatin
 - 1 Premodern (4 credits)
 - Senior Colloquium
 
-# Credits remaining (Junior Fall 2014)
+# Credits remaining (pre-Junior Fall 2014)
 
 - What I have left (4 requirements)
 	- 1 Humanities (4 credits)
