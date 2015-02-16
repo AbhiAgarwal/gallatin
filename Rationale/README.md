@@ -22,6 +22,10 @@
 	- How would he approach learning anything we have?
 	- What are things in our society which are difficult to learn?
 
+#### Resources
+
+- [Hobbes' mechanism](https://en.wikipedia.org/wiki/Mechanism_(philosophy))
+
 #### Gallatin classes taken
 
 - [Utopia](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Utopia) (First-Year Writing Seminar)
