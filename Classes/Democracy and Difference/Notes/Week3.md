@@ -2,6 +2,11 @@
 
 #### Class Notes
 
+- "The love?"
+- Each of us are absolute and singular
+	- Absolute unique and singular
+	- Everyone brought into this world is a new beginning
+
 #### Personal Notes
 
 "The Condition of the Modern Man"
