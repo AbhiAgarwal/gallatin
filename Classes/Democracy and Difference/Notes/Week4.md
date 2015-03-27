@@ -1,6 +1,5 @@
 ### Sheldon Wolin. “Fugitive Democracy.” In Benhabib (ed.). Democracy and Difference (pp. 31-45)
 
-
 #### Personal Notes
 
 - Sheldon Wolin is associated with radical democracy, which is localist and participatory, but his own conception, at least since 2004, has been that democracy is "fugitive" by nature. By "fugitive democracy", Wolin means that democracy is constantly under threat, especially from the corporations who would seek to manage democracy to its own purposes (See "Democracy, Inc.).
