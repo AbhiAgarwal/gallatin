@@ -1,5 +1,1 @@
-### Essay 6: Alexander
-
-#### Class Notes
-
-- 
+* Michelle Alexander. The New Jim Crow (Entire Text, pp. 1-261).
