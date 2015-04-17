@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 APR 2015 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 APR 2015 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,12 +221,12 @@ Here is how much of TeX's memory you used:
  5698 multiletter control sequences out of 15000+600000
  8884 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,26p,1075b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,26p,863b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb>
-Output written on Agarwal.pdf (2 pages, 40574 bytes).
+Output written on Agarwal.pdf (2 pages, 39243 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
