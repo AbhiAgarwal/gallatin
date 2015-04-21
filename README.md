@@ -43,37 +43,20 @@ Gallatin
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
-	- 1 Humanity
-	- 1 Early Modern
-	- Rationale, Booklist
+	- Passion and Poetics in Early (Early Modern, Global Cultures)
+	- Dante's World (Humantiy, Premodern)
+	- Distributed Systems
+	- The Seen and The Unseen in Science
+	- Colloquium Workshop
+	- Rationale, and Booklist prepration
 - Spring 2016
-	- 1 Premodern
-	- 1 Global Cultures
 	- Senior Colloquium
 
-# Left (After Spring 2015)
+# Left (After Fall 2015)
 
-- 1 Gallatin (4 credits)
-- 1 Humanities (4 credits)
-- 1 Early Modern (4 credits)
-- 1 Global Cultures (4 credits)
-- 1 Premodern (4 credits)
 - Senior Colloquium
 
-# Credits remaining (pre-Junior Fall 2014)
+# Credits remaining (Post-Fall 2015)
 
-- What I have left (4 requirements)
-	- 1 Humanities (4 credits)
-	- 1 Early Modern (4 credits)
-	- 1 Premodern (4 credits)
-	- 1 Global Cultures (4 credits)
-
-- Graduation: Units: 128.00 required, 106.00 taken, 22.00 needed
-- Total Gallatin Units: Units: 32.00 required, 28.00 taken, 4.00 needed
-- Foundation Requirement
-	- Humanities: Units: 8.00 required, 4.00 taken, 4.00 needed
-- Historical & Cultural Foundation: Units: 12.00 required, 4.00 taken, 8.00 needed
-	- Premodern: 4.00 required, 0.00 taken, 4.00 needed
-	- Early Modern: 4.00 required, 0.00 taken, 4.00 needed
-	- Global Cultures: 4.00 required, 0.00 taken, 4.00 needed
+- Graduation: Units: 128.00 required, 120.00 taken, 8.00 needed
 - Senior Colloquium: Not Satisfied
