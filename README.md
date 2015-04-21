@@ -2,8 +2,8 @@ Gallatin
 ========
 
 - I try and keep open everything I do at NYU. All my classes, documentation, and thoughts I have put into my major upto my graduation.
-- Concentration: "Engineering Creation"
-- ETA graduation: Fall/Spring 2016
+- Concentration: "Creation of Artificial Intelligence", and "Portrayal of Artificial Intelligence"
+- ETA graduation: Spring 2016
 
 # Approaches
 
