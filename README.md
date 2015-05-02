@@ -43,7 +43,7 @@ Gallatin
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
-	- Passion and Poetics in Early (Early Modern, Global Cultures)
+	- Passion and Poetics in Early Japan (Early Modern, Global Cultures)
 	- Dante's World (Humantiy, Premodern)
 	- Distributed Systems
 	- The Seen and The Unseen in Science
