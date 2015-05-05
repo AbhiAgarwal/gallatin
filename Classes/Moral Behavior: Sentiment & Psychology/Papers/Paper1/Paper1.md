@@ -1,1 +1,0 @@
-- Discuss the relationship between virtue, the good, human nature, and pleasure and pain in Aristotle’s Nicomachean Ethics.
