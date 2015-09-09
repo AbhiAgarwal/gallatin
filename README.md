@@ -43,20 +43,19 @@ Gallatin
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
-	- Passion and Poetics in Early Japan (Early Modern, Global Cultures)
-	- Dante's World (Humantiy, Premodern)
-	- Distributed Systems
+	- Passion and Poetics in Early Japan (1 Premodern, 1 Humanity)
+	- [Principles of Programming Languages](https://github.com/AbhiAgarwal/classes/tree/master/Principles%20of%20Programming%20Languages)
 	- The Seen and The Unseen in Science
-	- Colloquium Workshop
-	- Rationale, and Booklist prepration
+	- Colloquium, Rationale, and Booklist prepration
 - Spring 2016
 	- Senior Colloquium
 
 # Left (After Fall 2015)
 
-- Senior Colloquium
+- 1 Early Modern
+- 1 Global Cultures
+- Senior Colloquium: Not Satisfied
 
 # Credits remaining (Post-Fall 2015)
 
-- Graduation: Units: 128.00 required, 120.00 taken, 8.00 needed
-- Senior Colloquium: Not Satisfied
+- Graduation: Units: 128.00 required, 118.00 taken, 10.00 needed
