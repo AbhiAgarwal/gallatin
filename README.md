@@ -43,9 +43,9 @@ Gallatin
 	- [Democracy and Difference (SOC)](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Democracy%20and%20Difference)
 	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
-	- Passion and Poetics in Early Japan (1 Premodern, 1 Humanity)
 	- [Principles of Programming Languages](https://github.com/AbhiAgarwal/classes/tree/master/Principles%20of%20Programming%20Languages)
 	- The Seen and The Unseen in Science
+	- Social networks
 	- Colloquium, Rationale, and Booklist prepration
 - Spring 2016
 	- Senior Colloquium
@@ -53,6 +53,8 @@ Gallatin
 # Left (After Fall 2015)
 
 - 1 Early Modern
+- 1 Premodern
+- 1 Humanity
 - 1 Global Cultures
 - Senior Colloquium: Not Satisfied
 
