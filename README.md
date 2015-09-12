@@ -45,7 +45,7 @@ Gallatin
 - Fall 2015
 	- [Principles of Programming Languages](https://github.com/AbhiAgarwal/classes/tree/master/Principles%20of%20Programming%20Languages)
 	- The Seen and The Unseen in Science
-	- Social networks
+	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 	- Colloquium, Rationale, and Booklist prepration
 - Spring 2016
 	- Senior Colloquium
