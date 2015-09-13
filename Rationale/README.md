@@ -22,6 +22,10 @@
 	- How would he approach learning anything we have?
 	- What are things in our society which are difficult to learn?
 
+#### Notes
+
+- http://www.bloomberg.com/features/2015-preschool-for-robots/
+
 #### Resources
 
 - [Hobbes' mechanism](https://en.wikipedia.org/wiki/Mechanism_(philosophy))
