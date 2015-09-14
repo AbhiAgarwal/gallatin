@@ -44,7 +44,7 @@ Gallatin
 	- [Linear Algebra](https://github.com/AbhiAgarwal/classes/tree/master/Linear%20Algebra)
 - Fall 2015
 	- [Principles of Programming Languages](https://github.com/AbhiAgarwal/classes/tree/master/Principles%20of%20Programming%20Languages)
-	- The Seen and The Unseen in Science
+	- [The Seen and The Unseen in Science](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Seen%20and%20Unseen%20in%20Science)
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 	- Colloquium, Rationale, and Booklist prepration
 - Spring 2016
