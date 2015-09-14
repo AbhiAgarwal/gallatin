@@ -40,3 +40,23 @@ Galileo was a determined:
 - Copernicanism: the astronomical model in which the Earth and planets revolve around the Sun at the center of the Solar System.
 
 Class:
+
+- "Galileo saw mountains on the moon."
+    - Ambiguous
+- Discovery -> 
+    - You encounter gravity every time
+    - When you discover "gravity" you encounter it and then try make a theoretical framework out of it.
+        - Has to have a sense of originality.
+- Cohen (Double S model):
+    1. Instrument 
+    2. Interpretation of the instrument
+- There exists a limit to human senses, and you need to utilize other resources/instruments to extend your human senses. He changed science by trusting the instrument rather than trusting only your senses (looking, smelling).
+- Recognize
+    - Re-congnize. The word means think about what you've already thought about.
+- Tabular Rasa ("Blank slate")
+- "Framework for understanding".
+- Imagination: Rearranging things you already know to create something else
+    - Can you imagine something you don't know anything about.
+- Selective Attention problem
+    - Some invisible gorilla thing
+- Moon: re-cognizing something that already is there.
