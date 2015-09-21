@@ -27,6 +27,13 @@ Learnings:
 
 Class:
 
+- Discovery was serendipitous.
+- Nobody expected X-rays. Holy mysterious things.
+- Vivisection:
+    - Vivisection has a relationship to the rise of vegetarianism. People thought if you don't want to cut open/hurt bodies then you shouldn't eat them either.
+- Horses not zebras. Machines can't discover new things.
+- http://www.npr.org/sections/health-shots/2013/02/11/171409656/why-even-radiologists-can-miss-a-gorilla-hiding-in-plain-sight
+
 Research:
 
 Links:
