@@ -22,6 +22,9 @@ Learnings:
 
 Class:
 
+- Monte Carlo
+- Stellar classification system (OBAFGKM - Oh Be a fine girl kiss me)
+
 Research:
 
 Links:
