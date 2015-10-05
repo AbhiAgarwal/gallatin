@@ -1,62 +1,57 @@
-Reading Telescope II:
+Reading Microscope:
 
-- Sidereus Nuncius, 57-86
-- Cohen, "What Galileo saw: The experience of looking through a telescope"
+- Robert Hooke, Micrographia
+- John Harwood, "Rhetoric and graphics in Micrographia"
 
 Quotes:
 
-- "Science no longer depended on the primary sense-impressions of sight, feel, sound, taste, or smell, but rather on the output of a scientific instrument that became a mediator of the direct impressions of nature" (Cohen, 434).
-- "His telescopes were better because he used lenses which he ground himself" (Cohen, 436).
-- "He openly attacked the axioms of Aristotelian science. One of the most fundamental of these was the doctrine that the moon must be a smooth polished globe, since otherwise it could not move in circulation around the earth as the other 'planets' were supposed to do" (Cohen, 444).
-- "The telescope thus offered Galileo wholly new grounds for undermining Aristotelian science, giving rise to a pressure to find earth-like physical characteristics in the nearest 'planet'" (Cohen, 444).
-- "Jupiter has a system of four moons [implies] that to have an orbiting moon (as the earth does) does not inhibit planetary orbital motion" (Cohen, 444).
-- "Moon was almost universally considered to be a smooth or polished ball, sharing the perfection of the heavenly bodies" (Cohen, 445).
-- "One of the premises of the Copernican premises that posed most difficulty was that the earth is just another planet" (Cohen, 445).
-- "if the earth is not unique, then it should follow that the earth is not the only planet with a satellite." (Cohen, 458).
-- "if Jupiter could move in orbit and not lose four moons, surely there could be no objection to the earth's moving and not losing its single moon" (Cohen, 458).
-- "He showed that he understood how the mind-set of an observer is a determining factor in what the observer 'sees' and imagines. In other and similar contexts, I studied this type of creativity by using the notion of converting the 'unknown' or 'unfamiliar' into the 'familiar' as a means of coping with a new experience" (Cohen, 459).
-- "Substances exist and actions occur which are not merely remote from but completely beyond all our imaginings, lacking any resemblance to ours and therefore being entirely unthinkable" (Cohen, 460).
-- "Many things heretofore invisible 'have become visible by a means of a telescope'" (Cohen, 461).
+- "The only way which now remains for us to recover some degree of those former perfections, seems to be, by rectifying the operations of the Sense, the Memory, and Reason, since upon the evidence, the strength, the integrity, and the right correspondence of all these, all the light, by which our actions are to be guided is to be renewed, and all our command over things it to be establisht" (Hooke, 2).
+- "It is therefore most worthy of our consideration, to recollect their several defects, that so we may the better understand how to supply them, and by what assistances we may inlarge their power, and secure them in performing their particular duties" (Hooke, 2).
+- "The truth is, the Science of Nature has been already too long made only a work of the Brain and the Fancy: It is now high time that it should return to the plainness and soundness of Observations on material and obvious things. It is said of great Empires, That the best way to preserve them from decay, is to bring them back to the first Principles, and Arts, on which they did begin. The same is undoubtedly true in Philosophy, that by wandring far away into invisible Notions, has almost quite destroy'd it self, and it can never be recovered, or continued, but by returning into the same sensible paths, in which it did at first proceed" (Hooke, 4).
+- "I am abundantly satisfied; and all my ambition is, that I may serve to the great Philosophers of this Age, as the makers and the grinders of my Glasses did to me; that I may prepare and furnish them with some Materials, which they may afterwards order and manage with better skill, and to far greater advantage." (Hooke, 4).
+- "The world was not what it seemed. The plates documented that (1) many 'invisible' things actually existed, and that (2) seeing objects microscopically disclosed radically new appearances" (Hardwood, 136).
 
 Pre-notes:
 
-- Ranking of light was something Galileo understood well that was important in understanding the space of the moon.
+- In the preface to Micrographia, Hooke recognized that the human senses, that, despite our incredible intelligence, are imperfect and incapable of discerning much of the world around us.
+- In observing and illustrating the microscopic world, Hooke acted as a scientific vessel, using his own hands (and those of his assistants) to recreate a universe known only to a handful of people alive in his era.
+- But Hooke must have felt like a messenger from a world beyond, delivering a report on sights that he witnessed for perhaps the first time among humans.
+- As he says in his preface, the microscope (and the telescope) allow us to discover completely new worlds, previously unimagined - and Micrographia does a great job of conveying Hooke’s excitement and wonder as he voyaged into the unknown.
 
 Response:
 
-In the second half of Sidereus Nuncius, Galileo made repeated attempts to understand the patterns of the four moons of Jupiter. He repeatedly looked at Jupiter's stars in order to understand what exactly was happening. He did this for many months and precisely tried to lay out a framework to measure the distances between Jupiter's stars and Jupiter, and the distance between each of the stars. Unlike the first half, he focuses on more on the mathematics of the celestial objects and less on their artistic depictions. However, even in the second half his drawings help visualize and depict his confusion (and later clarity) of how the stars were moving.
+Hardwood, throughout his work, really manages to understand and explain the context and excitement behind what Hooke was trying to achieve and his goals around it. Throughout Hooke's work it was really clear to see that he knew he was exploring the unknown. Hooke clearly understood the discovery he had made as he observes that "[the] world was not what it seemed. The plates documented that (1) many 'invisible' things actually existed, and that (2) seeing objects microscopically disclosed radically new appearances" (Hardwood, 136). Throughout his book he manages to keep the reader involved as he makes his groundbreaking discoveries, and in some way interacts with the reader through his dialog.
 
-In his paper, "What Galileo Saw: The Experience of Looking through a Telescope", Cohen repeatedly mentions and tries to stress the idea that Galileo wasn't the first one to either point the telescope upwards nor the person who invented the telescope. But, that Galileo was the first one to introduce the notion that "[science] no longer depended on the primary sense-impressions of sight, feel, sound, taste, or smell, but rather on the output of a scientific instrument that became a mediator of the direct impressions of nature" (Cohen, 434). Cohen writes that "[Galileo shows] that he understood how the mind-set of an observer is a determining factor in what the observer 'sees' and imagines. In other and similar contexts, I studied this type of creativity by using the notion of converting the 'unknown' or 'unfamiliar' into the 'familiar' as a means of coping with a new experience" (Cohen, 459). Galileo had an excellent intuition in utilizing his artistic ability to intrigue people, and then using his mathematical and reasoning skills to convince them or at least implant the idea. Through both of his findings he begins to raise ideas such as: "if Jupiter could move in orbit and not lose four moons, surely there could be no objection to the earth's moving and not losing its single moon" (Cohen, 458), and "if the earth is not unique, then it should follow that the earth is not the only planet with a satellite." (Cohen, 458). 
+Hooke also seemed to support and extend the idea that we can no longer only rely on our senses, but we have to learn to trust and adapt to using tools to understand more of the world around us. He states this very explicitly at the beginning of his work: "[the] only way which now remains for us to recover some degree of those former perfections, seems to be, by rectifying the operations of the Sense, the Memory, and Reason, since upon the evidence, the strength, the integrity, and the right correspondence of all these, all the light, by which our actions are to be guided is to be renewed, and all our command over things it to be establisht" (Hooke, 2).
+
+One of the similarities I found between Hooke and Galileo was the realization that "Science of Nature has been already too long made only a work of the Brain and the Fancy: It is now high time that it should return to the plainness and soundness of Observations on material and obvious things" (Hooke, 4). Galileo also seemed to want to utilize simple (or complex) instruments to try and study the world around him.
 
 Questions:
 
-1. Uncertain whether the moon counts as heaven or not. Was lead to believe that everything after the moon was supposed to be this perfect and heavenly place. However is the moon counted in that? 
+1. Hooke discovered Hooke's law before he started at the Royal Society. I think at his time at Oxford. Why was he still just seen as a Mechanic and not a real physicist or a gentlemen?
 
 Learnings:
 
-Galileo was a determined:
-
-- Anti-Aristotelianism
-- Copernicanism: the astronomical model in which the Earth and planets revolve around the Sun at the center of the Solar System.
-
 Class:
 
-- "Galileo saw mountains on the moon."
-    - Ambiguous
-- Discovery -> 
-    - You encounter gravity every time
-    - When you discover "gravity" you encounter it and then try make a theoretical framework out of it.
-        - Has to have a sense of originality.
-- Cohen (Double S model):
-    1. Instrument 
-    2. Interpretation of the instrument
-- There exists a limit to human senses, and you need to utilize other resources/instruments to extend your human senses. He changed science by trusting the instrument rather than trusting only your senses (looking, smelling).
-- Recognize
-    - Re-congnize. The word means think about what you've already thought about.
-- Tabular Rasa ("Blank slate")
-- "Framework for understanding".
-- Imagination: Rearranging things you already know to create something else
-    - Can you imagine something you don't know anything about.
-- Selective Attention problem
-    - Some invisible gorilla thing
-- Moon: re-cognizing something that already is there.
+- The Royal Society had a wrong picture of him for 300 years.
+- Newton vs Hooke conflicts.
+- "The fall": post-lapsarian world. After the Apple was eaten. We were thrown out of the Garden of Eden. Pre-lapsarian world vs Post-lapsarian world.
+    - "Service" to God by studying the fundamentals of the world he created.
+- "Even the filth of our world is beautiful", "Every aspect of reality is beautiful".
+- Hooke: society structure is what limits.
+- Ideal vs what a flea is.
+    - Platonist would say that you're drawing the perfect flea.
+    - Anti-Platonist would say that you're demonstrating and drawing a diagram/image to display the flea.
+- The word "scientist": coined in 1833, William Whewell. (http://www.npr.org/templates/story/story.php?storyId=127037417)
+    - People would call Hooke a "Mechanic" or "Rude Mechanic" or "Rude Mechanical" - "Gentlemen don't have dirty hands".
+    - Mechanical in six characters in A Midsummer Night's Dream. https://en.wikipedia.org/wiki/Mechanical_(character)
+
+Research:
+
+- Deism
+
+Links:
+
+- http://www.itsokaytobesmart.com/post/34135758361/robert-hooke-micrographia
+- http://hookeslondon.com/2013/03/27/restoration-reading-micrographia/

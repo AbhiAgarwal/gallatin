@@ -1,57 +1,39 @@
-Reading Microscope:
+Reading X-ray:
 
-- Robert Hooke, Micrographia
-- John Harwood, "Rhetoric and graphics in Micrographia"
+- Pasveer, "Representing or mediating"
 
 Quotes:
 
-- "The only way which now remains for us to recover some degree of those former perfections, seems to be, by rectifying the operations of the Sense, the Memory, and Reason, since upon the evidence, the strength, the integrity, and the right correspondence of all these, all the light, by which our actions are to be guided is to be renewed, and all our command over things it to be establisht" (Hooke, 2).
-- "It is therefore most worthy of our consideration, to recollect their several defects, that so we may the better understand how to supply them, and by what assistances we may inlarge their power, and secure them in performing their particular duties" (Hooke, 2).
-- "The truth is, the Science of Nature has been already too long made only a work of the Brain and the Fancy: It is now high time that it should return to the plainness and soundness of Observations on material and obvious things. It is said of great Empires, That the best way to preserve them from decay, is to bring them back to the first Principles, and Arts, on which they did begin. The same is undoubtedly true in Philosophy, that by wandring far away into invisible Notions, has almost quite destroy'd it self, and it can never be recovered, or continued, but by returning into the same sensible paths, in which it did at first proceed" (Hooke, 4).
-- "I am abundantly satisfied; and all my ambition is, that I may serve to the great Philosophers of this Age, as the makers and the grinders of my Glasses did to me; that I may prepare and furnish them with some Materials, which they may afterwards order and manage with better skill, and to far greater advantage." (Hooke, 4).
-- "The world was not what it seemed. The plates documented that (1) many 'invisible' things actually existed, and that (2) seeing objects microscopically disclosed radically new appearances" (Hardwood, 136).
+- Mechanical objectivity
+- "[machines] produced not only more observations, but better observations" (Pasveer, 42).
+- "X-ray photographs could be examined in the absence of the patient, they could be carried around and studied by anyone interested and competent" (Pasveer, 55)
 
 Pre-notes:
 
-- In the preface to Micrographia, Hooke recognized that the human senses, that, despite our incredible intelligence, are imperfect and incapable of discerning much of the world around us.
-- In observing and illustrating the microscopic world, Hooke acted as a scientific vessel, using his own hands (and those of his assistants) to recreate a universe known only to a handful of people alive in his era.
-- But Hooke must have felt like a messenger from a world beyond, delivering a report on sights that he witnessed for perhaps the first time among humans.
-- As he says in his preface, the microscope (and the telescope) allow us to discover completely new worlds, previously unimagined - and Micrographia does a great job of conveying Hooke’s excitement and wonder as he voyaged into the unknown.
+- Wilhelm Conrad Röntgen: produced and detected electromagnetic radiation in a wavelength range known as X-rays or Röntgen rays, an achievement that earned him the first Nobel Prize in Physics in 1901.
+- X is the algebraic symbol of the unknown. He never saw any ray like it so he decides to name it X-ray.
 
 Response:
 
-Hardwood, throughout his work, really manages to understand and explain the context and excitement behind what Hooke was trying to achieve and his goals around it. Throughout Hooke's work it was really clear to see that he knew he was exploring the unknown. Hooke clearly understood the discovery he had made as he observes that "[the] world was not what it seemed. The plates documented that (1) many 'invisible' things actually existed, and that (2) seeing objects microscopically disclosed radically new appearances" (Hardwood, 136). Throughout his book he manages to keep the reader involved as he makes his groundbreaking discoveries, and in some way interacts with the reader through his dialog.
+Out of the three readings we've done, this seemed like the most that showed doctors/scientists/businessmen that science and technology had the ability to directly improve everyone's lives, and not just for the scientific and rich to use it to understand the world. Science isn't a closed-box that serves to improve itself, but also the world around it. X-rays also became somewhat used and tested by a lot of labs and scientists very quickly - in 1895 Thomas Edison made some improvements on it, and by 1896 Dartmouth College was testing its ability detect a fracture (It doesn't hurt that post-Röntgen discovering the X-ray there were significant discoveries in Physics by Henri Becquerel, J.J. Thomson and Marie Curie).
 
-Hooke also seemed to support and extend the idea that we can no longer only rely on our senses, but we have to learn to trust and adapt to using tools to understand more of the world around us. He states this very explicitly at the beginning of his work: "[the] only way which now remains for us to recover some degree of those former perfections, seems to be, by rectifying the operations of the Sense, the Memory, and Reason, since upon the evidence, the strength, the integrity, and the right correspondence of all these, all the light, by which our actions are to be guided is to be renewed, and all our command over things it to be establisht" (Hooke, 2).
+There were significant improvements in other fields that pushed for validation of your work (in this case diagnosis) by use of instruments (such as telescopes). Through the discovery of X-rays this idea was reinforced, and physicians could more confidently validate their diagnosis. The unseen was made seen. At the time, though, the reports from the x-ray would have been unbelievable by the general audience (as we've seen in this reading). I imagined it being as if someone told us they were able to fully-map our own brains and it be able to tell you how information flows through it.
 
-One of the similarities I found between Hooke and Galileo was the realization that "Science of Nature has been already too long made only a work of the Brain and the Fancy: It is now high time that it should return to the plainness and soundness of Observations on material and obvious things" (Hooke, 4). Galileo also seemed to want to utilize simple (or complex) instruments to try and study the world around him.
+All three of the things we've seen have something to do with observing and coming out with a drawn final result. The drawn result has shown to be incredible powerful in the study of science and now in diagnosis as Pasveer writes "X-ray photographs could be examined in the absence of the patient, they could be carried around and studied by anyone interested and competent" (Pasveer, 55). To me, this represents a new world where you're able to study a living person while they are not there, and a world where you're able to reference exact details in past cases and match them. The learning from past cases is, in my opinion, very important as he enabled a way for us to pass on exact and repeatable medical knowledge (or any type of x-ray related knowledge) in the same way we pass on mathematics or history in books.
 
 Questions:
-
-1. Hooke discovered Hooke's law before he started at the Royal Society. I think at his time at Oxford. Why was he still just seen as a Mechanic and not a real physicist or a gentlemen?
 
 Learnings:
 
 Class:
 
-- The Royal Society had a wrong picture of him for 300 years.
-- Newton vs Hooke conflicts.
-- "The fall": post-lapsarian world. After the Apple was eaten. We were thrown out of the Garden of Eden. Pre-lapsarian world vs Post-lapsarian world.
-    - "Service" to God by studying the fundamentals of the world he created.
-- "Even the filth of our world is beautiful", "Every aspect of reality is beautiful".
-- Hooke: society structure is what limits.
-- Ideal vs what a flea is.
-    - Platonist would say that you're drawing the perfect flea.
-    - Anti-Platonist would say that you're demonstrating and drawing a diagram/image to display the flea.
-- The word "scientist": coined in 1833, William Whewell. (http://www.npr.org/templates/story/story.php?storyId=127037417)
-    - People would call Hooke a "Mechanic" or "Rude Mechanic" or "Rude Mechanical" - "Gentlemen don't have dirty hands".
-    - Mechanical in six characters in A Midsummer Night's Dream. https://en.wikipedia.org/wiki/Mechanical_(character)
+- Discovery was serendipitous.
+- Nobody expected X-rays. Holy mysterious things.
+- Vivisection:
+    - Vivisection has a relationship to the rise of vegetarianism. People thought if you don't want to cut open/hurt bodies then you shouldn't eat them either.
+- Horses not zebras. Machines can't discover new things.
+- http://www.npr.org/sections/health-shots/2013/02/11/171409656/why-even-radiologists-can-miss-a-gorilla-hiding-in-plain-sight
 
 Research:
 
-- Deism
-
 Links:
-
-- http://www.itsokaytobesmart.com/post/34135758361/robert-hooke-micrographia
-- http://hookeslondon.com/2013/03/27/restoration-reading-micrographia/

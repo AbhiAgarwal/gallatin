@@ -1,25 +1,20 @@
-Reading X-ray:
-
-- Pasveer, "Representing or mediating"
+Reading Particle Physics:
 
 Quotes:
 
-- Mechanical objectivity
-- "[machines] produced not only more observations, but better observations" (Pasveer, 42).
-- "X-ray photographs could be examined in the absence of the patient, they could be carried around and studied by anyone interested and competent" (Pasveer, 55)
+- "One does not often question the published parameters of an experimental apparatus, and to do so, one must have a very good reason" (Alvarez, 979).
+- "At every level the traditions clashed: golden event versus statistical demonstration, the objectivity of passive registration versus the persuasiveness of experiment control, vision versus numbers, and photography versus electronics" (Galison, 363).
+- "'golden event': the single picture of such clarity and distinctness that it commands acceptance" (Galison, 360).
 
 Pre-notes:
 
-- Wilhelm Conrad Röntgen: produced and detected electromagnetic radiation in a wavelength range known as X-rays or Röntgen rays, an achievement that earned him the first Nobel Prize in Physics in 1901.
-- X is the algebraic symbol of the unknown. He never saw any ray like it so he decides to name it X-ray.
-
 Response:
 
-Out of the three readings we've done, this seemed like the most that showed doctors/scientists/businessmen that science and technology had the ability to directly improve everyone's lives, and not just for the scientific and rich to use it to understand the world. Science isn't a closed-box that serves to improve itself, but also the world around it. X-rays also became somewhat used and tested by a lot of labs and scientists very quickly - in 1895 Thomas Edison made some improvements on it, and by 1896 Dartmouth College was testing its ability detect a fracture (It doesn't hurt that post-Röntgen discovering the X-ray there were significant discoveries in Physics by Henri Becquerel, J.J. Thomson and Marie Curie).
+Culturally, this reading shows how big the shift in the average scientific methodology was from Galileo to Galison. Alvarez, in "Analysis of a Reported Magnetic Monopole", writes "[one] does not often question the published parameters of an experimental apparatus, and to do so, one must have a very good reason" (Alvarez, 979). The shift was from people not utilizing scientific equipment in their everyday experimenting (during Galileo's time) to people not trusting and doubting their scientific equipment (during Hooke's time) to, now, people taking the results produced by their scientific equipment to be an assumed trustworthy source. In addition, for an individual who's very passionate about the use of scientific equipment, Alvarez, is cautious of automation of everything. He seeks a balance between relying on scientific equipment to find discoveries for you, and using scientific equipment to test hypotheses.
 
-There were significant improvements in other fields that pushed for validation of your work (in this case diagnosis) by use of instruments (such as telescopes). Through the discovery of X-rays this idea was reinforced, and physicians could more confidently validate their diagnosis. The unseen was made seen. At the time, though, the reports from the x-ray would have been unbelievable by the general audience (as we've seen in this reading). I imagined it being as if someone told us they were able to fully-map our own brains and it be able to tell you how information flows through it.
+The other very interesting idea presented was the idea of the shift away from the golden event. A golden event as Galison described it was "the single picture of such clarity and distinctness that it commands acceptance" (Galison, 360). Galison, when discussing scientific methodology, writes "[at] every level the traditions clashed: golden event versus statistical demonstration, the objectivity of passive registration versus the persuasiveness of experiment control, vision versus numbers, and photography versus electronics" (Galison, 363). Galison argues that there are two approaches: one that relied and looked for evidence in photography, and one that looked for evidence on statistical evidence. You're not able to use your senses to research fields like Particle Physics, but scientific equipment and statistics.
 
-All three of the things we've seen have something to do with observing and coming out with a drawn final result. The drawn result has shown to be incredible powerful in the study of science and now in diagnosis as Pasveer writes "X-ray photographs could be examined in the absence of the patient, they could be carried around and studied by anyone interested and competent" (Pasveer, 55). To me, this represents a new world where you're able to study a living person while they are not there, and a world where you're able to reference exact details in past cases and match them. The learning from past cases is, in my opinion, very important as he enabled a way for us to pass on exact and repeatable medical knowledge (or any type of x-ray related knowledge) in the same way we pass on mathematics or history in books.
+Moreover, I also thought that Galison implies that now we use statistics in experimentation because its become fundamental at cognition level (the brain), and helps us perceive the world around us.
 
 Questions:
 
@@ -27,12 +22,8 @@ Learnings:
 
 Class:
 
-- Discovery was serendipitous.
-- Nobody expected X-rays. Holy mysterious things.
-- Vivisection:
-    - Vivisection has a relationship to the rise of vegetarianism. People thought if you don't want to cut open/hurt bodies then you shouldn't eat them either.
-- Horses not zebras. Machines can't discover new things.
-- http://www.npr.org/sections/health-shots/2013/02/11/171409656/why-even-radiologists-can-miss-a-gorilla-hiding-in-plain-sight
+- Monte Carlo
+- Stellar classification system (OBAFGKM - Oh Be a fine girl kiss me)
 
 Research:
 
