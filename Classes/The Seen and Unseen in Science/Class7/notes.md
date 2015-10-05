@@ -40,6 +40,9 @@ Learnings:
 
 Class:
 
+- Sublime: Feeling you have. When you look at the ocean. Glory of human God. If you see a miracle. Standing on top of the Mountain. Awe comes a long with sublime. Gasp feeling. Thinking about things that are bigger than yourself. Sense of perfection. Perfection you can just tap into.
+- Electricity is just a tiny bit of the energy/power hidden within the universe.
+
 Research:
 
 Links:
