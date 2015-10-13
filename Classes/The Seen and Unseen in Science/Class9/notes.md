@@ -37,6 +37,7 @@ Pre-notes:
     - Intuition
     - Common Sense
     - Decision theory
+    - Survival skills
 
 Response:
 
@@ -63,6 +64,15 @@ Questions:
 Learnings:
 
 Class:
+
+- 20th century: beginning of the public education system.
+- Keep the "morons"/dump people out of the army.
+- Native category: understand intuitively, but when pressed you have a hard time explaining it.
+- Realist position on intelligence: really there and you can explain it.
+- Heuristic interpretation of intelligence.
+- Intelligence is important for social categorization.
+- "If you're smart then you stay in school longer".
+- Correlation does not imply causality.
 
 Research:
 
