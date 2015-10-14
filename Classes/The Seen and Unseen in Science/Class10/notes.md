@@ -35,6 +35,24 @@ Learnings:
 
 Class:
 
+- Alien hypothesis: purely mental construction. If you had typhoid fever.
+- Dreams:
+    1. Communicate with you
+    2. Wish fulfillment
+    3. Bad dreams -> Your mind is just trying to go against Freudian theory.
+    4. Society doesn't want you to express your opinions. We have moral and intellectual pressures. We can't talk about these socially so these issues come out in your subconscious.
+    5. Trauma is hard to deal with with a conscious mind so your subconscious has to deal with it.
+        - Useful for War trauma.
+- Software vs Hardware analogy. Software is what things you think about in your brain, and hardware is your brain. Neurosurgeons look at hardware, and psychoanalysis look at software.
+- Freud would rather talk to people rather than use medical reasons to fix a problem. Example: when you have a broken arm.
+- Cold reading: Cold reading is a set of techniques used by mentalists, psychics, fortune-tellers, mediums and illusionists to imply that the reader knows much more about the person than the reader actually does.
+- ELIZA bot
+- [The Manchurian Candidate](https://en.wikipedia.org/wiki/The_Manchurian_Candidate)
+- Brave new work vs 1984
+- Psychopathy Checklist or Hare Psychopathy Checklist-Revised
+- My urge to drink Coca-Cola proves that my subconscious exist.
+- Star Wars: A new Hope.
+
 Research:
 
 Links:
