@@ -4,8 +4,6 @@ Reading The unconscious:
 
 Quotes:
 
-- 
-
 Pre-notes:
 
 - Basic tenets of psychoanalysis:
