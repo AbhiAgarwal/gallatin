@@ -25,6 +25,9 @@ Learnings:
 
 Class:
 
+- Weakly interactive massive particles (WIMPs)
+- Strongly interacting massive particle
+
 Research:
 
 Links:
