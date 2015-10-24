@@ -49,7 +49,7 @@
     - "Subject to the premiss that dreams are psychical phenomena, and subject to the further premiss that there are mental things in a man which he knows without knowing that he knows them..."
     - "Bringing to consciousness the unconscious processes which contained the sense of the symptoms".
     - "each individual who makes a fresh entry into human society repeats this sacrifice of instinctual satisfaction for the benefit of the whole community".
-    - "unevenness and roughness...demands and hesitations."
+    - unevenness and roughness...demands and hesitations."
 
 - Marcia Bartusiak (Class 11 - Dark Matter)
     - "Rubin realized that a huge reservoir of extra material, invisible to her telescope, must be tucked away somewhere to keep the stars from flying out of the galaxy" (Bartusiak, 212).
