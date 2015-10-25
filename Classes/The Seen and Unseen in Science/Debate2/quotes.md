@@ -1,3 +1,7 @@
+%\par ``No system of physical measurement exists from which all knowledge based on induction is eliminated; this is true even of direct weighing. A single glance into a precision laboratory shows us how many experiences and abstractions are comprised in one such measurement, simple as it may appear" (Planck, 24).
+
+%\par ``he could measure nothing except by chance collisions of movements imperceptible to his senses, perhaps even imperceptible to his instruments, but perceptible to each other, and so to some known ray at the end of the scale" (Adams, 2).
+
 # Quotes
 
 - Ernst Mach (Class 6 - Atoms)
