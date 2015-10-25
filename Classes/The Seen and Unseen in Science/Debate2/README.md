@@ -10,7 +10,7 @@
     - "that atoms, as little as we know of their detailed properties, are no more and no less real than the heavenly bodies, or the earthly objects which surround us" (24).
 4. You've never seen it in action. Possible to have two different results.
     - "fellow physicists, after conducting the same experiment quite independently, claimed to have reached opposite conclusions--as does sometimes happen--then he would be committing an error of principle if he inferred that at least one of them must be mistaken" (Planck, 24)
-5. Very small number of Jeti's that exist. Extremely possible he's just never encountered one. Given there are 100s of quadrillion beings in the galaxy, and not many Jeti's.
+5. Very small number of Jedi's that exist. Extremely possible he's just never encountered one. Given there are 100s of quadrillion beings in the galaxy, and not many Jedi's.
     - Not many people have a reason to fight with the Jedi's.
     - Possible he's not interpreting the force correctly.
         - Han thinks they are a "religion" in Clone Wars.
