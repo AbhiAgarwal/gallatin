@@ -18,6 +18,8 @@ Learnings:
 
 Class:
 
+- Our ranking in the universe
+
 Research:
 
 Links:
