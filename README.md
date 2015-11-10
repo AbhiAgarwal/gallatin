@@ -48,7 +48,7 @@ Gallatin
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 	- Colloquium, Rationale, and Booklist preparation
 - Spring 2016 (Potential)
-	- Globalization: Promises and Discontents (Global, Pre, Humanity)
+	- The Arabian Nights (Humanity, Pre, Early, Global)
 	- Becoming Global? "Europe" and the World (Humanity, Early)
 	- Understanding the Universe (Science)
 	- Robotics
