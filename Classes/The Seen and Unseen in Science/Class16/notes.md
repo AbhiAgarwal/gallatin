@@ -9,6 +9,7 @@ Quotes:
 - "The key part of brain imaging is that as the image becomes more simple and ionic, it also becomes more subjective (personally invested in) and universal (generalizable to human nature)" (Dumit, 147).
 - "The medical imaging advantage was measured in two ways. First, it allowed correlation between brains and diagnosis among living humans, thus permitting anew the equation of brain=illness. Second, medical imaging promised to provide early warnings of the onset of mental illness, one of the largest problems in its treatment and prevention" (Dumit, 147).
 - "New Seeing-Eye Machines ... look inside your body, can save your life" (161).
+- "I am fascinated and horrified by the possibility posed here, of a world in which technology can tell me who I truly am".
 
 Pre-notes:
 
@@ -23,6 +24,10 @@ Dumit further reinforces the idea that in every scientific representation there 
 Questions:
 
 Learnings:
+
+- WEIRD -> Western, Educated, Industrialized, Rich, and Democratic.
+- PET scan: measure of blood flow.
+- MRI scan: measure of density.
 
 Class:
 
