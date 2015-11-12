@@ -48,10 +48,12 @@ Gallatin
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 	- Colloquium, Rationale, and Booklist preparation
 - Spring 2016 (Potential)
-	- The Arabian Nights (Humanity, Pre, Early, Global)
 	- Becoming Global? "Europe" and the World (Humanity, Early)
-	- Understanding the Universe (Science)
-	- Robotics
+	- Global Noodles: Silk Routes & Subway Connections (Humanity, Premodern, Global)
+	- Media and Empire (Global)
+	- * The Arabian Nights (Humanity, Pre, Early, Global)
+	- * Understanding the Universe (Science)
+	- * Robotics
 	- Senior Colloquium
 
 # Left (Pre-picking Spring 2016 classes)
