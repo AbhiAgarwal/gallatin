@@ -16,7 +16,6 @@
         - Images like the double helix or the Bohr atom.
     - "the genealogy one gives" (237).
     - "self evidence" (239).
-    - "we only become aware of our processes of interpretation with photographs when we are looking for some trick in them" (242).
     - "We only become aware of our processes of interpretation with photographs when we are looking for some trick in them" (Myers, 242).
     - "If realism is important, the best choices may well be photographs. Otherwise, diagrams, which allow you to emphasize certain features and eliminate the rest, are often the best medium" (Myers, 244).
     - "captions tell us what happened before, what will happen after, what usually happens" (254).

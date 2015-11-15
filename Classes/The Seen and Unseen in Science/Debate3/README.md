@@ -5,6 +5,8 @@
 
 - Side A: Trust the picture: the decision not to drop the bomb was made based on a picture produced by significant technological and scientific expertise, and is therefore trustworthy.
 
+Writings supporting Side A:
+
 Quotes:
 
 - Voss:
@@ -16,10 +18,14 @@ Quotes:
 
 - Side B: Drop the bomb: a scientific and technological picture is not sufficient grounds for making a decision of this magnitude.
 
+Writings supporting side B: Myers
+
 Quotes:
 
 - Voss:
 - Myers:
+    - "It must not be imagined that any drawing represents what the observer sees the moment he looks through the telescope. Instants of exceptional seeing flash out, here and there, at different spots on the planet. It is not till the same phenomena repeat themselves in the same, in the same place, a great number of times, that the observer learns to trust these impressions. One has to keep one's mind constantly at the highest pitch to catch and retain what the eye sees" (50).
+    - 
 - Lane:
 - Tucker:
 - Dumit:
