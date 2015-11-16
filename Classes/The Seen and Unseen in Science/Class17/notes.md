@@ -24,13 +24,15 @@ From discussions in class, and this reading I realize that diagrams should be di
 
 Moreover, one of the points Tufte makes is similar to the discussion that we had in class about the grid of brains, and the differences in their color. Tufte writes, "The interior decoration of graphs generates a lot of ink that does not tell the viewer anything new. The purpose of decoration varies-to make the graphic appear more scientific and precise, to enliven the display, to give the designer an opportunity to exercise artistic skills" (107) (It might not have been a decoration, but could have been a filter for some medical use - lets assume it was a decoration). The decoration is important to help stress certain data points, and helps guide the individual into looking at what is important. Tufte writes about the red dots or highlights that are used to highlight high-cancer zones on maps. 
 
-I also have a question: the book is very much displayed to have a lot of whitespace on the right side. Why is that? His book is a somewhat scientific representation of data visualization so I was trying to use his work to try and figure out why he does that. Also, similar to what Zoe said, the diagrams are incredible. I was blown away by the diagrams on page: 34, 41, 115 (and many others) after I understood them.
+I also have a question: the book is very much displayed to have a lot of whitespace on the right side. Why is that? His book is a somewhat scientific representation of data visualization so I was trying to use his work to try and figure out why he does that. Also, similar to what Zoe said, the diagrams are incredible. I was blown away by the diagrams on page: 34, 41, 115, 143 (and many others) after I understood them.
 
 Questions:
 
 Learnings:
 
 Class:
+
+- http://www.tylervigen.com/spurious-correlations
 
 Research:
 

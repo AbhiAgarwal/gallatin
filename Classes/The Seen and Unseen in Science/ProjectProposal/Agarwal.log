@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 NOV 2015 00:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 NOV 2015 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,7 +344,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 Here is how much of TeX's memory you used:
  3443 strings out of 493089
  47416 string characters out of 6134842
- 118902 words of memory out of 5000000
+ 119902 words of memory out of 5000000
  6871 multiletter control sequences out of 15000+600000
  10321 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -352,7 +352,7 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.en
 c}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Agarwal.pdf (1 page, 22501 bytes).
+Output written on Agarwal.pdf (1 page, 24955 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream

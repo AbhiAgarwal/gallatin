@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Intelligence
+- https://en.wikipedia.org/wiki/Outline_of_human_intelligence
+- https://en.wikipedia.org/wiki/Human_intelligence
