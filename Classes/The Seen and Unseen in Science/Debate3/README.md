@@ -5,7 +5,7 @@
 
 - Side A: Trust the picture: the decision not to drop the bomb was made based on a picture produced by significant technological and scientific expertise, and is therefore trustworthy.
 
-Writings supporting Side A:
+Writings supporting Side A: Dumit, 
 
 Quotes:
 

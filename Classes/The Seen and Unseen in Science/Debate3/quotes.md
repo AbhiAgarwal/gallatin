@@ -8,7 +8,7 @@
     - "a broad range of systematic pictures and diagrams existed in the nineteenth century. They took advantage of every geometric construct available, from circles, ladders, and squares to lines, stars and brackets" (72).
     - "attempt to classify the animal world according to attributes seen in embryonic development" (94).
     - "Darwin’s evolution did not follow a goal. But neither did the mechanisms of variation and selection he descried constitute a law comparable to the classical laws of mechanics, which could be expressed in mathematical terms"
-    - "He did not believe in ‘any fixed law of development" (125).
+    - "He did not believe in any fixed law of development" (125).
     "In the years that followed, Darwin completed his picture of evolution, and the sketches became a book illustration. Since 1837 he had tirelessly drawn new diagrams, filling page after page with a luxuriant growth of genealogies, branches, and origins. The sketches, showing the history of rodents or marsupials, became increasingly complex. Each hypothetical line was tested over the years with countless questions, the study of equally countless journals and books, experiments in his front yard, and statistical analysis" (108).
 - Myers:
     - "It must not be imagined that any drawing represents what the observer sees the moment he looks through the telescope. Instants of exceptional seeing flash out, here and there, at different spots on the planet. It is not till the same phenomena repeat themselves in the same, in the same place, a great number of times, that the observer learns to trust these impressions. One has to keep one's mind constantly at the highest pitch to catch and retain what the eye sees" (50).
