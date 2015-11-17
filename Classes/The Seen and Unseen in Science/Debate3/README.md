@@ -18,7 +18,7 @@ Quotes:
 
 - Side B: Drop the bomb: a scientific and technological picture is not sufficient grounds for making a decision of this magnitude.
 
-Writings supporting side B: Myers
+Writings supporting side B: Myers, Tucker
 
 Quotes:
 
