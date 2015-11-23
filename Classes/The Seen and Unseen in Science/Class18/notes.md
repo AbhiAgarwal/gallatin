@@ -25,6 +25,19 @@ Learnings:
 
 Class:
 
+Shapere:
+
+- What do we mean by observe?
+- Direct observation vs indirect observation.
+
+Pinch:
+
+- How does a community talk about observation?
+- Black box
+    - Removes ethics and morals.
+- Sociology of scientific knowledge (SSK)
+- Is there anything special about scientific observation?
+
 Research:
 
 Links:
