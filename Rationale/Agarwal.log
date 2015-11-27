@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  26 NOV 2015 23:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  27 NOV 2015 02:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -808,20 +808,23 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+
+ []
+
 Missing character: There is no ­ in font Hoefler Text/AAT:mapping=tex-text;mapp
 ing=tex-text;mapping=tex-text;!
- [1
-
-] [2]
-(./Agarwal.aux) ) 
+[2] [3] (./Agarwal.aux) ) 
 Here is how much of TeX's memory you used:
- 14243 strings out of 493706
- 295653 string characters out of 6145769
- 323488 words of memory out of 5000000
- 17477 multiletter control sequences out of 15000+600000
- 8801 words of font info for 60 fonts, out of 8000000 for 9000
+ 14245 strings out of 493706
+ 295748 string characters out of 6145769
+ 324488 words of memory out of 5000000
+ 17478 multiletter control sequences out of 15000+600000
+ 8809 words of font info for 61 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  42i,6n,102p,10396b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Agarwal.pdf (2 pages).
+Output written on Agarwal.pdf (3 pages).
