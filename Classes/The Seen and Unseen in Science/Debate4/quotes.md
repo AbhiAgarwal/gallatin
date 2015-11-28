@@ -1,0 +1,55 @@
+- Voss:
+    - "a telescope that enables us to see distant objects that would be invisible to the naked eye" (60).
+    - "singularly unattractive in appearance," would provide the groundwork for the most enduring revolutionary (that is, evolutionary) theory in naturalism? (60).
+    - "In the course of this debate, Darwin repeatedly reworked the lines, intersections and angles of his sketches as he compared them with the visual languages of other scientists" (64).
+    - "Darwin made these notes while he lived in London and was in close contact with the city's scientific elite" (65).
+    - "had made all organisms, fitting them to their environments in a way both perfect and eternal" (66).
+    - "he knew he could hardly expect support for the project from" (66).
+    - "a broad range of systematic pictures and diagrams existed in the nineteenth century. They took advantage of every geometric construct available, from circles, ladders, and squares to lines, stars and brackets" (72).
+    - "attempt to classify the animal world according to attributes seen in embryonic development" (94).
+    - "Darwin’s evolution did not follow a goal. But neither did the mechanisms of variation and selection he descried constitute a law comparable to the classical laws of mechanics, which could be expressed in mathematical terms"
+    - "He did not believe in any fixed law of development" (125).
+    - "In the years that followed, Darwin completed his picture of evolution, and the sketches became a book illustration. Since 1837 he had tirelessly drawn new diagrams, filling page after page with a luxuriant growth of genealogies, branches, and origins. The sketches, showing the history of rodents or marsupials, became increasingly complex. Each hypothetical line was tested over the years with countless questions, the study of equally countless journals and books, experiments in his front yard, and statistical analysis" (108).
+- Myers:
+    - "It must not be imagined that any drawing represents what the observer sees the moment he looks through the telescope. Instants of exceptional seeing flash out, here and there, at different spots on the planet. It is not till the same phenomena repeat themselves in the same, in the same place, a great number of times, that the observer learns to trust these impressions. One has to keep one's mind constantly at the highest pitch to catch and retain what the eye sees" (50).
+    - "Holton (1978) asserted that the lack of such a master image could limit the theory's popular appeal" (Myers, 236).
+        - Images like the double helix or the Bohr atom.
+    - "the genealogy one gives" (237).
+    - "self evidence" (239).
+    - "We only become aware of our processes of interpretation with photographs when we are looking for some trick in them" (Myers, 242).
+    - "If realism is important, the best choices may well be photographs. Otherwise, diagrams, which allow you to emphasize certain features and eliminate the rest, are often the best medium" (Myers, 244).
+    - "captions tell us what happened before, what will happen after, what usually happens" (254).
+    - "...the re-use of an illustration, even if the source is an earlier work of Wilson's, changes the meaning of that illustration" (258).
+    - "what we are supposed to look at" (265).
+    - "the effect of realism does not depend on the complete reproduction of the world, but on the viewer's perception of the narrative end perceptual order" (266).
+- Lane:
+    - "Maps solidified the idea that Mars was like Earth, induced nationalistic competitions among astronomers, and authorized a view of the Martian landscape as modified and possibly inhabited" (Lane, 25).
+    - "Where Green had used subtle naturalistic shading to represent an orange surface mottled with barely perceptible 'delicate markings,' Schiaparelli had used hard-edged black lines to show a detailed landscape of white islands divided by parallel and intersecting blue straits he labeled 'canali'" (Lane, 34).
+    - "despite Green's objections that Schiaparelli's artistry and coloration were flawed, his own map faced the impossible challenge of demonstrating more authority by presenting less detail" (Lane, 39).
+- Tucker:
+    - "a photographer must 'prove his photograph' by expounding the manner in which it had been made before the image could be admitted as a matter of fact" (Tucker, 379).
+    - "Scholars have detailed the nineteenth century's belief in the power of photographic technology to replicate the act of unmediated seeing, to eliminate human prejudice and to minimize the errors that allegedly vitiated the objectivity of drawings" (Tucker, 380).
+    - "We cannot claim to have really seen anything before having photographed it" (Tucker, 380).
+    - "To understand the special burden of representation borne by photography as a witness in meteorology, however, we must reflect not just on the parallels that Victorians invoked between scientific photography and legal witnessing, but also on the impact of transformations in meteorology during the 1880s and 1890s on Victorian uses and perceptions of photographs as meteorological evidence" (Tucker, 384).
+    - "a rich confusion of observations of the color and forms of lightning" (Tucker, 387)
+    - "had been retouched? Did this worsen or improve the faithfulness of the representation?" (Tucker, 388)
+    - "Were unexpected results of lightening photography evidence of nature, artifacts of technology, or the result of human nature?" (Tucker, 388).
+    - "Scientific photography built on the notion of objectivity, but neither atlases nor photographs escape judgment" (Tucker, 394).
+    - "The possibility that photography could record psychic or spiritual forces seemed to some Victorians no more marvelous than other scientific discoveries made with photographic processes in the fields of astronomy, meteorology, physics, and biology" (Tucker, 397).
+    - "like photographic practices in meteorology and bacteriology, spirit photography highlighted issues of witnessing, detecting, and deceiving" (Tucker, 402).
+    - "during an era of widespread debate about the reality and agency of bacteria, visual representations of microbes made germs tangible".
+- Dumit:
+    - "PET images in popular culture raise questions of reference and representation - producing the world they are produced by and are part of ... seeing a multicolored blob as a brain image is a result of learning to see" (Dumit, 144).
+    - "Normal people are shown to share a characteristic that is different from those of depressed people. Reading the accompanying text reveals a heroic story of the technological quest to produce a beautiful and interpretable image of the brain in action, a question that is in the process of being fulfilled" (Dumit, 144).
+    - "The key part of brain imaging is that as the image becomes more simple and ionic, it also becomes more subjective (personally invested in) and universal (generalizable to human nature)" (Dumit, 147).
+    - "The medical imaging advantage was measured in two ways. First, it allowed correlation between brains and diagnosis among living humans, thus permitting anew the equation of brain=illness. Second, medical imaging promised to provide early warnings of the onset of mental illness, one of the largest problems in its treatment and prevention" (Dumit, 147).
+    - "New Seeing-Eye Machines ... look inside your body, can save your life" (161).
+    - "I am fascinated and horrified by the possibility posed here, of a world in which technology can tell me who I truly am".
+- Tufte:
+    - "Graphical excellence is the well-designed presentation of interesting data - a matter of substance, of statistics, of design" (51).
+    - "Graphs must not quote data out of context" (74).
+    - "The number of information-carrying (variable) dimensions depicted should not exceed the number of dimensions in the data" (77).
+    - "The interior decoration of graphs generates a lot of ink that does not tell the viewer anything new. The purpose of decoration varies-to make the graphic appear more scientific and precise, to enliven the display, to give the designer an opportunity to exercise artistic skills" (107).
+    - "Graphs do not become attractive and interesting through the addition of ornamental hatching and false perspective to a few bars" (121).
+    - "No information, no sense of discovery, no wonder, no substance is generated by chartjunk" (121).
+    - "One supertable is far better than a hundred little bar charts" (179).
