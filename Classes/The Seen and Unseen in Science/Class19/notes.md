@@ -25,7 +25,7 @@ Approach
     - progress through scientific revolutions
 - Kuhn's book argues that the evolution of scientific theory does not emerge from the straightforward accumulation of facts, but rather from a set of changing intellectual circumstances and possibilities.
 - Such an approach is largely commensurate with the general historical school of non-linear history.
-- Copernicus, Newton, Lavoisier, and Einstein. 
+- Copernicus, Newton, Lavoisier, and Einstein.
 
 Examples from Chemistry
 
@@ -51,6 +51,28 @@ Questions:
 Learnings:
 
 Class:
+
+- Paradigm ->
+    1. Way of telling a story.
+    2. A bigger/global/shared theoretical framework.
+    3. Something you think about and use.
+- Gestalt's philosophy: Duck vs Rabbit.
+    - Incommensurable: two things that can't match up.
+    - Two paradigms are incommensurable if they are different. You can't compare them.
+        - You can say its a Duck and a Rabbit, but not at the same time. You zoom back and find the true level.
+    - Academy of thought.
+- Solar system
+    - Aristotelian: Crystalline rocks moving around the Earth
+    - Copernican: Earth moving around stars
+    - Black Box: Heliocentrism is why the Earth rotates around the Sun. Not all of us can explain that or have a proof of it. We assume it's a Black Box.
+    - Diffusion of innovations: is a theory that seeks to explain how, why, and at what rate new ideas and technology spread through cultures.
+        - http://www.tavovalencia.com/wp-content/uploads/2011/08/Innovation-curve.jpg
+    - Is language an example of a paradigm?
+- When confronted with a problem what is the best way to solve that problem?
+- Experimentation to solve certain theories vs theoretical understanding. What happens when two paradigms talk? They can't talk. They are incommensurable.
+- Can you map a paradigm to another paradigm?
+- We assign meaning to things. Paradigms define you.
+- In-paradigm answers vs out-paradigm answers.
 
 Research:
 
