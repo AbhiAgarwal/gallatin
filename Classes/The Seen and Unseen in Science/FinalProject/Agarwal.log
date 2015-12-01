@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  27 NOV 2015 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 NOV 2015 23:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,25 +329,26 @@ e
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
-[2] (./Agarwal.aux) ) 
+[3] (./Agarwal.aux) ) 
 Here is how much of TeX's memory you used:
  3439 strings out of 493089
  47369 string characters out of 6134842
- 117984 words of memory out of 5000000
+ 119984 words of memory out of 5000000
  6869 multiletter control sequences out of 15000+600000
  8695 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,11n,45p,792b,214s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,45p,851b,214s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8
 r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Agarwal.pdf (2 pages, 15883 bytes).
+Output written on Agarwal.pdf (3 pages, 20492 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 19 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
