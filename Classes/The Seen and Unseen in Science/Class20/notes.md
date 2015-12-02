@@ -20,7 +20,13 @@ Questions:
 
 Learnings:
 
-Class:
+Class
+
+- The looking.
+    - Women sexuality in movies has to be approved by males to see if other males would find it offensive or anything.
+- Medical gaze
+    - Unblemished lungs.
+    - "Attractive white women" is a healthy women.
 
 Research:
 
