@@ -1,4 +1,4 @@
-Section: Objectivity I. Reading Gender:
+Section: How a scientist sees. Reading Objectivity I:
 
 - Daston and Galison, Objectivity 11-34, 42-49, 55-68, 115-138
 
@@ -41,7 +41,21 @@ Questions:
 
 Learnings:
 
-Class
+Class:
+
+- What does it mean to be objective? It's not subjective.
+    - Meaning shifted because of Kant.
+- Objectivity is a persona.
+- Virtuous: Having or showing high moral standards. Fulfilling your potential.
+    - Moral virtue.
+- Objectivity is something that people do - like honesty.
+- Qualia: the internal and subjective component of sense perceptions, arising from stimulation of the senses by phenomena.
+- Sage
+- Our sage is now a computer. Images and machine learning tools on Google Images now decide how you perceive things. They choose the best tree.
+    - Genius has arrogance and humility in the same way.
+- Wikipedia: truth to nature and trained judgment.
+- Emotional aspect.
+- I see objectivity in the same way as Wikipedia exists. A general consensus and agreement on what things are. Anyone is able to go and add or remove from that common knowledge that we have.
 
 Research:
 
