@@ -1,8 +1,8 @@
 ## Debate paper
 
-- Side A:
+- Side A: Scientists see the world better than you.
 
-Writings supporting Side A: Scientists see the world better than you.
+Writings supporting Side A: Pinch, Kuhn
 
 Quotes
 
@@ -12,9 +12,9 @@ Quotes
 - Cartwright
 - Daston/Galison
 
-- Side B:
+- Side B: Scientists do not see the world better than you.
 
-Writings supporting Side B: Scientists do not see the world better than you.
+Writings supporting Side B:
 
 Quotes
 
