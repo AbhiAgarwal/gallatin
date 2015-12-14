@@ -2,7 +2,7 @@
 
 - Side A: Scientists see the world better than you.
 
-Writings supporting Side A: Pinch, Kuhn
+Writings supporting Side A: Pinch, Kuhn, Daston/Galison
 
 Quotes
 
