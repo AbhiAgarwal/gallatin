@@ -46,8 +46,8 @@ Gallatin
 	- [Principles of Programming Languages](https://github.com/AbhiAgarwal/classes/tree/master/Principles%20of%20Programming%20Languages)
 	- [The Seen and The Unseen in Science](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Seen%20and%20Unseen%20in%20Science)
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
+- Spring 2016
 	- Colloquium, Rationale, and Booklist preparation
-- Spring 2016 (Potential)
 	- Becoming Global? "Europe" and the World
 	- Global Noodles: Silk Routes & Subway Connections
 	- Media and Empire
