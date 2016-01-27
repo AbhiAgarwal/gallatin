@@ -48,9 +48,9 @@ Gallatin
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 - Spring 2016
 	- Colloquium, Rationale, and Booklist preparation
-	- Becoming Global? "Europe" and the World
-	- Global Noodles: Silk Routes & Subway Connections
-	- Media and Empire
+	- [Becoming Global? "Europe" and the World](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Becoming%20Global)
+	- [Global Noodles: Silk Routes & Subway Connections](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Global%20Noodles)
+	- [Media and Empire](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Media%20and%20Empire)
 	- Senior Colloquium
 
 # Left (Pre-picking Spring 2016 classes)
