@@ -16,3 +16,8 @@ Philippines and the Rise of the Surveillance State: Prologue.
     - Imperialism: a policy of extending a country's power and influence through diplomacy or military force.
     - "Why do Christian nations which were so weak in the past compared with Muslim nations begin to dominate so many lands in modern times and even defeat the once victorious Ottomon armies?"
         - "Becomes they have 'laws of rules invented by reason'"
+
+#### Class notes
+
+- Empire:
+- Colonialism:
