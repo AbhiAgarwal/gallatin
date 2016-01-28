@@ -52,8 +52,3 @@ Gallatin
 	- [Global Noodles: Silk Routes & Subway Connections](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Global%20Noodles)
 	- [Media and Empire](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Media%20and%20Empire)
 	- Senior Colloquium
-
-# Left (Pre-picking Spring 2016 classes)
-
-- Rationale: Not Satisfied
-- Senior Colloquium: Not Satisfied
