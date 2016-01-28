@@ -55,8 +55,5 @@ Gallatin
 
 # Left (Pre-picking Spring 2016 classes)
 
-- 1 Early Modern
-- 1 Premodern
-- 1 Humanity
-- 1 Global
+- Rationale: Not Satisfied
 - Senior Colloquium: Not Satisfied
