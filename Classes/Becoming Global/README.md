@@ -1,6 +1,7 @@
 ### Becoming Global? Europe and the World: A Literary Exploration
 
 Professor: Valerie Forman
+Post date: Wednesday before 5pm
 
 #### Description
 

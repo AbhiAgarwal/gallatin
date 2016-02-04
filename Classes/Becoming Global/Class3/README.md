@@ -16,3 +16,12 @@ To view several innovative maps from this period go to this link: http://en.wiki
 #### “A Global Renaissance,” and “Brave New Worlds”
 
 #### “Outsiders in Shakespeare’s England”
+
+### Class
+
+- Discovery: bring to light, uncover; has a different meaning to what we think now
+    - Word has changed and there's trouble for us to use it now.
+- Reformation
+- Cultures become more restrictive when they look at differences in other cultures.
+    - Idea of self in relationship to another
+- The attitudes were not just of superiority, but they were anxious of the power of others. The fear of contamination and fear of power.
