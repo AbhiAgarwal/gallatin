@@ -1,4 +1,9 @@
-### January 28th
+### Jan. 28:
+
+- Syllabus and Introduction
+- Turn in sheet on your interests in relation to the course.
+
+### Notes
 
 - Renaissance
     - The term Renaissance, literally means "rebirth"
