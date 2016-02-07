@@ -1,0 +1,2 @@
+- There's no such thing as a naturally pure phenomenon.
+    - Undermine ideologies that seem natural but are not.
