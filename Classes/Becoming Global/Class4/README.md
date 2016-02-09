@@ -5,7 +5,6 @@
 
 Indography considers literary and non-literary representations of Indians in early modern English writing in relation to processes of globalization and race formation.
 
-
-
+Interesting to see how much people wanted to understand the world and explore. If anything this started the age and inspiration to explore and seek foreign lands, and to try and study them. Seems like they made a lot of hypothesis on what these foreign lands would be, and when they arrived they tried to match their hypothesis.
 
 - Christopher Columbus and the Enterprise of the Indies (excerpts from travel logs)
