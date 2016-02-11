@@ -21,6 +21,7 @@
 	- Suppose a person landed on Earth without any knowledge of human beings.
 	- How would he approach learning anything we have?
 	- What are things in our society which are difficult to learn?
+- How do we think without knowledge?
 
 #### Notes
 
