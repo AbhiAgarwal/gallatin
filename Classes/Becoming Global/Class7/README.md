@@ -19,4 +19,3 @@
 - ** A final point that particularly interested me was the importance of having an audience as opposed to simply performing for others on the ship
     - This was twofold, both offering “the English an opportunity and excuse to perform” while at the same time “to increase affection” between the Africans and Europeans
 - What stuck out to me was how accepting Keeling was towards Lucas Fernandez, but then how he back pedals and feels he has to defend himself. He brings up many examples to show why they had taken him aboard even though he was a “negere”, including: he spoke almost perfect Portuguese and could “interpret”, he was a Catholic, literate and a favorite of the king which was very important
-- 

@@ -37,3 +37,27 @@ The procedure was:
 6. Add cooked tatsoi on a plate. Put dumplings on the plate, and sprinkle scallion garnish.
 
 This was a fun experimentation! Had a lot of fun experimenting and the end-product was awesome.
+
+### Class notes
+
+- research q: how do people sit around the table in different cultures.
+- decolonizing understanding? how do we begin decolonizing our understanding.
+    - indigenous critique of high/low binaries
+    - human/nature separation
+    - mind/body
+    - higher human senses / lower human senses
+    - sight, hearing / taste, smell, touch
+    - arts - culture / crafts - folk
+    - modernity / traditional
+        - nyc has difficulties in cultures since jewish/italian cultures don't want to lose traditions to modernity.
+    - center / periphery
+    - high brow / low brow
+    - classical / folk arts
+    - cuisine / foodways
+        - italian food was not a cuisine. there exist high & low binaries.
+    - relax / fast life3
+    - what would you add?
+- making food / recipes is not popular in the high-culture, but in low-culture. making its way into middle-class-culture.
+
+- foods
+    - 
