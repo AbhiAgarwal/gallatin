@@ -58,6 +58,4 @@ This was a fun experimentation! Had a lot of fun experimenting and the end-produ
     - relax / fast life3
     - what would you add?
 - making food / recipes is not popular in the high-culture, but in low-culture. making its way into middle-class-culture.
-
 - foods
-    - 
