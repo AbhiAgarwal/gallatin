@@ -24,6 +24,14 @@ I am pairing up with Phil and we made dumplings! Specifically, cabbage and shiit
 - 2 tablespoons butter
 - 3 ounces tatsoi
 - 3 ounces cabbage
+- Coriander Seed
+- Red Chilli
+- Cumin Seed
+- Turmeric
+- Himalayan Herb (Jimbu)
+- green curry paste mixed with mushrooms
+
+- Used to make cheese dumplings or a lot of food around milk products
 
 It was pretty fantastic overall. This is mostly my go-to dish when I'm trying to make dumplings. I have not experimented outside of these core ingredients too much (unless it's with my mom). I usually put the butter in with the dumplings to give them a nice glaze on the outside. I don't really know how to make steamed dumplings -- but I would really love to learn how to make those. Took about 30 minutes to make!
 
