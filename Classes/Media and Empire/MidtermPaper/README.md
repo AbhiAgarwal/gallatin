@@ -4,15 +4,7 @@ Your first paper will explore themes covered in the first half of the semester. 
 
 NYU Classes website by Thursday, March 10th.
 
-### Questions (CHOOSE ONE)
-
-What makes modern US Empire distinct as a political project? In your paper,
-consider how the history of US occupation and indirect rule in the Philippines
-beginning in 1898 has shaped ideas about violence, liberal democracy, race and
-citizenship? Finally, consider whether the arguments made by anti-colonial
-thinkers may have relevance in the context of the US’ colonial interventions in the
-Philippines? In your discussion, draw from at least four of the following sources:
-(Mamdani, McCoy, Adas, Larkin, Fanon, Cesaire)
+### Question
 
 Why are media technologies important to the making of modern Empire in the
 19th and early 20th centuries? In your paper, consider both the material as well as

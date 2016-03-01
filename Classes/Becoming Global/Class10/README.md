@@ -8,7 +8,7 @@ Annotated Bibliography
 
 Rollings, Willard Hughes. "Indians and Christianity." Blackwell Companions to American History: A Companion to American Indian History. Eds. Philip Deloria and Neal Salisbury. Oxford: Blackwell Publishers, 2001. Credo Reference. Web. 28 Feb. 2016.
 
-Question I want to explore: How were the Native Indians depicted when they were first found by the Europeans?
+Question I want to explore: How were the Native Indians in the Americas depicted when they were first found by the Europeans?
 Source: Credo, Blackwell Companions to American History: A Companion to American Indian History
 
 On Credo I used the query: "Native AND Indians, AND depicted, AND Europeans". This gave me about 286 results, and by filtering into particular subjects I was able to get it down to a little less than a hundred. I found two reference entries I found interesting: "European and Native American Alliances" [1] and "Indians and Christianity" [2]. Both of these entries looked pretty amazing and useful for my source, but I found the "Indians and Christianity" to be much more dense and it also had a larger bibliography, which is useful to find other sources.

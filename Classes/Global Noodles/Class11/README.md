@@ -13,3 +13,7 @@ Additional resources:
 
 - Ray & Srinivas, Curried Cultures: Globalization, Food, and South Asia, selections scanned.
 - More to be added.
+
+### Class notes
+
+- dumpling galaxy

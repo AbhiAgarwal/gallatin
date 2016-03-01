@@ -14,3 +14,25 @@ lumpenproletariat: describe the layer of the working class that is unlikely ever
 Moreover, in traditional Marxist theory, the lumpenproletariat are considered the lowest, most degraded stratum of the proletariat social-class — especially criminals, vagrants, and the unemployed — people who lacked the class consciousness to actively participate in the anti-colonial revolution.
 
 The native must realize that colonialism never gives anything away for nothing. (142).
+
+### Class notes
+
+- Black Skin, White Masks: Frantz Fanon documentary.
+- Négritude essay:
+    - surrealism, Marxism.
+- Cesaire made his points through his expression of poetry.
+    - literally to transcend or overcome
+- French more focused on assimilation -- not conquer the people, but move them towards becoming "French".
+    - assimilation: process by which a person or a group's language and/or culture come to resemble those of another group.
+- European barbarism --
+- Nazism started in the colonies in France --
+    - Nazism did not just spring out of nowhere. It was there for a while. It grew slowly into the main cities from the city sides.
+- What does Hitler symbolize to him?
+    - Hitler v Trump:
+- Fascism: meaning -- authoritarianism, extreme nationalism, ethno-nationalism, complete governmental control of ideas.
+    - What is the parallel Cesaire is drawing here:
+    - Certain groups of people not being quite human, and so violence against certain people is not seen as violence.
+- Colonialism as a mirror effect.
+- The kind of progress that Europe has brought about is being questioned.
+- The idea of dignity in colonialist societies.
+- Trump's vision of nationalism vs Fanon's vision of nationalism.
