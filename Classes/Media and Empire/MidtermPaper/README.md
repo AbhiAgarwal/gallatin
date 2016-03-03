@@ -14,3 +14,19 @@ how anti-colonial thinkers address the power of media infrastructure and culture
 in their writings? In your discussion, draw from at least four of the following
 sources: (McCoy, Adas, Larkin, McClintock, Balce, Shohat & Stam, Fanon and
 Cesaire)
+
+You have to address either Fanon and Cesaire in either questions.
+
+### Assignment
+
+- Focus on the text (only use the particular texts given)
+- Who are we talking about?
+- Time and place matter. Ground you argument in time and place.
+- Think across different texts.
+- How to use Fanon and Cesaire in differnet papers:
+    - Post colonial national identity.
+    - Who will inherit the nation.
+    - Refer to a "formula of domination".
+
+First q (not second): your arguments will be around McCoy.
+Second q: Not only a discussion of McClintock & advertising & soap.

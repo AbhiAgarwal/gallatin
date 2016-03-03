@@ -2,4 +2,55 @@
 
 - Fanon, Frantz (1963) The Wretched of the Earth. Grove Press: 97-180.
 
-### Weekly post (250 words) - 9pm
+### Class notes
+
+- His argument against violence.
+- Fanon's definition of nationalism:
+    - Trump is an interesting character to differentiate with what Fanon thinks about as nationalism.
+- Violence is necessary and inevitable.
+    - His acknowledgment of diplomatic and political systems that exist.
+    - "Colonized intellectuals". He doesn't lump everyone in the colonized society into a colony, but has a distinction for them.
+    - "Poltics vs violence"
+    - What prevents them having a reasonable discourse:
+        - Intersection of class and race.
+    - Political elites -- benefit through access to economical power. A lot of people in these countries benefit from colonial power both politically and economically.
+        - They are the ones who are running to the negotiating table.
+- Colonized masses are double at a disadvantage. They don't benefit from the colonization or capitalism, but the political elites do.
+    - The co-operative nature of the alliance of the political elite and the colonized.
+- Bourgeoisie: Means of production and capital
+    - Power should move from the bourgeois to the state so it could be redistributed.
+- The colonized state becomes corrupted: the state is used by the colonizer to rule rather than serve the people.
+    - The people of the state being colonized are subjects not citizens by the bourgeoisie.
+- Experienced self that changes people's disposition.
+- "State apparatus": institutions that are allowed to keep order.
+    - Executive individuals in the state.
+    - "Security apparatus of the state".
+    - Appointed officials vs voted officials.
+        - There's not much accountability when compared to the president.
+    - Structural violence
+        - Legal infrastructure:
+            - Violence against a particular group
+        - State institutions have power not the individuals in those state.
+    - Hannah Arendt was a huge critic of this book.
+- Violence is necessary for the collective to over throw the system.
+- Why is nationalism so important:
+    - Nationalism is the goal of politicians post-WW2.
+    - 'It gives them a proof of nation'.
+    - Why is it post colonialist nationalism important to Fanon?
+    - Nationalism is a modern project.
+- What does nationalism mean in the world that the colonialism leaves behind.
+    - The boundaries in the African nations were drawn the colonialist powers.
+- Pan-Africanism: Continental politics for Africa.
+- Biography of Malcon X.
+- Nationalism is a shared group feeling in the significance of a geographical and sometimes demographic region seeking independence for its culture and/or ethnicity that holds that group together.
+    - Words that define nationalism: tradition -- what it means to be American.
+    - Economic and Cultural nationalism.
+    - Reverse the idea that the colonies are used as an extractive sites for the core.
+    - The "whiteness" of America.
+- Anti-Colonial Nationalism:
+    - required resistance to colonial domination in order to survive
+    - resistance is part and parcel of such nationalisms and their very existence is a form of resistance to imperialist intrusions
+    - decentralized system of power.
+- Fanon vs Trump
+    - Fanon -- their power to reclaim by the power of nationalism.
+    - Trump
