@@ -38,11 +38,6 @@ The technology being tested was how to best police a state - the state being a �
 
 The frontier was a growing opportunity; Mamdani quotes Jackson Turner who cites it as “[stimulating] invention and rugged individualism, and was the important element in the formation of a distinctively ‘American’ character” (8).
 
--------
-
-
-
-
 ### Adas
 
 ### Larkin
