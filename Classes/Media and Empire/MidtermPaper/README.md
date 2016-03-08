@@ -1,4 +1,4 @@
-## Midterm paper
+### Midterm paper
 
 Your first paper will explore themes covered in the first half of the semester. The format of the paper will allow you to further consider and compare the texts that you have read and viewed for class thus far. You will have a choice of at least two essay topics to explore; detailed guidelines for this paper and how it will be graded will be posted on the class website by March 1st. The paper is due as a Word Document submitted through the NYU Classes website by Thursday, March 10th.
 
