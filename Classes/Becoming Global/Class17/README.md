@@ -15,7 +15,7 @@ Amitav, a young Indian anthropologist from Oxford, conducting ethnographic field
 - Their lives were reconstructed by Amitav using fragments of letters found in an Egyptian synagogue—Ben Yiju, a Tunisian Jew, lived in Egypt for many years before moving to India, where he probably hired his slave, Bomma, who acted as an assistant, traveling and negotiating large trades for Ben Yiju.
 - The primary concerns of subaltern studies and postcolonial theory emerge naturally from Ghosh’s narrative: he articulates the strained relationship between Egypt and India which, although very different countries, share a history of colonial violence and a desire for modernization.  He fleshes out the networks of exchange which have circulated between Egypt and India (and throughout the rest of the Mediterranean and the Near East), describing in great detail the money, goods, and people which were traded between India and Egypt in the Middle Ages as in the twentieth century.  Ghosh is also careful to examine the less visible exchanges which have linked Egypt and India throughout history—namely, etymological, cultural, and religious ones.
 
-### Class
+### Class notes
 
 - In the antique past:
     - "antique": better than outdated or old.

@@ -11,3 +11,10 @@ Zanzibar explored the successes of the Chinese in their search "for a usable fut
 A lot of the text we have read portrays the Zanzibarian people as attempting to rebuild their cultural identities, and there being a confusion in the cultures they want to be similar to in the colonial and post-colonial world. Their attempts at learning from Chinese culture were inevitably unsuccessful, but I believe the search for identity is important to focus on and explore further.
 
 * I have the Kindle version not the book.
+
+### Class notes
+
+- "Usable future" -- looking at what the country could be and trying to achieve that.
+- Mao's China provided an example of how discipline and labor could provide quick development: agriculture and infrastructure.
+- Tricontinentalism - going out in the world and bringing culture back to your countries.
+- Try make the non-West the normative.
