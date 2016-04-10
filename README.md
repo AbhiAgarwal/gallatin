@@ -47,8 +47,8 @@ Gallatin
 	- [The Seen and The Unseen in Science](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/The%20Seen%20and%20Unseen%20in%20Science)
 	- [Large Scale Web Applications](https://github.com/AbhiAgarwal/classes/tree/master/Large%20Scale%20Web%20Applications)
 - Spring 2016
-	- Colloquium, Rationale, and Booklist preparation
+	- [Rationale, and Booklist](https://github.com/AbhiAgarwal/gallatin/tree/master/Rationale)
 	- [Becoming Global? "Europe" and the World](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Becoming%20Global)
 	- [Global Noodles: Silk Routes & Subway Connections](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Global%20Noodles)
 	- [Media and Empire](https://github.com/AbhiAgarwal/gallatin/tree/master/Classes/Media%20and%20Empire)
-	- Senior Colloquium
+	- [Senior Colloquium](https://github.com/AbhiAgarwal/gallatin/tree/master/Colloquium)
