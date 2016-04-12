@@ -4,6 +4,10 @@ History of intelligence testing
 
 - The Big Test
 
+https://en.wikipedia.org/wiki/G_factor_(psychometrics)
+
+The g factor is a construct developed in psychometric investigations of cognitive abilities and human intelligence.
+
 - Dataclysm: Who we are
 
 - A lot of the work that is done in this book concentrates on the idea of using data to make decisions and judgments. Really important to consider since most of the things that are being studied by AI (which we will go into later) is through recognitions of patterns in data.
