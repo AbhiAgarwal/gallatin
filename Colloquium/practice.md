@@ -4,9 +4,13 @@ History of intelligence testing
 
 - The Big Test
 
-
-
 - Dataclysm: Who we are
+
+- A lot of the work that is done in this book concentrates on the idea of using data to make decisions and judgments. Really important to consider since most of the things that are being studied by AI (which we will go into later) is through recognitions of patterns in data.
+- Similar to how we came to measure intelligence through intelligence testing: looking at patterns in the abilities an average person (which they create from perhaps a mean base score).
+- This is a good book as it takes a dataset that exists in their data, and through several years makes predictions about social norms. The idea here is that these are some circumstances that are noticeable in their data.
+- An example from the book: p106, p148 (political).
+- Bring this up because it's important to consider the implications of this type of data. A lot of what we feed and learn from nowadays comes from a large plethora of this kind of data. Some of the claims made in this book come from Machine Learning algorithms or from algorithms that have learnt the data and made predictions on what it has meant.
 
 - On Intelligence
 
