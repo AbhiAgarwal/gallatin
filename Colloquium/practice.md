@@ -2,6 +2,15 @@
 
 History of intelligence testing
 
+- "In 1933, he became an assistant dean at Harvard University, where James Bryant Conant had just become president.
+
+Conant was dissatisfied with the shallowness of undergraduate life at Harvard, where too many rich playboys came from preparatory schools well prepared for the essay-style college board examination but thereafter interested only in dancing, drinking, and fraternity high jinks.
+
+Conant wanted to bring in good midwestern boys. However, they performed poorly on the examination, and the only means around it—admitting anyone in the top seventh of his class—only lured too many young men who quickly dropped out. Conant told Chauncey and his fellow dean, Wilbur Bender, to find a better method of winnowing the best candidates for admission"
+
+- "Chauncey and Bender hastened to Princeton, where Carl Campbell Brigham had developed the SAT in 1926."
+- "Brigham had initially believed that Nordics would always test higher than other groups, with mixed groups and African Americans scoring at the bottom. He worried greatly that American test scores were going down in the 1920’s. By 1928, however, he had changed his mind about the biological basis for IQ testing and was concentrating solely on the SAT’s predictive function in higher education."
+
 - The Big Test
 
 https://en.wikipedia.org/wiki/G_factor_(psychometrics)
@@ -45,3 +54,7 @@ Downsides in his arguments
     - The assumption that a large gain in intelligence would necessarily entail a correspondingly large increase in power.
     - The assumption that large intelligence entails virtual omnipotence.
     - The unwarranted belief that, though achieving intelligence is more or less easy, giving a computer an ethical point of view is really hard.
+
+### References:
+
+- http://www.enotes.com/topics/big-test
