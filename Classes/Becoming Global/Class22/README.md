@@ -1,3 +1,5 @@
 ### Apr. 14:
 
 - A New World of Labor, “The Gold Coast” Behn, Oroonoko; 13-20; main text: 34-49
+
+This reading gave a good background on West Africa. I lacked the background for some of the issues we discussed in class so this piece helped a lot! It was interesting to see the respect and understanding the Britons had to give to the West Africans. The power relations between the Europeans and the West Africans are worth exploring in more depth since it seems clear that West Africa had more control over the African politics in comparison to the Europeans. This is unintuitive, to me, since I was not aware of the control that West Africa had over the continent. The author writes, "for British officials on the Gold Coast, it was all too clear that trade was completely dependent upon good relations with local free and enslaved Africans, with company-owned slaves, and with company-employed white workers and soldiers" (52). I found this passage informative since it seems like there was a mutual development and progress on both fronts, which is in contrast to some of the other pieces on colonization we have read.
