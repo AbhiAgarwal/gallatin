@@ -13,3 +13,17 @@ I found the chapter on `Torture and the Ethics of Photography: Thinking with Son
 I am not sure how relevant this was to the class notes, but kind of where my opinions lead me after reading this material.
 
 ### Class notes
+
+- How many people died in the war? Civilians? Army men?
+- Materiality: Imperial. Answer the question what?
+- Symbolic: Answer the question why?
+- Meaning vs meaning making
+- The idea of authenticity
+- Abu Ghraib: http://www.antiwar.com/news/?articleid=8560
+- War on Terror: bringing death to home.
+- The British thoughts you were savages, and now the Americans think you are militants.
+- "Their deaths have to stand in for their lives".
+- Narrating lives of dead clients: constructing life on photographs - family photos. Photos are missing they are not there because there is no culture of taking photos.
+- FATA (Federally Administered Tribal Areas): issues with organization. Leaders don't have to answer.
+    - Colonial laws: the black laws (called by the tribal areas)
+- Wounds of Waziristan.
