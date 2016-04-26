@@ -60,13 +60,67 @@ Descartes continues with a warning:
 3. To start with the simplest of objects and to slowly progress toward increasingly difficult objects of study.
 4. To be circumspect and constantly review the progress made in order to be sure that nothing has been left out.
 
+An obvious starting place was in the mathematical sciences, where a great deal of progress and certain knowledge had been achieved by means of demonstration. Descartes found his work made considerably easier if, on the one hand, he considered every quantity as a line, and, on the other hand, developed a system of symbols that could express these quantities as concisely as possible. Taking the best elements of algebra and geometry, he had tremendous success in both these fields.
+
+The theory states that if we were to analyze any complex proposition, we could break it down into increasingly smaller, simpler pieces until we were left with simple, non-analyzable propositions
+
 #### Part III: Morals and Maxims accepted while conducting the Method
+
+The first maxim is to remain faithful to the laws and customs of his country and his religion. He acknowledges that this choice is somewhat arbitrary given that he has undertaken to abandon all his former opinions and prejudices.
+
+However, he notes that if he is to get on in his own country while he dismantles his former opinions he would do well to let his actions be guided by customs of his own country rather than those of some foreign nation
+
+-
+
+His second maxim is to remain firm and decisive in his actions. Even a wrong decision is better than indecision, since indecision takes one nowhere.
+
+If there is no obviously true and certain decision to be made, Descartes opts for the most probably right decision, and treats that decision as if it were true and certain.
+
+-
+
+His third maxim is to try to master himself and not external factors, to work to change his desires rather than the world.
+
+-
+
+His fourth maxim is to find the best possible occupation in life. He concludes that following the present method of philosophy is the best he can do.
+
+The third and fourth maxims both suggest that the life of the mind is more valuable than action. A balanced and peaceful mind guarantees a happy life more than any kind of earthly pleasures.
+
 #### Part IV: Proof of God and the Soul
+
+Applying the method to itself, Descartes challenges his own reasoning and reason itself. But Descartes believes three things are not susceptible to doubt and the three support each other to form a stable foundation for the method. He cannot doubt that something has to be there to do the doubting (I think, therefore I am). The method of doubt cannot doubt reason as it is based on reason itself. By reason there exists a God, and God is the guarantor that reason is not misguided.
+
+Perhaps the most strained part of the argument is the reasoned proof of the existence of God, and indeed Descartes seems to realize this as he supplies three different "proofs" including what is now referred to as the negotiable ontological proof of the existence of God.
+
+He abandons all sensory knowledge, since the senses can deceive, all demonstrative reasoning, since people often make errors in their reasoning, and imagines that everything that has ever entered his mind is just illusions brought on by dreams.
+
+This doubt requires thought, and this thought confirms his existence, so he adopts the principle "I am thinking, therefore I exist," as the indubitable foundation upon which he will build.
+
+Since his knowledge of his existence hinges exclusively on his thinking, he concludes that he is essentially a thinking substance, and that his soul is totally distinct from, and easier to know than, the body.
+
+Descartes arrives at another proof of God's existence by way of geometry. He notes the certainty with which geometers can prove facts such as the fact that the angles in a triangle add up to 180 degrees. This is part of the essence of a triangle, and yet for all that, there is no assurance that one triangle actually exists in the world. When contemplating God, however, he recognizes that existence is as much an essential property of God's as having three angles that add up to 180 degrees is an essential property of triangles. God's existence is thus as certain as a geometric proof. Descartes remarks that people have difficulty with these proofs because they rely exclusively on their senses and imagination. God's existence can only be perceived by reason, and not by these other two faculties.
+
+In fact, God's existence is more certain than anything else, since all other things are subject to the doubts that Descartes has already raised. These doubts can only be removed by the recognition that God exists. Thanks to God we can be assured that our clear and distinct perceptions are true, since those perceptions come to us from God, and we can rest assured that all our perceptions must be true to the extent to which they are clear and distinct. We perceive clearly and distinctly when we exercise our reason properly, and we are misled when we rely exclusively on our senses or imagination.
+
+Such doubt effectively demolishes the whole enterprise of Aristotelian philosophy, which bases its claims on sensory experience and demonstrative reasoning.
+
+According to Aristotelian philosophy, only reason and understanding are distinctly mental properties. Sensing, imagination, and willing are not simply mental properties, since they connect the mind with objects in the world. Descartes overturns this conception, suggesting that our sense experience, imagination, and will are all a part of the mind alone, and are not linked to the world.
+
+Effectively, Descartes re-conceives the mind as a thing—the source of all the thoughts, sensations, imaginings, and so on that constitute our world—trapped inside our body. How our mind can connect with a world outside this body has been a pressing problem for all modern humans since Hamlet.
+
+Descartes seems to argue in a circle later in his discussion, when he claims that God confirms the truth of clear and distinct perceptions. This implies that without God, clear and distinct perceptions would not be true. But he has only managed to "prove" that God exists by appealing to a clear and distinct perception to that effect. What, then, is the foundation upon which Descartes builds?
+
+If God is the source of all truth, including the truth of clear and distinct perceptions, how can Descartes prove that God exists? And if clear and distinct perceptions are the source of all truth, then what role does God play in all this?
+
 #### Part V: Physics, the heart, and the soul of man and animals
 #### Part VI
+
+### Logic – Aristotle
+
+Aristotle wrote six works that were later grouped together as the Organon, which means “instrument.” These works are the Prior Analytics, Posterior Analytics, On Interpretation, Topics, Sophistical Refutations, and Categories. These texts are considered the body of Aristotle’s work on logic, though there is a great deal in the Organon that we would not consider logic, and many of Aristotle’s other works, most notably the Metaphysics, deal to some extent with logic. 
 
 ### The Republic – Plato
 ### Bhagavad Gita – Sage Vyasa
 ### Utopia – Thomas More
-### Logic – Aristotle
+
 ### Letter Concerning the Intellect – Al-Farabi
