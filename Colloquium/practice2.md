@@ -113,7 +113,52 @@ Descartes seems to argue in a circle later in his discussion, when he claims tha
 If God is the source of all truth, including the truth of clear and distinct perceptions, how can Descartes prove that God exists? And if clear and distinct perceptions are the source of all truth, then what role does God play in all this?
 
 #### Part V: Physics, the heart, and the soul of man and animals
+
+Descartes hints that his method has not only helped him solve the many metaphysical problems he discusses in part four, but that it has also helped him make great headway in the physical sciences.
+
+The treatise initially concerns itself with the nature of light, but in the course of its discussion touches on pretty much everything Descartes has studied in nature: the sun and stars, as the source of light; the sky, as a transmitter of light; heavenly bodies, as objects that reflect light; objects on earth, that have color, are transparent, or luminous; and human beings, as perceivers of light.
+
+In dealing with the earth, the treatise shows how all things should tend toward its center, how there should be oceans and land, tides and rivers, plants and minerals, and how fire should work.
+
+Animals have a number of amazing skills, and Descartes suggests that if these skills were a result of intelligence then they would be far more intelligent than humans are. (Though parrots can imitate speech, animals cannot use language to express themselves with the versatility displayed by humans.)
+
+But since they cannot speak (animals are similar enough to us that if they could speak we would understand them) they cannot have any intelligence, and their behavior is governed solely by instinct. Descartes uses these and other arguments to assert that we are distinct from animals and that we have an immortal soul that will survive our death.
+
+The Cartesian physics presented in The World and in his other writings are, to a large extent, the road not taken by modern physics.
+
+Descartes believed that he could explain all of physics based on this very simple definition, and The World is, to a large extent, an attempt to do so. He is in fact quite successful at using this very simple first principle to explain a wide range of phenomena, but he is less successful in explaining how things change: "a body is anything that is extended in space and space is defined by the body that occupies it".
+
+We should note, however, the careful introduction of scientific method into Descartes's discoveries. He is careful to avoid Galileo's fate, and insists that he believes that God created the world according to the Bible's description in Genesis, and that his explanation is merely a thought-experiment.
+
+Rather than assert bold facts, he invents an imaginary world to show that certain laws of nature could make the world the way it is even if the story in Genesis were false. **This is, in essence, the new scientific method of hypothesis and experiment.**
+
+Science since the revolution of the 16th century has been based on the idea that no theory is certain, but rather **a theory is only increasingly likely as it is confirmed by more and more experiments.**
+
+**We have every reason to believe in Newton's law of gravitation, since everything we observe confirms it and nothing seems to contradict it. If, however, we observed some phenomena that suggested otherwise, we might need to review our theory. This in fact happened in the early twentieth century, and led to Newton's gravitation being replaced by Einstein's general relativity.**
+
+Descartes, then, is not insisting that he knows how the universe is, he is just providing a plausible hypothesis to explain how it might be.
+
+This hypothesis is in itself neither true nor false: it either fits the facts or doesn't fit the facts. To the extent to which Descartes's hypothesis fits the facts and helps us to predict and explain physical phenomena, it is a successful theory. 
+
+Significantly, Descartes does not try to extend his scientific theories to explain human consciousness. This is because Descartes is fundamentally a mind-body dualist. **That is, he sees mind and body as two very distinct things**. His physics explains the workings of bodily substances, that is, substances whose essence is extension. Mind, on the other hand is not extended. It is a substance whose essence is thought. These two different substances operate in totally different realms according to totally different laws. **Explaining how mind and body can interact with one another has been a major preoccupation for philosophers ever since Descartes**.
+
 #### Part VI
+
+Descartes claims that he generally feels no inclination to publish his views. However, the success he has had with his method and his principles of physics suggests to him that they could prove an enormous benefit to mankind if made public, particularly when applied in the fields of engineering and medicine. Because he is incapable of fully exploring all these fields by himself, he had hoped that in making his findings public he would enable others to contribute as well.
+
+Part six of the Discourse is essentially a long-winded explanation as to why Descartes has chosen to publish three scientific essays rather than the massive work that he claims to have compiled. He delicately steps around the main reason, which is the fear aroused in him after Galileo was condemned by the Inquisition.
+
+What we find here is a tension between an old world with a worldview of privacy and religious dogma and a new world with a worldview of open scientific inquiry.
+
+**He is also partly living in a world where knowledge is a highly-prized commodity that should not be shared**. Before the printing press (invented some hundred years earlier) books were extremely rare and difficult to come by, so there was a great deal more care in securing the matter contained in them. This is the worldview that led Leonardo da Vinci to write his notebooks in code. In making his findings public, Descartes would be surrendering a prized possession to anyone who could afford it.
+
+On the other hand, Descartes is living in a world of the printing press and of free scientific inquiry, where knowledge is seen as a collective enterprise.
+
+This is a world where personal interests take a back seat to the unfolding drama of objective science.
+
+Claiming that everything can be derived from his first principles, he is asking his readers to rest content with something else.
+
+Ultimately, we have come to see science not as a deduction from first principles, but as a set of theories confirmed by observation. Descartes's insistence on first principles of absolute certainty is, in a sense, a holdover from an earlier age.
 
 ### Logic – Aristotle
 
