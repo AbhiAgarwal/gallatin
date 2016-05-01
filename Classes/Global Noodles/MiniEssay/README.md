@@ -11,6 +11,10 @@
 
 ### Questions
 
+Necessity and the perfect bite.
+
+What is the perfect bite: temperature or density. What makes it the perfect bite?
+
 I grew up with Dal Baati.
 
 1. Why is Dal Bati very culturally significant? How did the dish evolve culturally and economically? What were the different types of people in the city who were responsible to eat this dish?
