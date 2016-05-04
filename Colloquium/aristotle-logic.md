@@ -103,18 +103,229 @@ Having or state, condition (ἔχειν, echein, to have or be). The examples Ar
 
 - On Interpretation (Latin:De Interpretatione, Greek Perihermenias) introduces Aristotle's conception of proposition and judgment, and the various relations between affirmative, negative, universal, and particular propositions. Aristotle discusses the square of opposition or square of Apuleius in Chapter 7 and its appendix Chapter 8. Chapter 9 deals with the problem of future contingents.
 
+The work begins by analyzing simple categoric propositions, and draws a series of basic conclusions on the routine issues of classifying and defining basic linguistic forms, such as simple terms and propositions, nouns and verbs, negation, the quantity of simple propositions (primitive roots of the quantifiers in modern symbolic logic), investigations on the excluded middle (what to Aristotle is not applicable to future tense propositions — the problem of future contingents), and on modal propositions.
+
+Chapter 1. Aristotle defines words as symbols of 'affections of the soul' or mental experiences. Spoken and written symbols differ between languages, but the mental experiences are the same for all (so that the English word 'cat' and the French word 'chat' are different symbols, but the mental experience they stand for — the concept of a cat — is the same for English speakers and French speakers). Nouns and verbs on their own do not involve truth or falsity.
+
+Chapter 2. A noun signifies the subject by convention, but without reference to time (i.e. 'Caesar' signifies the same now, two thousand years after his death, as it did in Roman times).
+
+Chapter 3. A verb carries with it the notion of time. 'He was healthy' and 'he will be healthy' are tenses of a verb. An untensed verb indicates the present, the tenses of a verb indicate times outside the present.
+
+Chapter 4. The sentence is an expression whose parts have meaning. The word 'man' signifies something, but is not a sentence. Only when words are added to it do we have affirmation and negation.
+
+Chapter 5. Every simple proposition contains a verb. A simple proposition indicates a single fact, and the conjunction of its parts gives a unity. A complex proposition is several propositions compounded together.
+
+Chapter 6. An affirmation is an assertion of something, a denial an assertion denying something of something. (For example, 'a man is an animal' asserts 'animal' of 'man'. 'A stone is not an animal' denies 'animal' of stone').
+
+Chapter 7. Terms. Some terms are universal. A universal term is capable of being asserted of several subjects (for example 'moon' — even though the Earth has one moon, it may have had more, and the *noun 'moon' could have been said of them in exactly the same sense*). Other terms are individual. An individual or singular term ('Plato') is not predicated (in the same) sense of more than one individual.
+
+A universal affirmative proposition, such as, 'Every man is white' and a universal negative proposition having the same subject and predicate, such as, 'No man is white,' are called *contrary*.
+
+A universal affirmative proposition ("Every man is white") and the non-universal denial of that proposition in a way ("Some man is not white") are called *contradictories*.
+
+Of contradictories, one must be true, the other false. Contraries cannot both be true, although they can both be false, and hence their contradictories are both true (for example, both, 'Every man is honest,' and 'No man is honest,' are false. But their contradictories, 'Some men are not honest,' and, 'Some men are honest,' are both true.
+
+Chapter 8. An affirmation is single, if it expresses a single fact. For example, 'every man is white'. However, if a word has two meanings, for example if the word 'garment' meant 'a man and a horse', then 'garment is white' would not be a single affirmation, for it would mean 'a man and a horse are white', which is equivalent to the two simple propositions 'a man is white and a horse is white'.
+
+Chapter 9. Of contradictory propositions about the past and present, one must be true, the other false. But when the subject is individual, and the proposition is future, this is not the case. For if so, nothing takes place by chance.
+
+For either the future proposition such as, 'A sea battle will take place,' corresponds with future reality, or its negation does, in which case the sea battle will take place with necessity, or not take place with necessity. But in reality, such an event might just as easily not happen as happen; the meaning of the word 'by chance' with regard to future events is that reality is so constituted that it may issue in either of two opposite possibilities. This is known as the problem of future contingents.
+
+Chapter 10. Aristotle enumerates the affirmations and denials that can be assigned when 'indefinite' terms such as 'unjust' are included. He makes a distinction that was to become important later, between the use of the verb 'is' as a mere copula or 'third element', as in the sentence 'a man is wise', and as a predicate signifying existence, as in 'a man is [i.e. exists]'.
+
+Chapter 11. Some propositions appear to be simple which are really composite. A truly single proposition the name of the subject combines to form a unity. Thus 'two-footed domesticated animal' means the same thing as a 'man', and the three predicates combine to form a unity. But in the term 'a white walking man' the three predicates do not combine to form a unity of this sort.
+
+Chapter 12. This chapter considers the mutual relation of modal propositions: affirmations and denials which assert or deny possibility or contingency, impossibility or necessity.
+
+Chapter 13. The relation between such propositions. Logical consequences follow from this arrangement. For example, from the proposition 'it is possible' it follows that it is contingent, that it is not impossible, or from the proposition 'it cannot be the case' there follows 'it is necessarily not the case'.
+
+Chapter 14. Is there an affirmative proposition corresponding to every denial? For example, is the proposition 'every man is unjust' an affirmation (since it seems to affirm being unjust of every man) or is it merely a negative (since it denies justice).
+
 ---
 
+https://en.wikipedia.org/wiki/Prior_Analytics
+
 - The Prior Analytics (Latin: Analytica Priora) introduces his syllogistic method (see term logic), argues for its correctness, and discusses inductive inference.
+
+Syllogism: "A deduction in a discourse in which, certain things being supposed, something different from the things supposed results of necessity because these things are so."
+
+A syllogism is an argument that consists of at least three sentences: at least two premises and a conclusion.
+
+Each proposition (statement that is a thought of the kind expressible by a declarative sentence) of a syllogism is a categorical sentence which has a subject and a predicate connected by a verb.
+
+There are four different types of categorical sentences: universal affirmative (A), particular affirmative (I), universal negative (E) and particular negative (O).
+
+A method of symbolization that originated and was used in the Middle Ages greatly simplifies the study of the Prior Analytics. Following this tradition then, let:
+
+- a = belongs to every
+- e = belongs to no
+- i = belongs to some
+- o = does not belong to some
+
+Categorical sentences may then be abbreviated as follows:
+
+- AaB = A belongs to every B (Every B is A)
+- AeB = A belongs to no B (No B is A)
+- AiB = A belongs to some B (Some B is A)
+- AoB = A does not belong to some B (Some B is not A)
+
+Syllogism in the first figure
+
+Predicate — Subject
+
+                First figure        Second figure       Third figure
+                Predicate — Subject Predicate — Subject Predicate — Subject
+Major premise   A ------------ B    B ------------ A    A ------------ B
+Minor premise   B ------------ C    B ------------ C    C ------------ B
+Conclusion      A ********** C      A ********** C      A ********** C
+
+If the Middle Term is subject of one premise and predicate of the other, the premises are in the First Figure. If the Middle Term is predicate of both premises, the premises are in the Second Figure. If the Middle Term is subject of both premises, the premises are in the Third Figure.
+
+a = is predicated of all = is predicated of every:
+
+If AaB
+and BaC
+then AaC.
+
+AaB, BaC; therefore, AaC
+AeB, BaC; therefore, AeC
+AaB, BiC; therefore, AiC
+AeB, BiC; therefore, AoC
+
+Boole’s goals were “to go under, over, and beyond” Aristotle’s logic by 1) providing it with mathematical foundations involving equations, 2) extending the class of problems it could treat—from assessing validity to solving equations--, and 3) expanding the range of applications it could handle—e.g. from propositions having only two terms to those having arbitrarily many.
+
+Boole reduced the four propositional forms of Aristotle's logic to formulas in the form of equations—-by itself a revolutionary idea.
+
+Boole’s addition of equation solving to logic—-another revolutionary idea—-involved Boole’s doctrine that Aristotle’s rules of inference (the “perfect syllogisms”) must be supplemented by rules for equation solving.
+
+Boole’s system could handle multi-term propositions and arguments whereas Aristotle could handle only two-termed subject-predicate propositions and arguments.
+
 
 ---
 
 - The Posterior Analytics (Latin: Analytica Posteriora) deals with demonstration, definition, and scientific knowledge.
 
+- *All demonstration must be founded on principles already know*. The principles on which it is founded must either themselves be demonstrable, or be so-called first principles, which cannot be demonstrated, nor need to be, being evident in themselves ("nota per se").
+- *We cannot demonstrate things in a circular way*, supporting the conclusion by the premises, and the premises by the conclusion. Nor can there be an infinite number of middle terms between the first principle and the conclusion.
+- *In all demonstration, the first principles, the conclusion, and all the intermediate propositions, must be necessary, general and eternal truths*. Of things that happen by chance, or contingently, or which can change, or of individual things, there is no demonstration.
+- Some demonstrations prove only that the things are a certain way, rather than why they are so. The latter are the most perfect.
+- The first figure of the syllogism (see term logic for an outline of syllogistic theory) is best adapted to demonstration, because it affords conclusions universally affirmative. This figure is commonly used by mathematicians.
+- The demonstration of an affirmative proposition is preferable to that of a negative; the demonstration of a universal to that of a particular; and direct demonstration to a reductio ad absurdum.
+- The principles are more certain than the conclusion.
+- There cannot be both opinion and knowledge of the same thing at the same time.
+
+The second book Aristotle starts with a remarkable statement, the kinds of things determine the kinds of questions, which are four:
+
+1. Whether the relation of a property (attribute) with a thing is a true fact.
+2. What is the reason of this connection.
+3. Whether a thing exists.
+4. What is the nature and meaning of the thing.
+
+He concludes the book with the way the human mind comes to know the basic truths or primary premises or first principles, which are not innate, because people may be ignorant of them for much of their lives.
+
+**Nor can they be deduced from any previous knowledge, or they would not be first principles.**
+
+He states that first principles are derived by induction, from the sense-perception implanting the true universals in the human mind. From this idea comes the scholastic maxim "there is nothing in the understanding which was not prior in the senses".
+
+**Of all types of thinking, scientific knowing and intuition are considered as only universally true, where the latter is the originative source of scientific knowledge.**
+
 ---
 
 - The Topics (Latin: Topica) treats issues in constructing valid arguments, and inference that is probable, rather than certain. It is in this treatise that Aristotle mentions the Predicables, later discussed by Porphyry and the scholastic logicians.
 
+In his treatise on the Topics, Aristotle does not explicitly define a topos, though it is "at least primarily a strategy for argument not infrequently justified or explained by a principle."
+
+He characterises it in the Rhetoric thus: "I call the same thing element and topos; for an element or a topos is a heading under which many enthymemes fall".
+
+By element, he means a general form under which enthymemes of the same type can be included. Thus, the topos is a general argument source, from which the individual arguments are instances, and is a sort of template from which many individual arguments can be constructed. The word τόπος (tópos, literally "place, location") is also related to the ancient memory method of "loci", by which things to be remembered are recollected by mentally connecting them with successive real or imagined places.
+
+How topics relate to Aristotle's theory of the syllogism
+
+Though the Topics, as a whole, does not deal directly with the "forms of syllogism", clearly Aristotle contemplates the use of topics as places from which dialectical syllogisms (i.e. arguments from the commonly held ἔνδοξα) may be derived.
+
+This is evidenced by the fact that the introduction to the Topics contains and relies upon his definition of reasoning (συλλογισμός, syllogismós): a verbal expression (λόγος, lógos) in which, certain things having been laid down, other things necessarily follow from these.
+
+Dialectical reasoning is thereafter divided by Aristotle into inductive and deductive parts.
+
+Division of the text
+
+Book I of the Topics is introductory, laying down a number of preliminary principles upon which dialectical argumentation proceeds. After defining dialectical reasoning (syllogism) and distinguishing it from demonstrative, contentious, and (one might say) "pseudo-scientific" syllogism, Aristotle notes the utility of the art of dialectic, then sets out four bases (accident, property, genus, definition) from which invention of such reasoning proceeds.
+
+He next elucidates various senses of "sameness", as bearing directly upon the usual character of such arguments.
+
+Dialectical propositions and dialectical problems are characterized. Then, the ὄργανα (órgana) or means by which arguments may be obtained are described, in a four-fold summary, as:
+
+1. the provision of propositions
+2. discovery of the number of senses of a term
+3. the discovery of differences
+4. the investigation of similarities
+
 ---
 
 - The Sophistical Refutations (Latin: De Sophisticis Elenchis) gives a treatment of logical fallacies, and provides a key link to Aristotle's work on rhetoric.
+
+At the end of the text he also claims to be the first thinker to treat the subject of deduction.
+
+Fallacies in the language
+
+1. Equivocation (to call by the same name): is an informal logical fallacy. It is the misleading use of a term with more than one meaning or sense (by glossing over which meaning is intended at a particular time). It generally occurs with polysemic words (words with multiple meanings).
+2. Amphibology (Syntactic ambiguity): is a situation where a sentence may be interpreted in more than one way due to ambiguous sentence structure.
+3. Composition (Fallacy of composition): arises when one infers that something is true of the whole from the fact that it is true of some part of the whole (or even of every proper part).
+4. Division (Fallacy of division): occurs when one reasons logically that something true for the whole must also be true of all or some of its parts.
+
+If a system as a whole has some property that none of its constituents has (or perhaps, it has it but not as a result of some constituent having that property), this is sometimes called an emergent property of the system.
+
+5. Accent (fallacy of accent): is a specific type of ambiguity that arises when the meaning of a sentence is changed by placing an unusual prosodic stress (emphasis on a word), or when, in a written passage, it's left unclear which word the emphasis was supposed to fall on.
+
+I didn't take the test yesterday. (Somebody else did.)
+I didn't take the test yesterday. (I did not take it.)
+I didn't take the test yesterday. (I did something else with it.)
+I didn't take the test yesterday. (I took a different one.)
+I didn't take the test yesterday. (I took something else.)
+I didn't take the test yesterday. (I took it some other day.)
+
+6. Figure of speech or form of expression: is figurative language in the form of a single word or phrase. It can be a special repetition, arrangement or omission of words with literal meaning, or a phrase with a specialized meaning not based on the literal meaning of the words. words.
+
+There are mainly five figures of speech: simile, metaphor, hyperbole, personification and synecdoche. Figures of speech often provide emphasis, freshness of expression, or clarity. However, clarity may also suffer from their use, as any figure of speech introduces an ambiguity between literal and figurative interpretation.
+
+The four fundamental operations, or categories of change, governing the formation of all figures of speech are:
+
+- addition (adiectio), also called repetition/expansion/superabundance
+- omission (detractio), also called subtraction/abridgement/lack
+- transposition (transmutatio), also called transferring
+- permutation (immutatio), also called switching/interchange/substitution/transmutation
+
+Fallacies not in the language
+
+7. Accident (informal fallacy of accident or destroying the exception): is a deductively valid but unsound argument occurring in statistical syllogisms (an argument based on a generalization) when an exception to a rule of thumb is ignored.
+
+For example:
+
+- Cutting people with knives is a crime. →
+- Surgeons cut people with knives. →
+- Surgeons are criminals.
+
+8. Secundum quid ("[what is true] in a certain respect and [what is true] absolutely"): is a type of informal fallacy that occurs when the arguer fails to recognize the difference between rules of thumb (soft generalizations, heuristics that hold true as a general rule but leave room for exceptions) and categorical propositions, rules that hold true universally.
+
+Since it ignores the limits, or qualifications, of rules of thumb, this fallacy is also named ignoring qualifications. The expression misuse of a principle can be used as well.
+
+9. Irrelevant conclusion: is the informal fallacy of presenting an argument that may or may not be logically valid, but fails nonetheless to address the issue in question. More colloquially, it is also known as missing the point.
+10. Begging the question: means to assume the conclusion of an argument — a type of circular reasoning. An arguer includes the conclusion to be proven within a premise of the argument, often in an indirect way such that its presence within the premise is hidden or at least not easily apparent.
+
+Usages are often criticized as being mistaken.
+
+11. False cause (also known as causal fallacy, false cause, or non causa pro causa): is a category of informal fallacies in which a cause is incorrectly identified.
+
+Causality (also referred to as 'causation',[1] or 'cause and effect') is the agency or efficacy that connects one process (the cause) with another (the effect), where the first is understood to be partly responsible for the second, and the second is dependent on the first.
+
+Cause and effect. If the cause is incorrectly identified it is a False cause.
+
+12. Affirming the consequent (converse error, fallacy of the converse or confusion of necessity and sufficiency): is a formal fallacy of inferring the converse from the original statement.
+
+If Bill Gates owns Fort Knox, then he is rich.
+Bill Gates is rich.
+Therefore, Bill Gates owns Fort Knox.
+
+13. Fallacy of many questions (complex question, trick question, multiple question or plurium interrogationum): is a question that has a presupposition that is complex. The presupposition is a proposition that is presumed to be acceptable to the respondent when the question is asked. The respondent becomes committed to this proposition when he gives any direct answer.
+
+Complex questions can but do not have to be fallacious, as in being an informal fallacy.
